@@ -310,6 +310,11 @@ BROAD_FEEDS = [
     ("Google News — Hotfix 2026",       "https://news.google.com/rss/search?q=%22hotfix%22+game+2026&hl=en-US&gl=US&ceid=US:en"),
     ("Google News — Balance Update",    "https://news.google.com/rss/search?q=%22balance+update%22+game&hl=en-US&gl=US&ceid=US:en"),
     ("Google News — Season Update",     "https://news.google.com/rss/search?q=%22season+update%22+game+2026&hl=en-US&gl=US&ceid=US:en"),
+    # User-defined broad sweep (mirrors google.com/search?q=patch+notes+and+firmware+updates+for+gaming&tbm=nws&tbs=qdr:d,sbd:1)
+    ("Google News — Patch+Firmware 1d", "https://news.google.com/rss/search?q=patch+notes+firmware+updates+gaming+when%3A1d&hl=en-US&gl=US&ceid=US:en"),
+    ("Google News — Game Update 1d",    "https://news.google.com/rss/search?q=%22game+update%22+OR+%22patch+notes%22+OR+%22firmware+update%22+gaming+when%3A1d&hl=en-US&gl=US&ceid=US:en"),
+    ("Google News — Hotfix 1d",         "https://news.google.com/rss/search?q=%22hotfix%22+OR+%22hot+fix%22+gaming+when%3A1d&hl=en-US&gl=US&ceid=US:en"),
+    ("Google News — Driver Update 1d",  "https://news.google.com/rss/search?q=%22driver+update%22+OR+%22firmware+update%22+gaming+when%3A1d&hl=en-US&gl=US&ceid=US:en"),
 ]
 
 # ── Aggregation ────────────────────────────────────────────────────────────────
