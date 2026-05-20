@@ -212,7 +212,6 @@ PRESS_PATCH_FEEDS = [
     ("VG247 — Patch Notes",             "https://www.vg247.com/tag/patch-notes/feed/"),
     ("GamesRadar — Patch Notes",        "https://www.gamesradar.com/tag/patch-notes/feed/"),
     ("Destructoid — Patch Notes",       "https://www.destructoid.com/tag/patch-notes/feed/"),
-    ("Dexerto — Updates",               "https://www.dexerto.com/gaming/feed/"),
     ("Push Square — Updates",           "https://www.pushsquare.com/news/patches/feed/"),
     ("Nintendo Life — Updates",         "https://www.nintendolife.com/news/patches/feed/"),
     ("Pure Xbox — Updates",             "https://www.purexbox.com/news/patches/feed/"),
@@ -359,6 +358,13 @@ for name, url in OFFICIAL_FEEDS:
 print("\n=== Tier 3: Press Patch-Note Tags ===")
 for name, url in PRESS_PATCH_FEEDS:
     add_items(name, url, keyword_filter=False)
+
+# Broad gaming outlets that lack a patch-notes tag — keyword filtered
+print("\n=== Tier 3b: Broad Gaming Outlets (keyword filtered) ===")
+for name, url in [
+    ("Dexerto — Gaming",  "https://www.dexerto.com/gaming/feed/"),
+]:
+    add_items(name, url, keyword_filter=True)
 
 print("\n=== Tier 4a: GPU Driver Feeds ===")
 for name, url in GPU_DRIVER_FEEDS:
