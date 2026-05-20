@@ -218,13 +218,13 @@ PRESS_PATCH_FEEDS = [
     ("Pure Xbox — Updates",             "https://www.purexbox.com/news/patches/feed/"),
 ]
 
-# ── Tier 4a: GPU driver feeds (tech press + Google News) ──────────────────────
+# ── Tier 4a: GPU driver feeds (targeted Google News only — no broad tech feeds) ─
 GPU_DRIVER_FEEDS = [
-    ("TechPowerUp — GPU News",          "https://www.techpowerup.com/rss/news.xml"),
-    ("Tom's Hardware — All",            "https://www.tomshardware.com/feeds/all"),
     ("Google News — NVIDIA Driver",     "https://news.google.com/rss/search?q=NVIDIA+GeForce+%22Game+Ready+Driver%22+release&hl=en-US&gl=US&ceid=US:en"),
+    ("Google News — NVIDIA Studio",     "https://news.google.com/rss/search?q=NVIDIA+%22Studio+Driver%22+release&hl=en-US&gl=US&ceid=US:en"),
     ("Google News — AMD Driver",        "https://news.google.com/rss/search?q=AMD+Radeon+%22Adrenalin%22+driver+release&hl=en-US&gl=US&ceid=US:en"),
     ("Google News — Intel Arc Driver",  "https://news.google.com/rss/search?q=Intel+Arc+graphics+driver+release&hl=en-US&gl=US&ceid=US:en"),
+    ("TechPowerUp — GPU Drivers",       "https://www.techpowerup.com/rss/news.xml"),
 ]
 
 # ── Tier 4b: Console & PC handheld firmware (Google News) ─────────────────────
@@ -357,7 +357,9 @@ for name, url in PRESS_PATCH_FEEDS:
 
 print("\n=== Tier 4a: GPU Driver Feeds ===")
 for name, url in GPU_DRIVER_FEEDS:
-    add_items(name, url, keyword_filter=False)
+    # TechPowerUp is broad — apply keyword filter; Google News queries are targeted
+    kf = "techpowerup" in url.lower()
+    add_items(name, url, keyword_filter=kf)
 
 print("\n=== Tier 4b: Console & PC Handheld Firmware ===")
 for name, url in CONSOLE_FIRMWARE_FEEDS:
