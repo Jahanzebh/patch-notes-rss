@@ -2,7 +2,7 @@ name: Update Patch Notes RSS Feed
 
 on:
   schedule:
-    - cron: '0 */4 * * *'
+    - cron: '30 0,3,6,9,12,15,18,21 * * *'
   workflow_dispatch:
 
 permissions:
