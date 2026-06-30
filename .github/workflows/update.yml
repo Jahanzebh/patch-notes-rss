@@ -2,7 +2,8 @@ name: Update Patch Notes RSS Feed
 
 on:
   schedule:
-    - cron: '30 0,3,6,9,12,15,18,21 * * *'
+    # Every 8h: 00:00, 08:00, 16:00 UTC — ensures n8n always has a fresh feed
+    - cron: '0 */8 * * *'
   workflow_dispatch:
 
 permissions:
@@ -20,17 +21,22 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install feedparser
+        run: pip install feedparser requests beautifulsoup4
 
-      - name: Run aggregator
-        run: python merge.py
+      - name: Run patch notes checker
+        run: python check_patches.py
+        env:
+          # N8N_API_KEY is set as a GitHub repo secret
+          # Add it at: Settings → Secrets and variables → Actions → New repository secret
+          # Name: N8N_API_KEY  Value: your n8n API key from https://n8n.jayrespawns.com/home/settings/api
+          N8N_API_KEY: ${{ secrets.N8N_API_KEY }}
 
-      - name: Commit feed.xml
+      - name: Commit feed.xml and state
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
-          git add feed.xml
-          git diff --cached --quiet || git commit -m "Update patch notes feed"
+          git add feed.xml last_seen.json
+          git diff --cached --quiet || git commit -m "Update patch notes feed $(date -u '+%Y-%m-%d')"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
