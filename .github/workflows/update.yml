@@ -2,8 +2,8 @@ name: Update Patch Notes RSS Feed
 
 on:
   schedule:
-    # 08:00 UTC daily — runs before n8n's 11:40 AM UTC schedule, giving n8n a fresh feed
-    - cron: '0 8 * * *'
+    # Every 8h: 00:00, 08:00, 16:00 UTC — ensures n8n always has a fresh feed
+    - cron: '0 */8 * * *'
   workflow_dispatch:
 
 permissions:
