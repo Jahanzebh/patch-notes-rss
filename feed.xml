@@ -4,8 +4,16 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Thu, 02 Jul 2026 10:39:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 17:47:30 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apex Legends: Latest Update 7/2/2026</title>
+      <link>https://store.steampowered.com/news/app/1172470/view/688635449342693395</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/688635449342693395</guid>
+      <pubDate>Thu, 02 Jul 2026 17:35:33 +0000</pubDate>
+      <category>Apex Legends</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;b&gt;FIXED:&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We just pushed a fix that should mitigate lingering FPS issues resulting from hardware-specific issues on some PCs since the beginning of the split. Your gameplay experience should be much smoother now.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Store Update 10.14.0</title>
       <link>https://store.steampowered.com/news/app/2073850/view/677376450273218198</link>
@@ -93,6 +101,22 @@
       <pubDate>Tue, 30 Jun 2026 07:00:17 +0000</pubDate>
       <category>The First Descendant</category>
       <description>&lt;div class="bb_h3"&gt;&lt;b&gt;Greetings, Descendants!&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;p class="bb_paragraph"&gt;We would like to inform you about the schedule for this week’s Patch 1.3.33.&lt;/p&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;■ Patch Schedule&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Scheduled for PDT 2026.07.02(Thu) 00:00&lt;/p&gt;&lt;p class="bb_paragraph"&gt;※ The schedule is subject to change, and details will be provided in a separate Patch Note.&lt;/p&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;p class="bb_pa</description>
+    </item>
+    <item>
+      <title>COMMON GROUND</title>
+      <link>https://store.steampowered.com/news/app/252490/view/679628250084806242</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/252490/view/679628250084806242</guid>
+      <pubDate>Thu, 02 Jul 2026 17:44:21 +0000</pubDate>
+      <category>Rust</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;APARTMENT COMPLEX&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;The apartment complex is a new monument that allows players getting started with a wipe to find a place to call home. Simply talk to the receptionist in the lobby to get started and rent a room.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img src="https://files.facepunch.com/kaantasan/1b0111b1/rust_apartment_complex_1080-7.jpg style=box-sizing: inherit; cursor: pointer; box-shadow: rgba(0, 0</description>
+    </item>
+    <item>
+      <title>PUBG Saturday Custom Games return this weekend!</title>
+      <link>https://store.steampowered.com/news/app/578080/view/708901647665860448</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/578080/view/708901647665860448</guid>
+      <pubDate>Thu, 02 Jul 2026 14:49:47 +0000</pubDate>
+      <category>PUBG: BATTLEGROUNDS</category>
+      <description>&lt;p class="bb_paragraph"&gt;The next edition of &lt;b&gt;PUBG Saturday Custom Games&lt;/b&gt; is happening this &lt;b&gt;Saturday, July 4th at 20:00 CEST&lt;/b&gt;, bringing the community together once again for custom matches, creator co-streams, and G-Coin giveaways.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Tune in live on Twitch:&lt;/b&gt; &lt;/p&gt;&lt;p class="bb_paragraph"&gt;Join the games, squad up with the community, and follow the broadcast for your chance to win rewards throughout the event.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"</description>
     </item>
     <item>
       <title>Update 2.57.0.32 — Sound Mods Available</title>
@@ -207,34 +231,10 @@
       <description>&lt;p class="bb_paragraph"&gt;&lt;b&gt;◈ Update version:&lt;/b&gt;&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Windows: v1.0.6.2043&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Mac: v1.0.6.699&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;◈ Update Content:&lt;/b&gt;&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Game improvements&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Bug fixes&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;&lt;u&gt;For “In the Jungle” Content Pack owners&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;System Imp</description>
     </item>
     <item>
-      <title>V3.0.0 Dead Hot Summer Stable Release Live!</title>
-      <link>https://store.steampowered.com/news/app/251570/view/670621050832160050</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/251570/view/670621050832160050</guid>
-      <pubDate>Mon, 29 Jun 2026 17:07:21 +0000</pubDate>
-      <category>7 Days to Die</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/5383109/707832064614a67a6a030286320c53210059c8b9.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Hello Survivors!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;The Dead Hot Summer 3.0 Stable Build is out now! Big thanks to everyone who participated in the Experimental phase and took the time to share feedback and help us on the road to release.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2F7</description>
-    </item>
-    <item>
-      <title>Update 2.57.0.25</title>
-      <link>https://store.steampowered.com/news/app/236390/view/705524237917487261</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/705524237917487261</guid>
-      <pubDate>Mon, 29 Jun 2026 15:18:21 +0000</pubDate>
-      <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/d597c5eeb04245074c224a000d292333870f2ee3.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Aircraft&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;A bug where performance dropped significantly when the radar was turned on has been fixed. (&lt;b&gt;&lt;u&gt;&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fcommunity.gaijin.net%2Fissues%2Fp%2Fwarthunder%2Fi%2FqyVyKukwkwYC" rel=" noopener" target="_blank"&gt;</description>
-    </item>
-    <item>
-      <title>Tank Football 2026!</title>
-      <link>https://store.steampowered.com/news/app/236390/view/705524237917487207</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/705524237917487207</guid>
-      <pubDate>Mon, 29 Jun 2026 11:47:10 +0000</pubDate>
-      <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/5195ce8ac29fb954e5c0657f6370619c174e53ce.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;The World Cup is in full swing, teams are playing their best, fans are fired up, and emotions are running high! Unleash your inner footballer in War Thunder, as we’re bringing back Tank Football with a new set of rewards, a league system, and a new player profile showcase so seasoned players can show off their football achievements.&lt;/p&gt;&lt;</description>
-    </item>
-    <item>
       <title>News ArticleJune 4, 2026Season 8 &amp; Festival of Football: Path to Glory in Football Ultimate Team™ - EA SPORTS</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/festival-of-football-path-to-glory</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/festival-of-football-path-to-glory</guid>
-      <pubDate>Thu, 02 Jul 2026 10:39:34 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:47:30 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -242,7 +242,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Thu, 02 Jul 2026 10:39:34 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:47:30 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -250,7 +250,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Thu, 02 Jul 2026 10:39:34 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:47:30 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -258,9 +258,17 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Thu, 02 Jul 2026 10:39:34 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 17:47:30 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
+    </item>
+    <item>
+      <title>The Thieves Guild Returns in a New Season One Questline</title>
+      <link>https://store.steampowered.com/news/app/306130/view/689761349249535648</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/306130/view/689761349249535648</guid>
+      <pubDate>Thu, 02 Jul 2026 16:19:44 +0000</pubDate>
+      <category>Elder Scrolls Online</category>
+      <description>&lt;img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2026/07/1ad16efdb0ed1cfab72fb0abc2480571.jpg" /&gt;                                                                                     &lt;br /&gt;&lt;i&gt;Scope out the new Thieves Guild quest and storyline, coming soon as part of Season One. &lt;/i&gt;&lt;br /&gt; &lt;br /&gt;With the launch of Season One on July 8, all &lt;i&gt;ESO&lt;/i&gt; players can discover a new story and questline featuring the return of the beloved Thieves Guild. Previously found in Hew’s Bane*, the guild</description>
     </item>
     <item>
       <title>Steal a Look at Season One’s Tamriel Tome Rewards</title>
@@ -277,6 +285,14 @@
       <pubDate>Tue, 30 Jun 2026 15:34:51 +0000</pubDate>
       <category>Elder Scrolls Online</category>
       <description>&lt;img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2026/06/6cd4010dd371fc0390181e8a49e8613d.jpg" /&gt;                                                                                    &lt;br /&gt;&lt;i&gt;Prepare for brand-new adventures and more with the arrival of Season One this July!&lt;/i&gt;&lt;br /&gt;                                                                                                                                                                                                                 </description>
+    </item>
+    <item>
+      <title>Phasmophobia Quality of Life Update Preview</title>
+      <link>https://store.steampowered.com/news/app/739630/view/708901647665860437</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/739630/view/708901647665860437</guid>
+      <pubDate>Thu, 02 Jul 2026 14:09:07 +0000</pubDate>
+      <category>Phasmophobia</category>
+      <description>&lt;p class="bb_paragraph"&gt;Welcome back, Ghost Hunters.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Today we’re going to give you more detail on the upcoming Quality of Life update launching alongside the 13 Willow Street rework on July 21st, 2026.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;As mentioned in &lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.kineticgames.co.uk%2Fnews%2Fphasmophobia-2026-and-beyond" rel=" noopener" target="_blank</description>
     </item>
   </channel>
 </rss>
