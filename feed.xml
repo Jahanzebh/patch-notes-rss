@@ -4,7 +4,7 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Fri, 03 Jul 2026 02:54:21 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 10:35:24 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Apex Legends: Latest Update 7/2/2026 3:15PM PT</title>
@@ -36,7 +36,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/2073850/view/677376450273218198</guid>
       <pubDate>Thu, 02 Jul 2026 10:00:25 +0000</pubDate>
       <category>THE FINALS</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/42849803/e87a50b27e7f9ff7daa012dc3809489427b4f6ec.png" /&gt;&lt;b&gt;READY FOR DEPARTURE&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Welcome to Season 10’s last update!&lt;br /&gt;Sponsor Showdown is almost over, the Store got refreshed and XP Feast is still live to help you finish these last Battle Pass pages. In the meantime, &lt;b&gt;Season 11 is right around the corner&lt;/b&gt;, and we can’t wait to start sharing more very, very &lt;i&gt;soon™&lt;/i&gt;&lt;/p&gt;&lt;hr /&gt;&lt;di</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/42849803/e87a50b27e7f9ff7daa012dc3809489427b4f6ec.png" /&gt;&lt;b&gt;READY FOR DEPARTURE&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Welcome to Season 10’s last update!&lt;br /&gt;Sponsor Showdown is almost over, the Store got refreshed and XP Feast is still live to help you finish these last Battle Pass pages. In the meantime, &lt;b&gt;Season 11 is right around the corner&lt;/b&gt;, and we can’t wait to start sharing more very, very &lt;i&gt;soon™&lt;/i&gt;&lt;/p&gt;&lt;hr /&gt;&lt;di</description>
     </item>
     <item>
       <title>Summary of the July 2 (Thu) 2nd Anniversary Descendant Fest Broadcast</title>
@@ -111,12 +111,28 @@
       <description>&lt;p class="bb_paragraph"&gt;We’re deploying a hotfix specifically for console and Linux/Steam Deck players. This update primarily addresses a controller responsiveness issue, while also bringing over a few fixes that were previously released for desktop players.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Addressed a reported issue where the controller could lose functionality when choosing an Enhancer Belief. &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Addressed a reported</description>
     </item>
     <item>
-      <title>Patch 1.3.33 Schedule for July 2 (Thu)</title>
-      <link>https://store.steampowered.com/news/app/2074920/view/719034746827442007</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/2074920/view/719034746827442007</guid>
-      <pubDate>Tue, 30 Jun 2026 07:00:17 +0000</pubDate>
-      <category>The First Descendant</category>
-      <description>&lt;div class="bb_h3"&gt;&lt;b&gt;Greetings, Descendants!&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;p class="bb_paragraph"&gt;We would like to inform you about the schedule for this week’s Patch 1.3.33.&lt;/p&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;■ Patch Schedule&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Scheduled for PDT 2026.07.02(Thu) 00:00&lt;/p&gt;&lt;p class="bb_paragraph"&gt;※ The schedule is subject to change, and details will be provided in a separate Patch Note.&lt;/p&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;p class="bb_pa</description>
+      <title>Update 2.57.0.35</title>
+      <link>https://store.steampowered.com/news/app/236390/view/705524237917489692</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/705524237917489692</guid>
+      <pubDate>Fri, 03 Jul 2026 06:28:04 +0000</pubDate>
+      <category>War Thunder</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/c97ddb7f2fb998100b0bfdfb781395b9409a78f1.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Nuclear Escalation&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;The “Red” team’s Buk-M3 air defense system has been replaced with the S-300 air defense system.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Locations and Missions&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;&lt;</description>
+    </item>
+    <item>
+      <title>7/3 Hotfix</title>
+      <link>https://store.steampowered.com/news/app/1868140/view/673998750553739015</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1868140/view/673998750553739015</guid>
+      <pubDate>Fri, 03 Jul 2026 05:15:38 +0000</pubDate>
+      <category>DAVE THE DIVER</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;b&gt;◈ Update version:&lt;/b&gt;&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Windows: v1.0.6.2048&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Mac: v1.0.6.705&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;◈ Update Content:&lt;/b&gt;&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Game improvements&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Bug fixes&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;&lt;u&gt;For “In the Jungle” Content Pack owners&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;System Imp</description>
+    </item>
+    <item>
+      <title>Beta Patch Notes - v0.108.0</title>
+      <link>https://store.steampowered.com/news/app/2868840/view/688635449342693610</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/2868840/view/688635449342693610</guid>
+      <pubDate>Fri, 03 Jul 2026 03:26:13 +0000</pubDate>
+      <category>Slay the Spire 2</category>
+      <description>For all you beta testers who have been chomping at the bit for a new patch to chew on... here it is! Today's beta patch brings a ton of fixes, balance changes, some UX additions, a BIG batch of new multiplayer cards, and new art additions--including some animations for the latest boss, Aeonglass!&lt;br /&gt;&lt;br /&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/44971832/469e5b0ea6846f4009611dc50e8af071021b67ec.gif" /&gt;&lt;br /&gt;&lt;br /&gt;We've also got some big updates in the modding realm to call out...&lt;b</description>
     </item>
     <item>
       <title>COMMON GROUND</title>
@@ -140,7 +156,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/705524237917489650</guid>
       <pubDate>Thu, 02 Jul 2026 09:51:20 +0000</pubDate>
       <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/96b89ce3258e67f462babb082650034551793445.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Sound Mods&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Sound mods can once again be used. If a sound mod stops working during a battle, you’ll see a warning the next time you launch the client. We’re continuing to refine the criteria for detecting sound mod issues, so if you are certain your mod does </description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/96b89ce3258e67f462babb082650034551793445.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Sound Mods&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Sound mods can once again be used. If a sound mod stops working during a battle, you’ll see a warning the next time you launch the client. We’re continuing to refine the criteria for detecting sound mod issues, so if you are certain your mod does </description>
     </item>
     <item>
       <title>Minor Update - 07-01-2026</title>
@@ -156,7 +172,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/705524237917489289</guid>
       <pubDate>Wed, 01 Jul 2026 15:26:20 +0000</pubDate>
       <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/c1d7a890a5a1f8d1a783eae68f495e5af545411f.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Aircraft&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;The precision and smoothness of the vehicle’s motion in the Bomb/Missile Camera View have been improved.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;The ESM functionality has been temporarily limited to ground targets only. We plan to revise and return the </description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/c1d7a890a5a1f8d1a783eae68f495e5af545411f.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Aircraft&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;The precision and smoothness of the vehicle’s motion in the Bomb/Missile Camera View have been improved.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;The ESM functionality has been temporarily limited to ground targets only. We plan to revise and return the </description>
     </item>
     <item>
       <title>Summer Custom Camouflage Contest on WT Live</title>
@@ -164,7 +180,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/705524237917489440</guid>
       <pubDate>Wed, 01 Jul 2026 14:39:00 +0000</pubDate>
       <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/15ffd4c701bb4c4648c90918efbb3d1027162b17.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Today we’re kicking off our summer contest for WT Live camouflage creators! You can take part from July 1st until August 15th.&lt;/p&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;p class="bb_paragraph"&gt;This is the first contest in a new series that will run regularly. This time we’ve got 10 prize places, so newcomers have just a</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/15ffd4c701bb4c4648c90918efbb3d1027162b17.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Today we’re kicking off our summer contest for WT Live camouflage creators! You can take part from July 1st until August 15th.&lt;/p&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;p class="bb_paragraph"&gt;This is the first contest in a new series that will run regularly. This time we’ve got 10 prize places, so newcomers have just a</description>
     </item>
     <item>
       <title>1.29 Road to Badlands Experimental Release</title>
@@ -228,7 +244,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/705524237917488474</guid>
       <pubDate>Tue, 30 Jun 2026 13:44:09 +0000</pubDate>
       <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/a289ff88ba7c7167c0fc15bca123edd708117c48.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Aircraft&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;A bug where the brake parachute would not deploy when landing at airfields has been fixed. (&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fcommunity.gaijin.net%2Fissues%2Fp%2Fwarthunder%2Fi%2FQXsqUa3eJgjc" rel=" noop</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/a289ff88ba7c7167c0fc15bca123edd708117c48.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Aircraft&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;A bug where the brake parachute would not deploy when landing at airfields has been fixed. (&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fcommunity.gaijin.net%2Fissues%2Fp%2Fwarthunder%2Fi%2FQXsqUa3eJgjc" rel=" noop</description>
     </item>
     <item>
       <title>Thunder at our Gates | Patch 1.19.2</title>
@@ -239,18 +255,10 @@
       <description>Generals!&lt;br /&gt;&lt;br /&gt;Today marks the last pre-summer patch with fixes and tweaks to Thunder At Our Gates. After this the team will have limited presence in the office for the summer period.&lt;br /&gt;&lt;br /&gt;We know that this patch does not hit all the sought after balance changes but for that we’d like to refer to you a new Open Beta that we will be running over summer that will address some of those issues.&lt;br /&gt;&lt;br /&gt;For now, be fully immersed in the rumble in the jungle with the summer heat seeping</description>
     </item>
     <item>
-      <title>6/30 Hotfix</title>
-      <link>https://store.steampowered.com/news/app/1868140/view/673998750553736833</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1868140/view/673998750553736833</guid>
-      <pubDate>Tue, 30 Jun 2026 10:01:19 +0000</pubDate>
-      <category>DAVE THE DIVER</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;b&gt;◈ Update version:&lt;/b&gt;&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Windows: v1.0.6.2043&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Mac: v1.0.6.699&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;◈ Update Content:&lt;/b&gt;&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Game improvements&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Bug fixes&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;&lt;u&gt;For “In the Jungle” Content Pack owners&lt;/u&gt;&lt;/b&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;System Imp</description>
-    </item>
-    <item>
       <title>News ArticleJune 4, 2026Season 8 &amp; Festival of Football: Path to Glory in Football Ultimate Team™ - EA SPORTS</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/festival-of-football-path-to-glory</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/festival-of-football-path-to-glory</guid>
-      <pubDate>Fri, 03 Jul 2026 02:54:21 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 10:35:24 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -258,7 +266,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Fri, 03 Jul 2026 02:54:21 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 10:35:24 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -266,7 +274,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Fri, 03 Jul 2026 02:54:21 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 10:35:24 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -274,7 +282,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Fri, 03 Jul 2026 02:54:21 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 10:35:24 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
