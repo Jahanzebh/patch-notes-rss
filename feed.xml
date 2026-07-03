@@ -4,8 +4,24 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Thu, 02 Jul 2026 17:47:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 02:54:21 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apex Legends: Latest Update 7/2/2026 3:15PM PT</title>
+      <link>https://store.steampowered.com/news/app/1172470/view/688635449342693454</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/688635449342693454</guid>
+      <pubDate>Thu, 02 Jul 2026 22:14:49 +0000</pubDate>
+      <category>Apex Legends</category>
+      <description>&lt;p class="bb_paragraph"&gt;Hi all, just pushed a couple more fixes.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;FIXED:&lt;/b&gt;&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Octane's jump pads will no longer bounce unintended objects (thank you for making the most of this bug with firing range clips, they made us chuckle).&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Made adjustments to further improve recent FPS fixes.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>0.5.4b Patch Notes</title>
+      <link>https://store.steampowered.com/news/app/2694490/view/690887249156378410</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/2694490/view/690887249156378410</guid>
+      <pubDate>Thu, 02 Jul 2026 22:00:25 +0000</pubDate>
+      <category>Path of Exile 2</category>
+      <description>&lt;div class="bb_h3"&gt;0.5.4b Patch Notes&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Boss Improvements&lt;/b&gt;&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Removed a majority of the stun and freeze immunity windows from all versions of the Tor Gul, the Defiler boss fight.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Improved the Minion Phase in the Tasgul, Swallower of Light fight.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed a bug where It That Was Esh could sometimes fail to advance phases properly.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class</description>
+    </item>
     <item>
       <title>Apex Legends: Latest Update 7/2/2026</title>
       <link>https://store.steampowered.com/news/app/1172470/view/688635449342693395</link>
@@ -234,7 +250,7 @@
       <title>News ArticleJune 4, 2026Season 8 &amp; Festival of Football: Path to Glory in Football Ultimate Team™ - EA SPORTS</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/festival-of-football-path-to-glory</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/festival-of-football-path-to-glory</guid>
-      <pubDate>Thu, 02 Jul 2026 17:47:30 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 02:54:21 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -242,7 +258,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Thu, 02 Jul 2026 17:47:30 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 02:54:21 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -250,7 +266,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Thu, 02 Jul 2026 17:47:30 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 02:54:21 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -258,7 +274,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Thu, 02 Jul 2026 17:47:30 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 02:54:21 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
