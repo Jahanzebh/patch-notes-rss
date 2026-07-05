@@ -4,7 +4,7 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Sun, 05 Jul 2026 10:12:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 17:10:04 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Celebrating our community</title>
@@ -37,6 +37,14 @@
       <pubDate>Thu, 02 Jul 2026 17:35:33 +0000</pubDate>
       <category>Apex Legends</category>
       <description>&lt;p class="bb_paragraph"&gt;&lt;b&gt;FIXED:&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We just pushed a fix that should mitigate lingering FPS issues resulting from hardware-specific issues on some PCs since the beginning of the split. Your gameplay experience should be much smoother now.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Coaches: MAN Lion's Coach Gameplay Preview</title>
+      <link>https://store.steampowered.com/news/app/227300/view/705524237917490100</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/227300/view/705524237917490100</guid>
+      <pubDate>Sun, 05 Jul 2026 15:00:40 +0000</pubDate>
+      <category>Euro Truck Simulator 2</category>
+      <description>&lt;p class="bb_paragraph"&gt;Today, we’re excited to share your very first look at gameplay from our upcoming &lt;a class="bb_link" href="https://store.steampowered.com/app/3809270/Euro_Truck_Simulator_2__Coaches/" rel="" target="_blank"&gt;Coaches DLC&lt;/a&gt; for Euro Truck Simulator 2, a highly anticipated expansion that many of you in our community have been eager to see more of. Let's hit the road!&lt;br /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4419325/0cc56e566c28658d278ceb89bbe24e00181f7</description>
     </item>
     <item>
       <title>Screenshot Competition – Industrial Front!</title>
@@ -111,18 +119,10 @@
       <description>&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;APARTMENT COMPLEX&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;The apartment complex is a new monument that allows players getting started with a wipe to find a place to call home. Simply talk to the receptionist in the lobby to get started and rent a room.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img src="https://files.facepunch.com/kaantasan/1b0111b1/rust_apartment_complex_1080-7.jpg style=box-sizing: inherit; cursor: pointer; box-shadow: rgba(0, 0</description>
     </item>
     <item>
-      <title>PUBG Saturday Custom Games return this weekend!</title>
-      <link>https://store.steampowered.com/news/app/578080/view/708901647665860448</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/578080/view/708901647665860448</guid>
-      <pubDate>Thu, 02 Jul 2026 14:49:47 +0000</pubDate>
-      <category>PUBG: BATTLEGROUNDS</category>
-      <description>&lt;p class="bb_paragraph"&gt;The next edition of &lt;b&gt;PUBG Saturday Custom Games&lt;/b&gt; is happening this &lt;b&gt;Saturday, July 4th at 20:00 CEST&lt;/b&gt;, bringing the community together once again for custom matches, creator co-streams, and G-Coin giveaways.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Tune in live on Twitch:&lt;/b&gt; &lt;/p&gt;&lt;p class="bb_paragraph"&gt;Join the games, squad up with the community, and follow the broadcast for your chance to win rewards throughout the event.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"</description>
-    </item>
-    <item>
       <title>News ArticleJune 4, 2026Season 8 &amp; Festival of Football: Path to Glory in Football Ultimate Team™ - EA SPORTS</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/festival-of-football-path-to-glory</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/festival-of-football-path-to-glory</guid>
-      <pubDate>Sun, 05 Jul 2026 10:12:27 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 17:10:04 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -130,7 +130,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Sun, 05 Jul 2026 10:12:27 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 17:10:04 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -138,7 +138,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Sun, 05 Jul 2026 10:12:27 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 17:10:04 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -146,7 +146,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Sun, 05 Jul 2026 10:12:27 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 17:10:04 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -157,22 +157,6 @@
       <pubDate>Fri, 03 Jul 2026 13:00:10 +0000</pubDate>
       <category>Elder Scrolls Online</category>
       <description>&lt;img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2026/07/f4d98ccf2703a536edada3224554eefb.jpg" /&gt;                                                                                     &lt;br /&gt;&lt;i&gt;Learn about the rogues who, should they put aside their differences, may become the founding members of the Daggerfall Thieves Guild chapter.&lt;/i&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;i&gt;Dear Zeira,&lt;br /&gt; &lt;br /&gt;Greetings from Daggerfall! I must say, it’s a pleasure to see a landscape draped in green and feel</description>
-    </item>
-    <item>
-      <title>The Thieves Guild Returns in a New Season One Questline</title>
-      <link>https://store.steampowered.com/news/app/306130/view/689761349249535648</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/306130/view/689761349249535648</guid>
-      <pubDate>Thu, 02 Jul 2026 16:19:44 +0000</pubDate>
-      <category>Elder Scrolls Online</category>
-      <description>&lt;img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2026/07/1ad16efdb0ed1cfab72fb0abc2480571.jpg" /&gt;                                                                                     &lt;br /&gt;&lt;i&gt;Scope out the new Thieves Guild quest and storyline, coming soon as part of Season One. &lt;/i&gt;&lt;br /&gt; &lt;br /&gt;With the launch of Season One on July 8, all &lt;i&gt;ESO&lt;/i&gt; players can discover a new story and questline featuring the return of the beloved Thieves Guild. Previously found in Hew’s Bane*, the guild</description>
-    </item>
-    <item>
-      <title>Phasmophobia Quality of Life Update Preview</title>
-      <link>https://store.steampowered.com/news/app/739630/view/708901647665860437</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/739630/view/708901647665860437</guid>
-      <pubDate>Thu, 02 Jul 2026 14:09:07 +0000</pubDate>
-      <category>Phasmophobia</category>
-      <description>&lt;p class="bb_paragraph"&gt;Welcome back, Ghost Hunters.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Today we’re going to give you more detail on the upcoming Quality of Life update launching alongside the 13 Willow Street rework on July 21st, 2026.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;As mentioned in &lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.kineticgames.co.uk%2Fnews%2Fphasmophobia-2026-and-beyond" rel=" noopener" target="_blank</description>
     </item>
   </channel>
 </rss>
