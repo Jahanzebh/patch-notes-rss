@@ -1,54 +1,59 @@
 {
   "seen": {
+    "211abc7bf3f7": {
+      "url": "https://store.steampowered.com/news/app/553850/view/696516748689543612",
+      "slug": "helldivers-2",
+      "ts": "2026-07-07T10:55:30.770406+00:00"
+    },
+    "312abe1572b9": {
+      "url": "https://store.steampowered.com/news/app/2074920/view/719034746827445714",
+      "slug": "the-first-descendant",
+      "ts": "2026-07-07T10:55:30.770421+00:00"
+    },
     "0cd9227fc79a": {
       "url": "https://store.steampowered.com/news/app/2074920/view/719034746827442050",
       "slug": "the-first-descendant",
-      "ts": "2026-07-07T03:18:55.841892+00:00"
+      "ts": "2026-07-07T10:55:30.770426+00:00"
+    },
+    "353cdb699136": {
+      "url": "https://store.steampowered.com/news/app/236390/view/705524823545087141",
+      "slug": "war-thunder",
+      "ts": "2026-07-07T10:55:30.770429+00:00"
     },
     "6075989a7fb1": {
       "url": "https://store.steampowered.com/news/app/1868140/view/673998750553739525",
       "slug": "dave-the-diver",
-      "ts": "2026-07-07T03:18:55.841911+00:00"
-    },
-    "f57f594cbbfa": {
-      "url": "https://store.steampowered.com/news/app/236390/view/705524823545086167",
-      "slug": "war-thunder",
-      "ts": "2026-07-07T03:18:55.841915+00:00"
+      "ts": "2026-07-07T10:55:30.770432+00:00"
     },
     "f0b19bd2e69d": {
       "url": "https://store.steampowered.com/news/app/381210/view/672872850646897106",
       "slug": "dead-by-daylight",
-      "ts": "2026-07-07T03:18:55.841919+00:00"
+      "ts": "2026-07-07T10:55:30.770435+00:00"
     },
     "ed8142ff7634": {
       "url": "https://store.steampowered.com/news/app/394360/view/717908846920601849",
       "slug": "hearts-of-iron-iv",
-      "ts": "2026-07-07T03:18:55.841922+00:00"
+      "ts": "2026-07-07T10:55:30.770439+00:00"
     },
     "9e3cf810fa66": {
       "url": "https://store.steampowered.com/news/app/227300/view/705524237917490100",
       "slug": "euro-truck-simulator-2",
-      "ts": "2026-07-07T03:18:55.841925+00:00"
-    },
-    "b8f6fde4fdfa": {
-      "url": "https://store.steampowered.com/news/app/236390/view/705524823545086027",
-      "slug": "war-thunder",
-      "ts": "2026-07-07T03:18:55.841928+00:00"
+      "ts": "2026-07-07T10:55:30.770442+00:00"
     },
     "bf1e7fa54b08": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/festival-of-football-path-to-glory",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-07-07T03:18:55.841932+00:00"
+      "ts": "2026-07-07T10:55:30.770446+00:00"
     },
     "1a0ef4f8e532": {
       "url": "https://www.footballmanager.com/news",
       "slug": "football-manager-26",
-      "ts": "2026-07-07T03:18:55.841940+00:00"
+      "ts": "2026-07-07T10:55:30.770452+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-07-07T03:18:55.841943+00:00"
+      "ts": "2026-07-07T10:55:30.770455+00:00"
     }
   }
 }
