@@ -1,74 +1,94 @@
 {
   "seen": {
+    "c597821ff6b3": {
+      "url": "https://store.steampowered.com/news/app/2767030/view/677376450273220631",
+      "slug": "marvel-rivals",
+      "ts": "2026-07-08T10:17:45.413166+00:00"
+    },
+    "746cc364a7f1": {
+      "url": "https://store.steampowered.com/news/app/2767030/view/677376450273220633",
+      "slug": "marvel-rivals",
+      "ts": "2026-07-08T10:17:45.413191+00:00"
+    },
+    "6538bf3503cd": {
+      "url": "https://store.steampowered.com/news/app/1623730/view/686383649529010194",
+      "slug": "palworld",
+      "ts": "2026-07-08T10:17:45.413199+00:00"
+    },
     "211abc7bf3f7": {
       "url": "https://store.steampowered.com/news/app/553850/view/696516748689543612",
       "slug": "helldivers-2",
-      "ts": "2026-07-08T02:36:45.128730+00:00"
+      "ts": "2026-07-08T10:17:45.413205+00:00"
     },
     "312abe1572b9": {
       "url": "https://store.steampowered.com/news/app/2074920/view/719034746827445714",
       "slug": "the-first-descendant",
-      "ts": "2026-07-08T02:36:45.128750+00:00"
+      "ts": "2026-07-08T10:17:45.413237+00:00"
     },
     "0cd9227fc79a": {
       "url": "https://store.steampowered.com/news/app/2074920/view/719034746827442050",
       "slug": "the-first-descendant",
-      "ts": "2026-07-08T02:36:45.128754+00:00"
+      "ts": "2026-07-08T10:17:45.413244+00:00"
+    },
+    "4de1abc4e0a7": {
+      "url": "https://store.steampowered.com/news/app/236390/view/705524823545087655",
+      "slug": "war-thunder",
+      "ts": "2026-07-08T10:17:45.413251+00:00"
     },
     "ed485d35fd56": {
       "url": "https://store.steampowered.com/news/app/440/view/684131849711129047",
       "slug": "team-fortress-2",
-      "ts": "2026-07-08T02:36:45.128757+00:00"
+      "ts": "2026-07-08T10:17:45.413258+00:00"
     },
     "0f7520ad4e68": {
       "url": "https://store.steampowered.com/news/app/394360/view/717908846920598779",
       "slug": "hearts-of-iron-iv",
-      "ts": "2026-07-08T02:36:45.128761+00:00"
+      "ts": "2026-07-08T10:17:45.413263+00:00"
     },
     "353cdb699136": {
       "url": "https://store.steampowered.com/news/app/236390/view/705524823545087141",
       "slug": "war-thunder",
-      "ts": "2026-07-08T02:36:45.128764+00:00"
+      "ts": "2026-07-08T10:17:45.413269+00:00"
     },
     "6075989a7fb1": {
       "url": "https://store.steampowered.com/news/app/1868140/view/673998750553739525",
       "slug": "dave-the-diver",
-      "ts": "2026-07-08T02:36:45.128767+00:00"
+      "ts": "2026-07-08T10:17:45.413275+00:00"
     },
     "f0b19bd2e69d": {
       "url": "https://store.steampowered.com/news/app/381210/view/672872850646897106",
       "slug": "dead-by-daylight",
-      "ts": "2026-07-08T02:36:45.128771+00:00"
+      "ts": "2026-07-08T10:17:45.413281+00:00"
     },
     "ed8142ff7634": {
       "url": "https://store.steampowered.com/news/app/394360/view/717908846920601849",
       "slug": "hearts-of-iron-iv",
-      "ts": "2026-07-08T02:36:45.128775+00:00"
+      "ts": "2026-07-08T10:17:45.413288+00:00"
     },
     "9e3cf810fa66": {
       "url": "https://store.steampowered.com/news/app/227300/view/705524237917490100",
       "slug": "euro-truck-simulator-2",
-      "ts": "2026-07-08T02:36:45.128778+00:00"
+      "ts": "2026-07-08T10:17:45.413294+00:00"
     },
     "bf1e7fa54b08": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/festival-of-football-path-to-glory",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-07-08T02:36:45.128781+00:00"
+      "ts": "2026-07-08T10:17:45.413300+00:00"
     },
     "1a0ef4f8e532": {
       "url": "https://www.footballmanager.com/news",
       "slug": "football-manager-26",
-      "ts": "2026-07-08T02:36:45.128787+00:00"
+      "ts": "2026-07-08T10:17:45.413312+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-07-08T02:36:45.128790+00:00"
+      "ts": "2026-07-08T10:17:45.413317+00:00"
     },
     "47f56a6d3785": {
       "url": "https://store.steampowered.com/news/app/1172620/view/696516748689544615",
       "slug": "sea-of-thieves",
-      "ts": "2026-07-08T02:36:45.128793+00:00"
+      "ts": "2026-07-08T10:17:45.413323+00:00"
     }
   }
 }
