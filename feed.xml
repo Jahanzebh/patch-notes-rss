@@ -4,7 +4,7 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Thu, 09 Jul 2026 02:55:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 10:54:13 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Important: About MODs and 1.0!</title>
@@ -63,12 +63,28 @@
       <description>&lt;p class="bb_paragraph"&gt;&lt;b&gt;# PDT 2026.07.07(Tue) 03:00 – Information on the re-voting period has been added.&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Greetings, Descendants.&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;p class="bb_paragraph"&gt;After the finals voting for the 2026 Skin Contest began on 7/6 (Mon), we have identified some finalist entries appear to have used generative AI, and are writing to inform you of this.&lt;/p&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;p class="bb_paragraph"&gt;First, </description>
     </item>
     <item>
-      <title>(Updated) 2026 Skin Contest Finals Voting and Notices</title>
-      <link>https://store.steampowered.com/news/app/2074920/view/719034746827442050</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/2074920/view/719034746827442050</guid>
-      <pubDate>Mon, 06 Jul 2026 07:00:26 +0000</pubDate>
-      <category>The First Descendant</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;b&gt;# PDT 2026.07.07(Tue) 03:00 – Some finalist entries that appear to have used generative AI have been identified, and the re-voting schedule has been revised. &lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Ftfd.nexon.com%2Fen%2Fnews%2F3495465" rel=" noopener" target="_blank"&gt;\[Go to Notice]&lt;/a&gt;&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Greetings, Descendants!&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;p class="bb_paragraph"&gt;Vot</description>
+      <title>Update 2.57.1.12</title>
+      <link>https://store.steampowered.com/news/app/236390/view/705524823545087675</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/705524823545087675</guid>
+      <pubDate>Thu, 09 Jul 2026 09:26:54 +0000</pubDate>
+      <category>War Thunder</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/c6ce062291052ceba31f3490def2094ae9bc3ec1.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Aircraft&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;A bug where the calculated damage against bases was missing from the weapon description for air-to-ground missiles and bombs has been fixed.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Ground Vehicles&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;</description>
+    </item>
+    <item>
+      <title>Notice: Issues After the 7/9 Update and Concurrent Player Milestone Reward</title>
+      <link>https://store.steampowered.com/news/app/1973530/view/669495150925323027</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1973530/view/669495150925323027</guid>
+      <pubDate>Thu, 09 Jul 2026 09:06:58 +0000</pubDate>
+      <category>Limbus Company</category>
+      <description>Hello, this is Project Moon.&lt;br /&gt;&lt;br /&gt;As mentioned in our previous notice, we would like to provide additional information regarding the error pop-ups occurring during gameplay, as well as other known issues that have since been confirmed.&lt;br /&gt;&lt;br /&gt;Please refer below for more information.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;[Error Pop-up Issue]&lt;/b&gt;1. Issue Cause&lt;br /&gt;- Although our servers had been prepared to handle traffic up to approximately 150% of the previous maximum capacity,&lt;br /&gt;- A sudden influx o</description>
+    </item>
+    <item>
+      <title>Preliminary Notice on Error Popups After the 7/9 Scheduled Update</title>
+      <link>https://store.steampowered.com/news/app/1973530/view/669495150925323016</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1973530/view/669495150925323016</guid>
+      <pubDate>Thu, 09 Jul 2026 04:41:40 +0000</pubDate>
+      <category>Limbus Company</category>
+      <description>Hello, this is Project Moon.&lt;br /&gt;&lt;br /&gt;Following the Scheduled Update on Jul. 9th, we have confirmed an issue in which error messages appear during gameplay due to higher-than-expected server load.&lt;br /&gt;&lt;br /&gt;We are currently investigating the issue and will provide a follow-up notice once we have identified the exact cause.&lt;br /&gt;&lt;br /&gt;We sincerely apologize for the inconvenience.</description>
     </item>
     <item>
       <title>Follow-up Measures on Issues After the Unity Version Upgrade on 5/28/2026</title>
@@ -167,10 +183,10 @@
       <description>Generals!&lt;br /&gt;&lt;br /&gt;Greetings from sunny Stockholm to everyone, I’m Batya, Game Director for Hearts of Iron. The summer period is upon us and I wanted to share some information with you all. Unlike the norm of armies planning summer offensives, game developers actually do the opposite and take time off.&lt;br /&gt;Of course I am not here to just tell you we will be out for the summer, instead I want to talk about the Open Betas we’ve been running in the last few months.&lt;br /&gt;&lt;br /&gt;Some of you might h</description>
     </item>
     <item>
-      <title>News ArticleJune 4, 2026Season 8 &amp; Festival of Football: Path to Glory in Football Ultimate Team™ - EA SPORTS</title>
-      <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/festival-of-football-path-to-glory</link>
-      <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/festival-of-football-path-to-glory</guid>
-      <pubDate>Thu, 09 Jul 2026 02:55:24 +0000</pubDate>
+      <title>News ArticleJuly 8, 2026Football Ultimate Team™ 26 - World Tour Season 9: Spain,  Portugal, &amp; Morocco ‘30</title>
+      <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9</link>
+      <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9</guid>
+      <pubDate>Thu, 09 Jul 2026 10:54:13 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -178,7 +194,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Thu, 09 Jul 2026 02:55:24 +0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 10:54:13 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -186,7 +202,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Thu, 09 Jul 2026 02:55:24 +0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 10:54:13 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -194,9 +210,17 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Thu, 09 Jul 2026 02:55:24 +0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 10:54:13 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
+    </item>
+    <item>
+      <title>Sea of Thieves Release Notes – Hotfix 3.8.0.2</title>
+      <link>https://store.steampowered.com/news/app/1172620/view/696516748689545501</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172620/view/696516748689545501</guid>
+      <pubDate>Thu, 09 Jul 2026 10:25:27 +0000</pubDate>
+      <category>Sea of Thieves</category>
+      <description>&lt;div class="bb_h3"&gt;Updates&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Chest of Fortune Balancing&lt;/b&gt;&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;The issues preventing some emergent World Events from awarding the Chest of Fortune upon completion have been addressed, and the Chest of Fortune is now being awarded where intended.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;When tackling any of these emergent World Events, the chances of players finding one or even multiple Chests of Fortune have now been signific</description>
     </item>
     <item>
       <title>This Month in Sea of Thieves: July 2026</title>
