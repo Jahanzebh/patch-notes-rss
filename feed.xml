@@ -4,7 +4,7 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Sat, 11 Jul 2026 16:58:11 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 02:41:22 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Marvel Rivals Version 20260710 Patch Notes - Season 9 Arrives</title>
@@ -63,12 +63,20 @@
       <description>&lt;div class="bb_h1"&gt;&lt;b&gt;SEASON 11 | GALAXY MASTERS&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/42849803/dd4590d12cb63f66ed1a98af260dbd0cdbfa179b.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;WELCOME ABOARD&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Explore the new Map, the reworked Melee Combat System, the new Cashout Bot mode, Competitive updates and so much more! Your journey among the stars starts now!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Missed the new Reveal? Watch the &lt;b&gt;VOD belo</description>
     </item>
     <item>
-      <title>Important: About MODs and 1.0!</title>
-      <link>https://store.steampowered.com/news/app/1623730/view/686383649529010209</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1623730/view/686383649529010209</guid>
-      <pubDate>Thu, 09 Jul 2026 01:00:44 +0000</pubDate>
-      <category>Palworld</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/40671762/8055c9ae84c1094001811fa9572d067af5dbbdeb.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Palworld and Pocketpair support modding, and we're grateful to all our fans who have dedicated time into modding the game up now. We look forward to seeing all the amazing MODs that will be made after 1.0.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;However, if you haven't played the game in a long time then it is possible you may have old and potential</description>
+      <title>TennoCon 2026</title>
+      <link>https://store.steampowered.com/news/app/230410/view/696518197582497177</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/230410/view/696518197582497177</guid>
+      <pubDate>Sat, 11 Jul 2026 23:09:30 +0000</pubDate>
+      <category>Warframe</category>
+      <description>&lt;img src="https://clan.fastly.steamstatic.com/images/4437469/1055385f98a88ce924d22ae87e367f25c8a1e4ef.png" /&gt;&lt;br /&gt;&lt;br /&gt;That's a wrap on TennoCon 2026! Thank you to everyone for celebrating the future of Warframe with us, whether you joined in-person or watched this year's incredible reveals from home. We couldn't do it without you.&lt;br /&gt;&lt;br /&gt;If you missed them live (or simply want to re-watch), you can find the and full TennoLive VODs on our &lt;a class="bb_link" href="https://www.youtube.com/@W</description>
+    </item>
+    <item>
+      <title>Warframe: Tau Gameplay Demo</title>
+      <link>https://store.steampowered.com/news/app/230410/view/696518197582495762</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/230410/view/696518197582495762</guid>
+      <pubDate>Sat, 11 Jul 2026 23:06:25 +0000</pubDate>
+      <category>Warframe</category>
+      <description>This year's TennoLive mainstage presentation took us beyond the limits of the Origin System to Tau, a place that until now has only existed in our collective dreams (and of course, memories via The Old Peace). Community Director Megan Everett guided Tenno through their first foray into Warframe's first ENTIRELY NEW star system, which will include fresh worlds to explore as ongoing cinematic narrative flourishes in a massive new region beyond anything you've ever known.&lt;br /&gt;&lt;br /&gt;&lt;img src="https</description>
     </item>
     <item>
       <title>Under The Hood: UI/UX QA</title>
@@ -151,42 +159,10 @@
       <description>Hello, this is Project Moon.&lt;br /&gt;&lt;br /&gt;Following the Scheduled Update on Jul. 9th, we have confirmed an issue in which error messages appear during gameplay due to higher-than-expected server load.&lt;br /&gt;&lt;br /&gt;We are currently investigating the issue and will provide a follow-up notice once we have identified the exact cause.&lt;br /&gt;&lt;br /&gt;We sincerely apologize for the inconvenience.</description>
     </item>
     <item>
-      <title>Follow-up Measures on Issues After the Unity Version Upgrade on 5/28/2026</title>
-      <link>https://store.steampowered.com/news/app/1973530/view/669495150925323005</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1973530/view/669495150925323005</guid>
-      <pubDate>Thu, 09 Jul 2026 02:06:36 +0000</pubDate>
-      <category>Limbus Company</category>
-      <description>Hello, this is Project Moon.&lt;br /&gt;&lt;br /&gt;As part of the Scheduled Update on May 28, 2026, we upgraded the game's Unity version. Following this update, however, some AOS and iOS environments have been experiencing issues that prevented players from accessing or progressing through the game properly. The process of resolving these issues has taken considerable time, resulting in prolonged inconvenience.&lt;br /&gt;&lt;br /&gt;We sincerely apologize for the lack of stable service.&lt;br /&gt;&lt;br /&gt;Please refer to the</description>
-    </item>
-    <item>
-      <title>Team Fortress 2 Update Released</title>
-      <link>https://store.steampowered.com/news/app/440/view/684131849711130747</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/440/view/684131849711130747</guid>
-      <pubDate>Wed, 08 Jul 2026 23:13:45 +0000</pubDate>
-      <category>Team Fortress 2</category>
-      <description>An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:&lt;br /&gt;&lt;br /&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;Updated the Beachcomber's Brim to add a second style that was originally missed&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Updated the Northern Nights, Umbral Lights, and Solar Singed Unusual effects to fix a naming conflict&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Updated the Blissful Butterflies and Wispful Wings Unusual effects to fix visibility issues&lt;br /&gt;&lt;/li&gt;&lt;li&gt;U</description>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://store.steampowered.com/news/app/730/view/701021228894259245</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/730/view/701021228894259245</guid>
-      <pubDate>Wed, 08 Jul 2026 22:51:31 +0000</pubDate>
-      <category>Counter-Strike 2</category>
-      <description>&lt;p class="bb_paragraph"&gt;\[ PREMIER ]&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Premier Season Five has begun&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Added Cache to the Active Duty Map Pool&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Removed Overpass from the Active Duty Map Pool&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;\[ GAMEPLAY ]&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Re-designed effective range and extent of C4 explosion damage on all official defusal-mode maps.&lt;</description>
-    </item>
-    <item>
-      <title>Season 5, Armory, and More</title>
-      <link>https://store.steampowered.com/news/app/730/view/701021228894257508</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/730/view/701021228894257508</guid>
-      <pubDate>Wed, 08 Jul 2026 22:50:43 +0000</pubDate>
-      <category>Counter-Strike 2</category>
-      <description>&lt;div class="bb_h3"&gt;Reporting for Active Duty&lt;/div&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/3381077/bace68e72c87d8b04e5b28953e2de63dda54d9c8.png" /&gt;&lt;br /&gt;Cache has officially arrived, and replaces Overpass in the active duty map pool. Put your hard-earned strats to the test and rise through the Premier ranks in CS2's newest battlefield.&lt;br /&gt;&lt;br /&gt;&lt;div class="bb_h3"&gt;Get out of there, it's gonna blow!&lt;/div&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/3381077/ace2071</description>
-    </item>
-    <item>
       <title>News ArticleJuly 8, 2026Football Ultimate Team™ 26 - World Tour Season 9: Spain,  Portugal, &amp; Morocco ‘30</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9</guid>
-      <pubDate>Sat, 11 Jul 2026 16:58:11 +0000</pubDate>
+      <pubDate>Sun, 12 Jul 2026 02:41:22 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -194,7 +170,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Sat, 11 Jul 2026 16:58:11 +0000</pubDate>
+      <pubDate>Sun, 12 Jul 2026 02:41:22 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -202,7 +178,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Sat, 11 Jul 2026 16:58:11 +0000</pubDate>
+      <pubDate>Sun, 12 Jul 2026 02:41:22 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -210,7 +186,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Sat, 11 Jul 2026 16:58:11 +0000</pubDate>
+      <pubDate>Sun, 12 Jul 2026 02:41:22 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
