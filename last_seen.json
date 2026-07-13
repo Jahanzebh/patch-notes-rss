@@ -1,69 +1,59 @@
 {
   "seen": {
+    "fbf37497fc4e": {
+      "url": "https://store.steampowered.com/news/app/2074920/view/668370699913528795",
+      "slug": "the-first-descendant",
+      "ts": "2026-07-13T11:10:35.107733+00:00"
+    },
     "b51893189dd2": {
       "url": "https://store.steampowered.com/news/app/2767030/view/683007398702482824",
       "slug": "marvel-rivals",
-      "ts": "2026-07-13T02:42:34.048566+00:00"
-    },
-    "6185e4fc10e3": {
-      "url": "https://store.steampowered.com/news/app/2767030/view/683007398702481422",
-      "slug": "marvel-rivals",
-      "ts": "2026-07-13T02:42:34.048584+00:00"
-    },
-    "dd51e36c18cd": {
-      "url": "https://store.steampowered.com/news/app/1623730/view/686383649529010623",
-      "slug": "palworld",
-      "ts": "2026-07-13T02:42:34.048589+00:00"
+      "ts": "2026-07-13T11:10:35.107750+00:00"
     },
     "36b6a4462c9e": {
       "url": "https://store.steampowered.com/news/app/230410/view/696518197582497177",
       "slug": "warframe",
-      "ts": "2026-07-13T02:42:34.048592+00:00"
+      "ts": "2026-07-13T11:10:35.107754+00:00"
     },
     "bdb5cd3efcdc": {
       "url": "https://store.steampowered.com/news/app/230410/view/696518197582495762",
       "slug": "warframe",
-      "ts": "2026-07-13T02:42:34.048596+00:00"
+      "ts": "2026-07-13T11:10:35.107758+00:00"
     },
     "fdf928c16172": {
       "url": "https://store.steampowered.com/news/app/227300/view/694266397769859111",
       "slug": "euro-truck-simulator-2",
-      "ts": "2026-07-13T02:42:34.048599+00:00"
+      "ts": "2026-07-13T11:10:35.107761+00:00"
     },
     "812464f74d76": {
       "url": "https://store.steampowered.com/news/app/440/view/702147697120904151",
       "slug": "team-fortress-2",
-      "ts": "2026-07-13T02:42:34.048602+00:00"
+      "ts": "2026-07-13T11:10:35.107764+00:00"
     },
     "a852227a1970": {
       "url": "https://store.steampowered.com/news/app/1973530/view/688636898237743309",
       "slug": "limbus-company",
-      "ts": "2026-07-13T02:42:34.048606+00:00"
-    },
-    "b44dcd82efbd": {
-      "url": "https://store.steampowered.com/news/app/271590/view/692014597962465503",
-      "slug": "gta-online",
-      "ts": "2026-07-13T02:42:34.048610+00:00"
+      "ts": "2026-07-13T11:10:35.107767+00:00"
     },
     "427ddae63ae0": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-07-13T02:42:34.048613+00:00"
+      "ts": "2026-07-13T11:10:35.107771+00:00"
     },
     "1a0ef4f8e532": {
       "url": "https://www.footballmanager.com/news",
       "slug": "football-manager-26",
-      "ts": "2026-07-13T02:42:34.048624+00:00"
+      "ts": "2026-07-13T11:10:35.107778+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-07-13T02:42:34.048628+00:00"
+      "ts": "2026-07-13T11:10:35.107781+00:00"
     },
     "7f0319b04ddf": {
       "url": "https://store.steampowered.com/news/app/306130/view/711154896376693317",
       "slug": "elder-scrolls-online",
-      "ts": "2026-07-13T02:42:34.048631+00:00"
+      "ts": "2026-07-13T11:10:35.107784+00:00"
     }
   }
 }
