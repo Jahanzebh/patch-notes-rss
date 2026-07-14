@@ -4,7 +4,7 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Mon, 13 Jul 2026 17:54:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 02:26:30 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>An Update from the Anti-Cheat Team - 07/13/2026</title>
@@ -31,6 +31,14 @@
       <description>&lt;div class="bb_h2"&gt;&lt;b&gt;ADJUSTMENTS&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;In the wake of the Season 9 launch, our temporal scanners have been working overtime, analyzing battlefield telemetry and listening to chatter from you, the community. We've seen the meta shifting, and to ensure the combat arena remains as dynamic and competitive as possible, we are deploying this emergency hotfix. Rest assured, our Watchers will remain vigilant, and further recalibrations will be made as new threats emerge.&lt;/p&gt;&lt;</description>
     </item>
     <item>
+      <title>V3.0.1 Stable</title>
+      <link>https://store.steampowered.com/news/app/251570/view/696518197582497453</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/251570/view/696518197582497453</guid>
+      <pubDate>Mon, 13 Jul 2026 18:23:23 +0000</pubDate>
+      <category>7 Days to Die</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/5383109/f24cddbe3c56e1aed5a6f38defb78c3a96eed77e.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Hello Survivors!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;V3.0.1 is now Stable with fixes for several reported bugs.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Here’s what changed since V3.0.0 b259:&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Changed&lt;/b&gt;&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragr</description>
+    </item>
+    <item>
       <title>HOI IV - Open Beta SE™ Update 1</title>
       <link>https://store.steampowered.com/news/app/394360/view/671748399637202350</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/394360/view/671748399637202350</guid>
@@ -44,7 +52,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/230410/view/696518197582497177</guid>
       <pubDate>Sat, 11 Jul 2026 23:09:30 +0000</pubDate>
       <category>Warframe</category>
-      <description>&lt;img src="https://clan.fastly.steamstatic.com/images/4437469/1055385f98a88ce924d22ae87e367f25c8a1e4ef.png" /&gt;&lt;br /&gt;&lt;br /&gt;That's a wrap on TennoCon 2026! Thank you to everyone for celebrating the future of Warframe with us, whether you joined in-person or watched this year's incredible reveals from home. We couldn't do it without you.&lt;br /&gt;&lt;br /&gt;If you missed them live (or simply want to re-watch), you can find the and full TennoLive VODs on our &lt;a class="bb_link" href="https://www.youtube.com/@W</description>
+      <description>&lt;img src="https://clan.akamai.steamstatic.com/images/4437469/1055385f98a88ce924d22ae87e367f25c8a1e4ef.png" /&gt;&lt;br /&gt;&lt;br /&gt;That's a wrap on TennoCon 2026! Thank you to everyone for celebrating the future of Warframe with us, whether you joined in-person or watched this year's incredible reveals from home. We couldn't do it without you.&lt;br /&gt;&lt;br /&gt;If you missed them live (or simply want to re-watch), you can find the and full TennoLive VODs on our &lt;a class="bb_link" href="https://www.youtube.com/@W</description>
     </item>
     <item>
       <title>Warframe: Tau Gameplay Demo</title>
@@ -63,18 +71,10 @@
       <description>&lt;p class="bb_paragraph"&gt;Today, we're taking you behind the scenes of the development of &lt;a class="bb_link" href="https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/" rel="" target="_blank"&gt;Euro Truck Simulator 2&lt;/a&gt; and &lt;a class="bb_link" href="https://store.steampowered.com/app/270880/American_Truck_Simulator/" rel="" target="_blank"&gt;American Truck Simulator&lt;/a&gt; to explore another important part of the process that helps shape your experience on the road. This time, we're shining </description>
     </item>
     <item>
-      <title>Team Fortress 2 Update Released</title>
-      <link>https://store.steampowered.com/news/app/440/view/702147697120904151</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/440/view/702147697120904151</guid>
-      <pubDate>Fri, 10 Jul 2026 19:01:34 +0000</pubDate>
-      <category>Team Fortress 2</category>
-      <description>An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:&lt;br /&gt;&lt;br /&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;Updated the Beachcomber's Brim to fix an incorrect material&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Updated Taunt: The Circuit Breaker&lt;ul class="bb_ul"&gt;&lt;li&gt;Fixed incorrect team color on prop&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Fixed orphaned particles&lt;/li&gt;&lt;/ul&gt;&lt;/li&gt;&lt;li&gt;Updated the Inglorious Patriot&lt;ul class="bb_ul"&gt;&lt;li&gt;Adjusted the normal map and refined the col</description>
-    </item>
-    <item>
       <title>News ArticleJuly 8, 2026Football Ultimate Team™ 26 - World Tour Season 9: Spain,  Portugal, &amp; Morocco ‘30</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9</guid>
-      <pubDate>Mon, 13 Jul 2026 17:54:58 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 02:26:30 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -82,7 +82,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Mon, 13 Jul 2026 17:54:58 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 02:26:30 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -90,7 +90,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Mon, 13 Jul 2026 17:54:58 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 02:26:30 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -98,7 +98,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Mon, 13 Jul 2026 17:54:58 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 02:26:30 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
