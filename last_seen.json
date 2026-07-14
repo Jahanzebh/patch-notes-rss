@@ -1,59 +1,79 @@
 {
   "seen": {
+    "982912872e97": {
+      "url": "https://store.steampowered.com/news/app/2074920/view/668370699913529052",
+      "slug": "the-first-descendant",
+      "ts": "2026-07-14T09:57:58.538483+00:00"
+    },
     "ed39a218a5d5": {
       "url": "https://store.steampowered.com/news/app/1172470/view/674000199448790791",
       "slug": "apex-legends",
-      "ts": "2026-07-14T02:26:30.172671+00:00"
+      "ts": "2026-07-14T09:57:58.538503+00:00"
     },
     "fbf37497fc4e": {
       "url": "https://store.steampowered.com/news/app/2074920/view/668370699913528795",
       "slug": "the-first-descendant",
-      "ts": "2026-07-14T02:26:30.172689+00:00"
+      "ts": "2026-07-14T09:57:58.538507+00:00"
     },
     "b51893189dd2": {
       "url": "https://store.steampowered.com/news/app/2767030/view/683007398702482824",
       "slug": "marvel-rivals",
-      "ts": "2026-07-14T02:26:30.172694+00:00"
+      "ts": "2026-07-14T09:57:58.538511+00:00"
+    },
+    "ee50ca36e49f": {
+      "url": "https://store.steampowered.com/news/app/578080/view/690888698055624323",
+      "slug": "pubg-battlegrounds",
+      "ts": "2026-07-14T09:57:58.538514+00:00"
+    },
+    "3c5905932841": {
+      "url": "https://store.steampowered.com/news/app/578080/view/690888698055624319",
+      "slug": "pubg-battlegrounds",
+      "ts": "2026-07-14T09:57:58.538517+00:00"
+    },
+    "6b70504a871e": {
+      "url": "https://store.steampowered.com/news/app/578080/view/690888698055624321",
+      "slug": "pubg-battlegrounds",
+      "ts": "2026-07-14T09:57:58.538520+00:00"
     },
     "150414e9d13e": {
       "url": "https://store.steampowered.com/news/app/251570/view/696518197582497453",
       "slug": "7-days-to-die",
-      "ts": "2026-07-14T02:26:30.172697+00:00"
+      "ts": "2026-07-14T09:57:58.538523+00:00"
     },
     "d398b59e60de": {
       "url": "https://store.steampowered.com/news/app/394360/view/671748399637202350",
       "slug": "hearts-of-iron-iv",
-      "ts": "2026-07-14T02:26:30.172701+00:00"
+      "ts": "2026-07-14T09:57:58.538527+00:00"
     },
     "36b6a4462c9e": {
       "url": "https://store.steampowered.com/news/app/230410/view/696518197582497177",
       "slug": "warframe",
-      "ts": "2026-07-14T02:26:30.172704+00:00"
+      "ts": "2026-07-14T09:57:58.538530+00:00"
     },
     "bdb5cd3efcdc": {
       "url": "https://store.steampowered.com/news/app/230410/view/696518197582495762",
       "slug": "warframe",
-      "ts": "2026-07-14T02:26:30.172707+00:00"
+      "ts": "2026-07-14T09:57:58.538533+00:00"
     },
     "fdf928c16172": {
       "url": "https://store.steampowered.com/news/app/227300/view/694266397769859111",
       "slug": "euro-truck-simulator-2",
-      "ts": "2026-07-14T02:26:30.172711+00:00"
+      "ts": "2026-07-14T09:57:58.538536+00:00"
     },
     "427ddae63ae0": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-07-14T02:26:30.172715+00:00"
+      "ts": "2026-07-14T09:57:58.538539+00:00"
     },
     "1a0ef4f8e532": {
       "url": "https://www.footballmanager.com/news",
       "slug": "football-manager-26",
-      "ts": "2026-07-14T02:26:30.172722+00:00"
+      "ts": "2026-07-14T09:57:58.538545+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-07-14T02:26:30.172725+00:00"
+      "ts": "2026-07-14T09:57:58.538548+00:00"
     }
   }
 }
