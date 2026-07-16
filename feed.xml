@@ -4,8 +4,24 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Thu, 16 Jul 2026 02:32:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 10:08:27 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Store Update 11.1.0</title>
+      <link>https://store.steampowered.com/news/app/2073850/view/689763250409046312</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/2073850/view/689763250409046312</guid>
+      <pubDate>Thu, 16 Jul 2026 10:00:48 +0000</pubDate>
+      <category>THE FINALS</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/42849803/4267218b1debecf39c7fbbfda0b9a0348904be95.png" /&gt;&lt;b&gt;&lt;/b&gt;We have a Store Update and a few crash fixes in today’s update. Also, please be aware that the first boot after this update could take longer due to an increased startup time due to an anti-cheat software update to reduce boot errors.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;hr /&gt;&lt;div class="bb_h2"&gt;&lt;b&gt;STORE &lt;/b&gt;| FUTURE FAMOUS&lt;/div&gt;&lt;div class="sharedFilePreviewYouTu</description>
+    </item>
+    <item>
+      <title>The First Descendant Hotfix 1.3.34c</title>
+      <link>https://store.steampowered.com/news/app/2074920/view/685259650783772908</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/2074920/view/685259650783772908</guid>
+      <pubDate>Thu, 16 Jul 2026 03:08:16 +0000</pubDate>
+      <category>The First Descendant</category>
+      <description>&lt;div class="bb_h3"&gt;&lt;b&gt;Greetings, Descendants.&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We would like to inform you about the details for The First Descendant Hotfix 1.3.34c.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;This patch will be applied without a client update, allowing immediate access without additional downloads.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;For Descendants currently in-game, please return to the title screen and reconnect to apply the patch.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="</description>
+    </item>
     <item>
       <title>Apex Legends: Latest Update - 07/15/2026</title>
       <link>https://store.steampowered.com/news/app/1172470/view/711155348639056002</link>
@@ -71,12 +87,12 @@
       <description>&lt;p class="bb_paragraph"&gt;Cheating has consequences beyond a single account. &lt;/p&gt;&lt;p class="bb_paragraph"&gt;Since the end of April, we have executed nearly &lt;b&gt;6,000 hardware bans&lt;/b&gt; across PC and console. While the majority of those bans impacted players on PC, we are actively increasing our utilization of hardware bans on consoles. &lt;/p&gt;&lt;p class="bb_paragraph"&gt;Hardware bans are one of many tools in our Anti-Cheat Team’s toolbelt and allow us to target systems designed to evade enforcement. Our tools</description>
     </item>
     <item>
-      <title>Dev Note vol. 27 | Details Regarding the Patch on July 15th</title>
-      <link>https://store.steampowered.com/news/app/2074920/view/668370699913528795</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/2074920/view/668370699913528795</guid>
-      <pubDate>Mon, 13 Jul 2026 09:00:29 +0000</pubDate>
-      <category>The First Descendant</category>
-      <description>&lt;img src="https://dszw1qtcnsa5e.cloudfront.net/community/20260713/8ee96ec6-28d9-4cbf-b41b-26e739555d3c/%EB%8D%B0%EB%B8%8C%EB%85%B8%ED%8A%B8%EA%B3%B5%ED%99%88%EC%83%81%EB%8B%A82108460.png" /&gt;&lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;&lt;b&gt;Greetings, Descendants!&lt;/b&gt;&lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;In this Dev Note, we shared information on the main content coming with the patch on July 15th(Wed).&lt;br /&gt;&lt;br /&gt;This includes balance adjustments for Serena and Ines, Void Intercept Battle: EXTREME, Serena’s new skill modules, Bla</description>
+      <title>Notice: Known Issues after the Jul. 16th, 2026 Scheduled Update</title>
+      <link>https://store.steampowered.com/news/app/1973530/view/719036647985905884</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1973530/view/719036647985905884</guid>
+      <pubDate>Thu, 16 Jul 2026 05:31:44 +0000</pubDate>
+      <category>Limbus Company</category>
+      <description>Hello, this is Project Moon.&lt;br /&gt;&lt;br /&gt;We would like to inform you about known issues after the Jul. 16th, 2026 Scheduled Update.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;&lt;/b&gt;▶ An issue where Rodion and Sinclair's frame colors are applied erroneously in the Change Sinner BGM UI&lt;br /&gt;&lt;br /&gt;※ This issue was confirmed after game ver. 1.109.1 had been submitted to respective markets on Jul. 13th.&lt;br /&gt;However, this issue cannot be resolved via a hotfix as it requires a new application build.&lt;br /&gt;&lt;u&gt;The fix will be deployed </description>
     </item>
     <item>
       <title>DESIGNER'S NOTES: Y11S2.2 MID-SEASON UPDATE</title>
@@ -202,7 +218,7 @@
       <title>News ArticleJuly 8, 2026Football Ultimate Team™ 26 - World Tour Season 9: Spain,  Portugal, &amp; Morocco ‘30</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9</guid>
-      <pubDate>Thu, 16 Jul 2026 02:32:01 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 10:08:27 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -210,7 +226,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Thu, 16 Jul 2026 02:32:01 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 10:08:27 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -218,7 +234,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Thu, 16 Jul 2026 02:32:01 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 10:08:27 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -226,9 +242,17 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Thu, 16 Jul 2026 02:32:01 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 10:08:27 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
+    </item>
+    <item>
+      <title>Patch notes 2026-07-16 (hotfix, experimental)</title>
+      <link>https://store.steampowered.com/news/app/1062090/view/688637350502203555</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1062090/view/688637350502203555</guid>
+      <pubDate>Thu, 16 Jul 2026 07:51:10 +0000</pubDate>
+      <category>Timberborn</category>
+      <description>&lt;p class="bb_paragraph"&gt;Hi, everyone!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We hope you're enjoying &lt;a class="bb_link" href="https://store.steampowered.com/news/app/1062090/view/681881498796689183" rel="" target="_blank"&gt;yesterday's experimental additions&lt;/a&gt;... even if it sometimes means finding out something is &lt;span class="bb_strike"&gt;unstable&lt;/span&gt; broken. That was the case with one of the Unstable Cores on Nomads that we've just fixed.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p clas</description>
     </item>
     <item>
       <title>Patch notes 2026-07-15 (experimental)</title>
