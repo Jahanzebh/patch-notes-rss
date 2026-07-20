@@ -1,39 +1,39 @@
 {
   "seen": {
+    "41026cc3ecc3": {
+      "url": "https://store.steampowered.com/news/app/2074920/view/685259650783774190",
+      "slug": "the-first-descendant",
+      "ts": "2026-07-20T10:51:53.230275+00:00"
+    },
     "c139ed9052c7": {
       "url": "https://store.steampowered.com/news/app/2868840/view/674000199448790400",
       "slug": "slay-the-spire-2",
-      "ts": "2026-07-20T03:14:19.878180+00:00"
+      "ts": "2026-07-20T10:51:53.230293+00:00"
     },
     "cc076fa60570": {
       "url": "https://store.steampowered.com/news/app/227300/view/703274049292206703",
       "slug": "euro-truck-simulator-2",
-      "ts": "2026-07-20T03:14:19.878200+00:00"
+      "ts": "2026-07-20T10:51:53.230298+00:00"
     },
     "444bfbb829ad": {
       "url": "https://store.steampowered.com/news/app/236390/view/703274049292206707",
       "slug": "war-thunder",
-      "ts": "2026-07-20T03:14:19.878205+00:00"
-    },
-    "636002fe2a9a": {
-      "url": "https://store.steampowered.com/news/app/221100/view/670622951995867541",
-      "slug": "dayz",
-      "ts": "2026-07-20T03:14:19.878208+00:00"
+      "ts": "2026-07-20T10:51:53.230301+00:00"
     },
     "427ddae63ae0": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-07-20T03:14:19.878211+00:00"
+      "ts": "2026-07-20T10:51:53.230304+00:00"
     },
     "1a0ef4f8e532": {
       "url": "https://www.footballmanager.com/news",
       "slug": "football-manager-26",
-      "ts": "2026-07-20T03:14:19.878218+00:00"
+      "ts": "2026-07-20T10:51:53.230311+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-07-20T03:14:19.878221+00:00"
+      "ts": "2026-07-20T10:51:53.230314+00:00"
     }
   }
 }
