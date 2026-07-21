@@ -1,34 +1,39 @@
 {
   "seen": {
+    "ce5a0de1b8d7": {
+      "url": "https://store.steampowered.com/news/app/2074920/view/685259650783774441",
+      "slug": "the-first-descendant",
+      "ts": "2026-07-21T10:25:21.940725+00:00"
+    },
     "41026cc3ecc3": {
       "url": "https://store.steampowered.com/news/app/2074920/view/685259650783774190",
       "slug": "the-first-descendant",
-      "ts": "2026-07-21T02:35:43.524754+00:00"
+      "ts": "2026-07-21T10:25:21.940743+00:00"
     },
     "c9a9333efdb5": {
       "url": "https://store.steampowered.com/news/app/730/view/698770449667982800",
       "slug": "counter-strike-2",
-      "ts": "2026-07-21T02:35:43.524776+00:00"
+      "ts": "2026-07-21T10:25:21.940746+00:00"
     },
     "bdd9e503399e": {
       "url": "https://store.steampowered.com/news/app/578080/view/668371152183232072",
       "slug": "pubg-battlegrounds",
-      "ts": "2026-07-21T02:35:43.524779+00:00"
+      "ts": "2026-07-21T10:25:21.940749+00:00"
     },
     "427ddae63ae0": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-07-21T02:35:43.524782+00:00"
+      "ts": "2026-07-21T10:25:21.940751+00:00"
     },
     "1a0ef4f8e532": {
       "url": "https://www.footballmanager.com/news",
       "slug": "football-manager-26",
-      "ts": "2026-07-21T02:35:43.524786+00:00"
+      "ts": "2026-07-21T10:25:21.940756+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-07-21T02:35:43.524788+00:00"
+      "ts": "2026-07-21T10:25:21.940759+00:00"
     }
   }
 }
