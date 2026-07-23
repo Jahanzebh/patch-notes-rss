@@ -4,8 +4,16 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Thu, 23 Jul 2026 10:22:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 17:22:49 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The Supply FRV comes home for good in October</title>
+      <link>https://store.steampowered.com/news/app/553850/view/680756051157452526</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/553850/view/680756051157452526</guid>
+      <pubDate>Thu, 23 Jul 2026 15:00:41 +0000</pubDate>
+      <category>Helldivers 2</category>
+      <description>&lt;p class="bb_paragraph"&gt;Attention, Helldivers. Super Earth High Command has an update regarding the &lt;b&gt;M-103 Supply FRV&lt;/b&gt;: the resupply slinging cousin of our beloved Fast Recon Vehicle, the full-scale production of which was enabled by the bravery of Helldivers during the Census Thunder Campaign, is being made &lt;b&gt;permanently available in&lt;/b&gt; &lt;b&gt;October 2026&lt;/b&gt;. Helldivers will be able to unlock it with Requisition slips.&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Let's unpack how it works…&lt;/b&gt;&lt;/div&gt;&lt;p class="</description>
+    </item>
     <item>
       <title>Store Update 11.2.0</title>
       <link>https://store.steampowered.com/news/app/2073850/view/704400583238353132</link>
@@ -53,6 +61,22 @@
       <pubDate>Tue, 21 Jul 2026 07:00:16 +0000</pubDate>
       <category>The First Descendant</category>
       <description>&lt;div class="bb_h3"&gt;&lt;b&gt;Greetings, Descendants.&lt;/b&gt;&lt;/div&gt;&lt;div class="bb_h3"&gt; &lt;/div&gt;&lt;p class="bb_paragraph"&gt;We would like to inform you about the schedule for this week’s Patch 1.3.35.&lt;/p&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;■ Patch Schedule&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Scheduled for 2026.07.23(Thu) 00:00 PDT&lt;/p&gt;&lt;p class="bb_paragraph"&gt;※ The schedule is subject to change, and details will be provided in a separate Patch Note.&lt;/p&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;p class="bb_parag</description>
+    </item>
+    <item>
+      <title>Update 2.57.1.43</title>
+      <link>https://store.steampowered.com/news/app/236390/view/687512084637811321</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/687512084637811321</guid>
+      <pubDate>Thu, 23 Jul 2026 14:19:55 +0000</pubDate>
+      <category>War Thunder</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/442a23a3519ea859adfeec74fc5c573070dd6d23.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;&lt;b&gt;Aircraft&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;IAR-81C (DB 605)&lt;/b&gt; — a bug that caused the aircraft to be hidden from the tech tree when the test-drive was active has been fixed. (&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fcommunity.gaijin.net%2Fissues%2Fp%2Fwarthunder%2Fi%2FYMoAPfm</description>
+    </item>
+    <item>
+      <title>Scimitar Strike: Scimitar Mk.2</title>
+      <link>https://store.steampowered.com/news/app/236390/view/687512084637810832</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/687512084637810832</guid>
+      <pubDate>Thu, 23 Jul 2026 13:29:12 +0000</pubDate>
+      <category>War Thunder</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/edb27bf149a20afdd8fc26c2f9327d725ffc6d47.gif" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_table"&gt;&lt;div class="bb_table_tr"&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Scimitar Mk.2:&lt;/b&gt; An Event Vehicle Light Tank for Great Britain at Rank VI&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="bb_table_tr"&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;At a glance:&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;High spee</description>
     </item>
     <item>
       <title>Notice: Ver. 1.110.0 Known Issues and Hotfix ETA</title>
@@ -119,26 +143,10 @@
       <description>&lt;p class="bb_paragraph"&gt;\[ GAMEPLAY ]&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;The bomb damage health preview is now revealed when the bomb becomes audible.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;The bomb explosion now interacts with smoke grenade clouds and molotov/incendiary fire. &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph"&gt;\[ MAPS ]&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Fachwerk&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Updated to the latest version from the Community Workshop (&lt;a class="bb_link" </description>
     </item>
     <item>
-      <title>PUBG Global Series Circuit 3: Everything You Need To Know!</title>
-      <link>https://store.steampowered.com/news/app/578080/view/668371152183232072</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/578080/view/668371152183232072</guid>
-      <pubDate>Mon, 20 Jul 2026 13:12:24 +0000</pubDate>
-      <category>PUBG: BATTLEGROUNDS</category>
-      <description>&lt;p class="bb_paragraph"&gt;Hello, PUBG Esports fans!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;After two circuits in Seoul, the PUBG Global Series is moving to Shanghai, China. PGS Circuit 3, featuring PGS 7, PGS 8, and PGS 9, will take place across three weeks from August 5 to 23.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Circuit 3 also marks the beginning of the second half of the 2026 PGS season—and from this point forward, the numbers change. Every series in Circuits 3 and 4 will award twice as many PGS Points as the first </description>
-    </item>
-    <item>
-      <title>Battle Pass Season 24: “Do It Yourself” and Its Warbond Shop!</title>
-      <link>https://store.steampowered.com/news/app/236390/view/703274049292207589</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/703274049292207589</guid>
-      <pubDate>Mon, 20 Jul 2026 12:49:39 +0000</pubDate>
-      <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/b95955f290ccbfad338d268ea897acef9afaff6e.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Crews often have to operate in the field. When there’s no fully equipped hangar with tools and specialists nearby, resourcefulness and ingenuity come into play! We’re dedicating Battle Pass Season 24 to the makeshift mechanics and resourceful engineers ready for the boldest improvisations. This season’s vehicle rewards were born from imp</description>
-    </item>
-    <item>
       <title>News ArticleJuly 8, 2026Football Ultimate Team™ 26 - World Tour Season 9: Spain,  Portugal, &amp; Morocco ‘30</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9</guid>
-      <pubDate>Thu, 23 Jul 2026 10:22:16 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 17:22:49 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -146,7 +154,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Thu, 23 Jul 2026 10:22:16 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 17:22:49 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -154,7 +162,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Thu, 23 Jul 2026 10:22:16 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 17:22:49 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -162,9 +170,17 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Thu, 23 Jul 2026 10:22:16 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 17:22:49 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
+    </item>
+    <item>
+      <title>Sea of Thieves Release Notes – 3.8.1</title>
+      <link>https://store.steampowered.com/news/app/1172620/view/714533682400985668</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172620/view/714533682400985668</guid>
+      <pubDate>Thu, 23 Jul 2026 12:50:13 +0000</pubDate>
+      <category>Sea of Thieves</category>
+      <description>&lt;div class="bb_h3"&gt;Custom Seas&lt;/div&gt;&lt;p class="bb_paragraph"&gt;Build new game modes to challenge your friends, record unrivalled cinematics and experience the Sea of Thieves like never before! To learn more about this Season’s headline features, head over to our &lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.seaofthieves.com%2Fseason-20" rel=" noopener" target="_blank"&gt;dedicated Season 20 page&lt;/a&gt;.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Emoting with Free Camera&lt;/b&gt;&lt;/p&gt;&lt;u</description>
     </item>
     <item>
       <title>Phasmophobia v0.18.0.0 - 13 Willow Street Rework &amp; Quality of Life #1</title>
