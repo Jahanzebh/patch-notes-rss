@@ -4,8 +4,16 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Fri, 24 Jul 2026 02:35:59 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 10:15:53 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The First Descendant Hotfix 1.3.35b</title>
+      <link>https://store.steampowered.com/news/app/2074920/view/719037282029404898</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/2074920/view/719037282029404898</guid>
+      <pubDate>Fri, 24 Jul 2026 03:07:18 +0000</pubDate>
+      <category>The First Descendant</category>
+      <description>&lt;div class="bb_h3"&gt;&lt;b&gt;Greetings, Descendants.&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt; &lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We would like to inform you about the details for The First Descendant Hotfix 1.3.35b.&lt;/p&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;p class="bb_paragraph"&gt;This patch will be applied without a client update, allowing immediate access without additional downloads.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;For Descendants currently in-game, please return to the title screen and reconnect to apply the patch.&lt;/p&gt;&lt;</description>
+    </item>
     <item>
       <title>The Supply FRV comes home for good in October</title>
       <link>https://store.steampowered.com/news/app/553850/view/680756051157452526</link>
@@ -53,14 +61,6 @@
       <pubDate>Tue, 21 Jul 2026 16:07:15 +0000</pubDate>
       <category>Civilization VII</category>
       <description>&lt;p class="bb_paragraph"&gt;Another update is around the corner for &lt;i&gt;Civilization VII&lt;/i&gt;, featuring a handful of improvements and couple major changes all about deepening your diplomatic strategy: &lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Expanded Peace Deals&lt;/b&gt;: You can now offer Gold and Influence in addition to trading Settlements. We've also updated the UI so you can temporarily dismiss a peace offer to survey the map before making your final decision. &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_pa</description>
-    </item>
-    <item>
-      <title>Patch 1.3.35 Schedule for July 23 (Thu)</title>
-      <link>https://store.steampowered.com/news/app/2074920/view/685259650783774441</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/2074920/view/685259650783774441</guid>
-      <pubDate>Tue, 21 Jul 2026 07:00:16 +0000</pubDate>
-      <category>The First Descendant</category>
-      <description>&lt;div class="bb_h3"&gt;&lt;b&gt;Greetings, Descendants.&lt;/b&gt;&lt;/div&gt;&lt;div class="bb_h3"&gt; &lt;/div&gt;&lt;p class="bb_paragraph"&gt;We would like to inform you about the schedule for this week’s Patch 1.3.35.&lt;/p&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;■ Patch Schedule&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Scheduled for 2026.07.23(Thu) 00:00 PDT&lt;/p&gt;&lt;p class="bb_paragraph"&gt;※ The schedule is subject to change, and details will be provided in a separate Patch Note.&lt;/p&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;p class="bb_parag</description>
     </item>
     <item>
       <title>Update 2.57.1.43</title>
@@ -138,7 +138,7 @@
       <title>News ArticleJuly 8, 2026Football Ultimate Team™ 26 - World Tour Season 9: Spain,  Portugal, &amp; Morocco ‘30</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9</guid>
-      <pubDate>Fri, 24 Jul 2026 02:35:59 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 10:15:53 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -146,7 +146,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Fri, 24 Jul 2026 02:35:59 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 10:15:53 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -154,7 +154,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Fri, 24 Jul 2026 02:35:59 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 10:15:53 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -162,7 +162,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Fri, 24 Jul 2026 02:35:59 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 10:15:53 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
