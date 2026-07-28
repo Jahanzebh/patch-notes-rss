@@ -1,49 +1,59 @@
 {
   "seen": {
+    "cdf7835b3fbe": {
+      "url": "https://store.steampowered.com/news/app/2074920/view/719037282029407226",
+      "slug": "the-first-descendant",
+      "ts": "2026-07-28T10:34:16.321153+00:00"
+    },
     "402b8a418a64": {
       "url": "https://store.steampowered.com/news/app/1295660/view/674001285755701918",
       "slug": "civilization-vii",
-      "ts": "2026-07-28T02:28:28.784924+00:00"
+      "ts": "2026-07-28T10:34:16.321171+00:00"
+    },
+    "a5542232d3ca": {
+      "url": "https://store.steampowered.com/news/app/236390/view/687512567808000333",
+      "slug": "war-thunder",
+      "ts": "2026-07-28T10:34:16.321176+00:00"
     },
     "e6a9d7bd4532": {
       "url": "https://store.steampowered.com/news/app/251570/view/695393383984663327",
       "slug": "7-days-to-die",
-      "ts": "2026-07-28T02:28:28.784944+00:00"
+      "ts": "2026-07-28T10:34:16.321179+00:00"
     },
     "af9c1e18b4dd": {
       "url": "https://store.steampowered.com/news/app/251570/view/695393383984663194",
       "slug": "7-days-to-die",
-      "ts": "2026-07-28T02:28:28.784949+00:00"
+      "ts": "2026-07-28T10:34:16.321182+00:00"
     },
     "afa84f30b1d8": {
       "url": "https://store.steampowered.com/news/app/2868840/view/680756685198854785",
       "slug": "slay-the-spire-2",
-      "ts": "2026-07-28T02:28:28.784952+00:00"
+      "ts": "2026-07-28T10:34:16.321186+00:00"
     },
     "5551c626eaf3": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-community-api-update",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-07-28T02:28:28.784955+00:00"
+      "ts": "2026-07-28T10:34:16.321189+00:00"
     },
     "427ddae63ae0": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-07-28T02:28:28.784958+00:00"
+      "ts": "2026-07-28T10:34:16.321192+00:00"
     },
     "1a0ef4f8e532": {
       "url": "https://www.footballmanager.com/news",
       "slug": "football-manager-26",
-      "ts": "2026-07-28T02:28:28.784965+00:00"
+      "ts": "2026-07-28T10:34:16.321200+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-07-28T02:28:28.784968+00:00"
+      "ts": "2026-07-28T10:34:16.321203+00:00"
     },
     "eb11cf4f0f4b": {
       "url": "https://store.steampowered.com/news/app/2909580/view/683007850971136630",
       "slug": "viractal",
-      "ts": "2026-07-28T02:28:28.784972+00:00"
+      "ts": "2026-07-28T10:34:16.321206+00:00"
     }
   }
 }
