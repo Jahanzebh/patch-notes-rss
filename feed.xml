@@ -4,7 +4,7 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Sun, 02 Aug 2026 09:56:13 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 16:57:32 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Marked Designer’s Notes</title>
@@ -45,22 +45,6 @@
       <pubDate>Thu, 30 Jul 2026 20:44:30 +0000</pubDate>
       <category>Path of Exile 2</category>
       <description>It's finally happening! The ExileCon Path of Exile 2 Qualifiers kick off next week, culminating in a live final where the top racers from all four qualifier events will compete for the championship title in New Zealand.&lt;br /&gt;&lt;br /&gt;The competition will take place on the following dates, with ZiggyD and Raiz serving as your hosts throughout the event:&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Path of Exile 2 Qualifier Event Times and Dates&lt;/b&gt;&lt;br /&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt; Qualifier One - August 6 2PM PDT&lt;br /&gt;&lt;/li&gt;&lt;li&gt; Qualif</description>
-    </item>
-    <item>
-      <title>v1.0.2.101103:Bug fixes</title>
-      <link>https://store.steampowered.com/news/app/1623730/view/683009119697764932</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1623730/view/683009119697764932</guid>
-      <pubDate>Thu, 30 Jul 2026 12:16:34 +0000</pubDate>
-      <category>Palworld</category>
-      <description>&lt;p class="bb_paragraph"&gt;・Fixed an issue where an infinite loading screen would occur after defeating the World Tree boss in some cases.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;*Crossplay with other platforms will not be affected.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Update 11.3.0</title>
-      <link>https://store.steampowered.com/news/app/2073850/view/714534317091455556</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/2073850/view/714534317091455556</guid>
-      <pubDate>Thu, 30 Jul 2026 10:00:35 +0000</pubDate>
-      <category>THE FINALS</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/42849803/2f2f74b279ac57a19757d86426faca4c6a7e1525.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;DANCE OFF&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Get your dancing shoes on! This week, we’re bringing Strike a Pose back, a fresh new Store Update, alongside new Twitch drops, balance changes, and a bunch of bug fixes.   &lt;i&gt;See you in the Arena!&lt;/i&gt;&lt;/p&gt;&lt;hr /&gt;&lt;div class="bb_h2"&gt;&lt;b&gt;STORE &lt;/b&gt;| MARSHAL METEOR&lt;/div&gt;&lt;div class="sharedFilePreviewY</description>
     </item>
     <item>
       <title>Update 2.57.1.60</title>
@@ -127,26 +111,10 @@
       <description>This update includes a revamp to how the matchmaking system works, as well as the introduction of a new matchmaking mode. You can now choose to play in Standard Mode (unranked), or the new Ranked Mode introduced in this update.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;STANDARD MODE&lt;/b&gt;&lt;br /&gt;Standard mode provides a lower-stakes way to play Deadlock with friends, without worrying about adjustments your Rank. There are no restrictions on party size or skill spread. You can also play in this mode to practice heroes you</description>
     </item>
     <item>
-      <title>Update 2.57.1.58</title>
-      <link>https://store.steampowered.com/news/app/236390/view/676253720257757732</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/676253720257757732</guid>
-      <pubDate>Thu, 30 Jul 2026 13:04:10 +0000</pubDate>
-      <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/0872d314c8ef509baeee01b538f515b8cbd06ec7.png" /&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;&lt;b&gt;Aircraft&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;BO 105 PAH-1A1&lt;/b&gt; — a bug that caused deployed countermeasures to appear from the other side of the helicopter when only one countermeasure pod was installed has been fixed. (&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fcommunity.gaijin.n</description>
-    </item>
-    <item>
-      <title>Unplanned Technical Maintenance</title>
-      <link>https://store.steampowered.com/news/app/236390/view/676253720257757730</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/676253720257757730</guid>
-      <pubDate>Thu, 30 Jul 2026 10:29:04 +0000</pubDate>
-      <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/e4303c69c4d11851febab2f8a754818919cdfd4b.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Dear players.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;The game may not be available at the moment as we are experiencing some technical issues on our servers. We are endeavouring to fix these issues as quickly as possible.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Thank you for your understanding.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;hr /&gt;&lt;p class="bb_paragraph"&gt;Mainten</description>
-    </item>
-    <item>
       <title>News ArticleJuly 27, 2026EA SPORTS FC™ 26 | Community API Update</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-community-api-update</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-community-api-update</guid>
-      <pubDate>Sun, 02 Aug 2026 09:56:13 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 16:57:32 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -154,7 +122,7 @@
       <title>News ArticleJuly 8, 2026Football Ultimate Team™ 26 - World Tour Season 9: Spain,  Portugal, &amp; Morocco ‘30</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9</guid>
-      <pubDate>Sun, 02 Aug 2026 09:56:13 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 16:57:32 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -162,7 +130,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Sun, 02 Aug 2026 09:56:13 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 16:57:32 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -170,7 +138,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Sun, 02 Aug 2026 09:56:13 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 16:57:32 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -178,7 +146,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Sun, 02 Aug 2026 09:56:13 +0000</pubDate>
+      <pubDate>Sun, 02 Aug 2026 16:57:32 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -197,22 +165,6 @@
       <pubDate>Fri, 31 Jul 2026 13:00:34 +0000</pubDate>
       <category>Dragon's Dogma 2</category>
       <description>&lt;p class="bb_paragraph"&gt;Hey everyone,&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Following the recent news in the June Capcom Spotlight that the original Dragon's Dogma: Dark Arisen director is reprising his role in the Dragon's Dogma 2: Dark Arisen, we on the DD2DA Community Team thought we’d take a moment to sit down and have a chat with the development team to ask some questions, including topics we’ve seen being eagerly discussed in the community.  Read on to see what Producer Na</description>
-    </item>
-    <item>
-      <title>A Message from ESO's Game Director</title>
-      <link>https://store.steampowered.com/news/app/306130/view/697645818486719245</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/306130/view/697645818486719245</guid>
-      <pubDate>Thu, 30 Jul 2026 15:00:09 +0000</pubDate>
-      <category>Elder Scrolls Online</category>
-      <description>&lt;img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2026/07/46c6670bc212de7375a467e21c4ae754.jpg" /&gt;                                                                                    &lt;br /&gt;&lt;i&gt;Read a community letter from Nick Giacomini about upcoming adjustments, Season updates, and our commitment to the future of ESO.&lt;/i&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;When we announced Seasons in January, we promised you a new era of transparency. Part of that promise is being open with you as our studio evolves.&lt;br /</description>
-    </item>
-    <item>
-      <title>Space Beach Party 2026 - Preview</title>
-      <link>https://store.steampowered.com/news/app/548430/view/672872850646897137</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/548430/view/672872850646897137</guid>
-      <pubDate>Thu, 30 Jul 2026 11:00:35 +0000</pubDate>
-      <category>Deep Rock Galactic</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/27142043/2a457704bc6877b0db889fb959c3904c95f327d6.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h1"&gt;Hello Miners,&lt;/div&gt;&lt;p class="bb_paragraph"&gt;Those of you who are fresh back from the Magma Core might not notice, but summer is here, and it brought the heat. It also means the annual Space Beach Party is just around the corner! So we’re here to take a quick peek at what’s coming.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;This ye</description>
     </item>
   </channel>
 </rss>
