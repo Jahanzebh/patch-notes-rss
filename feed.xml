@@ -4,7 +4,7 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Sun, 02 Aug 2026 16:57:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 02:43:00 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Marked Designer’s Notes</title>
@@ -21,30 +21,6 @@
       <pubDate>Fri, 31 Jul 2026 16:05:08 +0000</pubDate>
       <category>Civilization VII</category>
       <description>&lt;div class="bb_h1"&gt;Welcome Back!&lt;/div&gt;&lt;p class="bb_paragraph"&gt;Hey &lt;i&gt;Civ&lt;/i&gt; fans, welcome back to This Month in &lt;i&gt;Civ&lt;/i&gt;! &lt;/p&gt;&lt;p class="bb_paragraph"&gt;Summer marches along, as does our team, hard at work on the newest additions to &lt;i&gt;Civilization VII&lt;/i&gt;! Although this is a bit of a quieter month as we gear up for some major announcements later this year, there is nonetheless some cool stuff to recap. We capped off the Brush and Blade Collection by launching a new leader, the famed admiral Yi </description>
-    </item>
-    <item>
-      <title>Gameplay Patch 7.41e and Summer Scrub</title>
-      <link>https://store.steampowered.com/news/app/570/view/678505520073540065</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/570/view/678505520073540065</guid>
-      <pubDate>Thu, 30 Jul 2026 23:58:15 +0000</pubDate>
-      <category>Dota 2</category>
-      <description>&lt;img src="https://clan.fastly.steamstatic.com/images/3703047/5179a724ee3987b0b0dab399b9ef2eaba7b2abf4/english.png" /&gt;&lt;br /&gt;&lt;br /&gt;The International approaches and we've just released an update that includes &lt;a class="bb_link" href="https://www.dota2.com/newsentry/678505520073540063" rel="" target="_blank"&gt;predictions, fantasy, supporter bundles&lt;/a&gt;, and a chance to prove your skills and win new Immortals and unlock terrains.&lt;br /&gt;&lt;br /&gt;But that's not all. Today we're also releasing &lt;a class="bb_l</description>
-    </item>
-    <item>
-      <title>The International: Predictions, Fantasy, and Supporter Bundles</title>
-      <link>https://store.steampowered.com/news/app/570/view/678505520073540063</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/570/view/678505520073540063</guid>
-      <pubDate>Thu, 30 Jul 2026 23:57:48 +0000</pubDate>
-      <category>Dota 2</category>
-      <description>&lt;img src="https://clan.fastly.steamstatic.com/images/3703047/5c825b3d35627bfc4276c013745aa6fd4de935ea/english.png" /&gt;&lt;br /&gt;&lt;br /&gt;Nearly a year has passed since Team Falcons hoisted the Aegis of Champions as the final team standing in Hamburg. But that was last year's story, and the time has come to turn our thoughts to Shanghai and the crop of competitors who vie to write the tale of &lt;i&gt;this&lt;/i&gt; year. All of their battles have brought them to the precipice. The International is just two weeks aw</description>
-    </item>
-    <item>
-      <title>Path of Exile 2 ExileCon Qualifiers Begin Next Week</title>
-      <link>https://store.steampowered.com/news/app/2694490/view/675127820346721418</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/2694490/view/675127820346721418</guid>
-      <pubDate>Thu, 30 Jul 2026 20:44:30 +0000</pubDate>
-      <category>Path of Exile 2</category>
-      <description>It's finally happening! The ExileCon Path of Exile 2 Qualifiers kick off next week, culminating in a live final where the top racers from all four qualifier events will compete for the championship title in New Zealand.&lt;br /&gt;&lt;br /&gt;The competition will take place on the following dates, with ZiggyD and Raiz serving as your hosts throughout the event:&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Path of Exile 2 Qualifier Event Times and Dates&lt;/b&gt;&lt;br /&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt; Qualifier One - August 6 2PM PDT&lt;br /&gt;&lt;/li&gt;&lt;li&gt; Qualif</description>
     </item>
     <item>
       <title>Update 2.57.1.60</title>
@@ -95,26 +71,10 @@
       <description>Another beta patch just dropped! This one contains a host of balance changes and reworks. Notably, Mirage and Pillar of Creation have been reverted back to their pre-0.109.0 versions and have also been slightly buffed and nerfed, respectively. We've also implemented a brand new feature in this patch--a keyboard-only control option! So be sure to let us know what you think if you try it out. In terms of art, many cards have new, polished portrait art and, excitingly, characters now have VFX for t</description>
     </item>
     <item>
-      <title>Terraria State of the Game - July 2026</title>
-      <link>https://store.steampowered.com/news/app/105600/view/683009119697764781</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/105600/view/683009119697764781</guid>
-      <pubDate>Thu, 30 Jul 2026 20:08:49 +0000</pubDate>
-      <category>Terraria</category>
-      <description>&lt;img src="https://clan.fastly.steamstatic.com/images/3949769/82b1363c400bdeb3a62293e007e5ef8c5bd71192.png" /&gt;&lt;br /&gt;&lt;br /&gt;Greetings Terrarians!&lt;br /&gt;&lt;br /&gt;Hot enough for you out there? The way we figure it, there is no better way to dodge these insane heatwaves than getting some game time. Of course, we remain hard at work on the latest update (1.4.5.7) as well as laying the groundwork for what is to come soon thereafter. Parts of the team are also gearing up for some upcoming travel. It is an ex</description>
-    </item>
-    <item>
-      <title>Matchmaking Update</title>
-      <link>https://store.steampowered.com/news/app/1422450/view/680756685198854910</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1422450/view/680756685198854910</guid>
-      <pubDate>Thu, 30 Jul 2026 19:14:37 +0000</pubDate>
-      <category>Deadlock</category>
-      <description>This update includes a revamp to how the matchmaking system works, as well as the introduction of a new matchmaking mode. You can now choose to play in Standard Mode (unranked), or the new Ranked Mode introduced in this update.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;STANDARD MODE&lt;/b&gt;&lt;br /&gt;Standard mode provides a lower-stakes way to play Deadlock with friends, without worrying about adjustments your Rank. There are no restrictions on party size or skill spread. You can also play in this mode to practice heroes you</description>
-    </item>
-    <item>
       <title>News ArticleJuly 27, 2026EA SPORTS FC™ 26 | Community API Update</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-community-api-update</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-community-api-update</guid>
-      <pubDate>Sun, 02 Aug 2026 16:57:32 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 02:43:00 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -122,7 +82,7 @@
       <title>News ArticleJuly 8, 2026Football Ultimate Team™ 26 - World Tour Season 9: Spain,  Portugal, &amp; Morocco ‘30</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9</guid>
-      <pubDate>Sun, 02 Aug 2026 16:57:32 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 02:43:00 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -130,7 +90,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Sun, 02 Aug 2026 16:57:32 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 02:43:00 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -138,7 +98,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Sun, 02 Aug 2026 16:57:32 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 02:43:00 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -146,7 +106,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Sun, 02 Aug 2026 16:57:32 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 02:43:00 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
