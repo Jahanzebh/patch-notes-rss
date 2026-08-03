@@ -1,69 +1,54 @@
 {
   "seen": {
+    "356db2464a7d": {
+      "url": "https://store.steampowered.com/news/app/1172470/view/694268118771435636",
+      "slug": "apex-legends",
+      "ts": "2026-08-03T17:50:23.958430+00:00"
+    },
+    "e3bdec70705b": {
+      "url": "https://news.xbox.com/en-us/2026/08/03/xbox-anniversary-x25-fanfest-gear-community-designs/",
+      "slug": "xbox-system-update",
+      "ts": "2026-08-03T17:50:23.958449+00:00"
+    },
     "0f67c9628b38": {
       "url": "https://store.steampowered.com/news/app/1172470/view/694268118771435192",
       "slug": "apex-legends",
-      "ts": "2026-08-03T11:21:58.270134+00:00"
-    },
-    "5b82062ab66a": {
-      "url": "https://store.steampowered.com/news/app/1295660/view/717912016810934955",
-      "slug": "civilization-vii",
-      "ts": "2026-08-03T11:21:58.270153+00:00"
+      "ts": "2026-08-03T17:50:23.958454+00:00"
     },
     "00804a60addf": {
       "url": "https://store.steampowered.com/news/app/236390/view/676253720257758625",
       "slug": "war-thunder",
-      "ts": "2026-08-03T11:21:58.270157+00:00"
+      "ts": "2026-08-03T17:50:23.958458+00:00"
     },
     "92414f87c46d": {
       "url": "https://store.steampowered.com/news/app/236390/view/676253720257758673",
       "slug": "war-thunder",
-      "ts": "2026-08-03T11:21:58.270161+00:00"
-    },
-    "dfd99b1e0976": {
-      "url": "https://store.steampowered.com/news/app/236390/view/676253720257758621",
-      "slug": "war-thunder",
-      "ts": "2026-08-03T11:21:58.270164+00:00"
-    },
-    "ce912d7efa6c": {
-      "url": "https://store.steampowered.com/news/app/218620/view/676253720257758159",
-      "slug": "payday-2",
-      "ts": "2026-08-03T11:21:58.270167+00:00"
-    },
-    "1eaf2dd5ddc6": {
-      "url": "https://store.steampowered.com/news/app/236390/view/676253720257758653",
-      "slug": "war-thunder",
-      "ts": "2026-08-03T11:21:58.270170+00:00"
+      "ts": "2026-08-03T17:50:23.958461+00:00"
     },
     "5551c626eaf3": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-community-api-update",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-08-03T11:21:58.270174+00:00"
+      "ts": "2026-08-03T17:50:23.958464+00:00"
     },
     "427ddae63ae0": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-08-03T11:21:58.270178+00:00"
+      "ts": "2026-08-03T17:50:23.958467+00:00"
     },
     "1a0ef4f8e532": {
       "url": "https://www.footballmanager.com/news",
       "slug": "football-manager-26",
-      "ts": "2026-08-03T11:21:58.270184+00:00"
+      "ts": "2026-08-03T17:50:23.958475+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-08-03T11:21:58.270187+00:00"
+      "ts": "2026-08-03T17:50:23.958478+00:00"
     },
     "ba362a35d0dd": {
       "url": "https://store.steampowered.com/news/app/306130/view/697645818486720255",
       "slug": "elder-scrolls-online",
-      "ts": "2026-08-03T11:21:58.270190+00:00"
-    },
-    "a521f8af991e": {
-      "url": "https://store.steampowered.com/news/app/2054970/view/705527117835665761",
-      "slug": "dragons-dogma-2",
-      "ts": "2026-08-03T11:21:58.270193+00:00"
+      "ts": "2026-08-03T17:50:23.958481+00:00"
     }
   }
 }
