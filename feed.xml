@@ -4,7 +4,7 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Mon, 03 Aug 2026 02:43:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 11:21:58 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Marked Designer’s Notes</title>
@@ -23,12 +23,20 @@
       <description>&lt;div class="bb_h1"&gt;Welcome Back!&lt;/div&gt;&lt;p class="bb_paragraph"&gt;Hey &lt;i&gt;Civ&lt;/i&gt; fans, welcome back to This Month in &lt;i&gt;Civ&lt;/i&gt;! &lt;/p&gt;&lt;p class="bb_paragraph"&gt;Summer marches along, as does our team, hard at work on the newest additions to &lt;i&gt;Civilization VII&lt;/i&gt;! Although this is a bit of a quieter month as we gear up for some major announcements later this year, there is nonetheless some cool stuff to recap. We capped off the Brush and Blade Collection by launching a new leader, the famed admiral Yi </description>
     </item>
     <item>
+      <title>Work-In-Progress: New Decals and QoL Features</title>
+      <link>https://store.steampowered.com/news/app/236390/view/676253720257758625</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/676253720257758625</guid>
+      <pubDate>Mon, 03 Aug 2026 11:19:28 +0000</pubDate>
+      <category>War Thunder</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/f6544c276afbaf136e07d902e8d8e59f12cea86b.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Hey everyone!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Today we’d like to cover some quality of life improvements for decals, and show you some of the new decals we’ve been working on.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;&lt;b&gt;Decal Filtering&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img src="</description>
+    </item>
+    <item>
       <title>Update 2.57.1.60</title>
       <link>https://store.steampowered.com/news/app/236390/view/676253720257758673</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/676253720257758673</guid>
       <pubDate>Sat, 01 Aug 2026 04:45:02 +0000</pubDate>
       <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/95eba2a592a6f2f7fc8b286424a3fc2434b54eb6.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;&lt;b&gt;Sound&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;A bug that caused the sound of the sirens on the Ju 87 series of aircraft to lead to a loud sound artifact and loss of all other sounds has been fixed. (&lt;b&gt;&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fcommunity.gaijin.net%2Fissues%2Fp%2Fwarthund</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/95eba2a592a6f2f7fc8b286424a3fc2434b54eb6.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;&lt;b&gt;Sound&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;A bug that caused the sound of the sirens on the Ju 87 series of aircraft to lead to a loud sound artifact and loss of all other sounds has been fixed. (&lt;b&gt;&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fcommunity.gaijin.net%2Fissues%2Fp%2Fwarthund</description>
     </item>
     <item>
       <title>How Was the Year in War Thunder: Rate the New Additions</title>
@@ -36,7 +44,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/676253720257758621</guid>
       <pubDate>Fri, 31 Jul 2026 16:28:38 +0000</pubDate>
       <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/fe6ebcc164f2d98684fed2039d0ea65fd81a9780.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Hello, tankers, pilots and captains! The past year in War Thunder has been packed: six major updates, hundreds of new ground vehicles, aircraft and ships, reworked maps, and significant updates to gameplay and visuals. The development team wants to know what truly landed, what left you indifferent, and what disappointed you, we want to h</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/fe6ebcc164f2d98684fed2039d0ea65fd81a9780.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Hello, tankers, pilots and captains! The past year in War Thunder has been packed: six major updates, hundreds of new ground vehicles, aircraft and ships, reworked maps, and significant updates to gameplay and visuals. The development team wants to know what truly landed, what left you indifferent, and what disappointed you, we want to h</description>
     </item>
     <item>
       <title>PAYDAY 2: Engine Upgrade Open-Beta - Extension</title>
@@ -52,29 +60,13 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/676253720257758653</guid>
       <pubDate>Fri, 31 Jul 2026 11:37:30 +0000</pubDate>
       <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/c81f1b51e4378be0b5b8baeb8a9ebce10aa88f9b.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We’d like to thank everyone for their feedback and participation in the previous Advance mode test, the feedback was overall positive, you wanted more, and we’re happy to oblige! This time we’re back with a higher BR range, as requested.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We’ve also made some changes to the nation matchups to improve balance, so</description>
-    </item>
-    <item>
-      <title>DayZ Badlands | Dev Blog Recap (1)</title>
-      <link>https://store.steampowered.com/news/app/221100/view/706653017740412457</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/221100/view/706653017740412457</guid>
-      <pubDate>Fri, 31 Jul 2026 10:43:37 +0000</pubDate>
-      <category>DayZ</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;a class="bb_link" href="https://store.steampowered.com/app/3816030/DayZ_Badlands/" rel="" target="_blank"&gt;https://store.steampowered.com/app/3816030/DayZ_Badlands/&lt;/a&gt;&lt;b&gt;Hey, Survivors! &lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We hope this doesn’t come as too much of a surprise, since it hasn’t been three weeks since the last blog. We’d like to try something new to get information out to you as much as possible while recapping what we’ve covered about DayZ Badlands so far. &lt;/p&gt;&lt;p</description>
-    </item>
-    <item>
-      <title>Beta Patch Notes - v0.110.0</title>
-      <link>https://store.steampowered.com/news/app/2868840/view/694268118771435039</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/2868840/view/694268118771435039</guid>
-      <pubDate>Fri, 31 Jul 2026 03:26:13 +0000</pubDate>
-      <category>Slay the Spire 2</category>
-      <description>Another beta patch just dropped! This one contains a host of balance changes and reworks. Notably, Mirage and Pillar of Creation have been reverted back to their pre-0.109.0 versions and have also been slightly buffed and nerfed, respectively. We've also implemented a brand new feature in this patch--a keyboard-only control option! So be sure to let us know what you think if you try it out. In terms of art, many cards have new, polished portrait art and, excitingly, characters now have VFX for t</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/c81f1b51e4378be0b5b8baeb8a9ebce10aa88f9b.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We’d like to thank everyone for their feedback and participation in the previous Advance mode test, the feedback was overall positive, you wanted more, and we’re happy to oblige! This time we’re back with a higher BR range, as requested.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We’ve also made some changes to the nation matchups to improve balance, so</description>
     </item>
     <item>
       <title>News ArticleJuly 27, 2026EA SPORTS FC™ 26 | Community API Update</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-community-api-update</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-community-api-update</guid>
-      <pubDate>Mon, 03 Aug 2026 02:43:00 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 11:21:58 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -82,7 +74,7 @@
       <title>News ArticleJuly 8, 2026Football Ultimate Team™ 26 - World Tour Season 9: Spain,  Portugal, &amp; Morocco ‘30</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9</guid>
-      <pubDate>Mon, 03 Aug 2026 02:43:00 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 11:21:58 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -90,7 +82,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Mon, 03 Aug 2026 02:43:00 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 11:21:58 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -98,7 +90,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Mon, 03 Aug 2026 02:43:00 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 11:21:58 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -106,7 +98,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Mon, 03 Aug 2026 02:43:00 +0000</pubDate>
+      <pubDate>Mon, 03 Aug 2026 11:21:58 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
