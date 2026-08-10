@@ -4,8 +4,16 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Mon, 10 Aug 2026 01:43:24 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 09:19:52 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Dev Note vol. 28 | Season 4 Transcendent Weapons &amp; Trials</title>
+      <link>https://store.steampowered.com/news/app/2074920/view/701024152480383977</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/2074920/view/701024152480383977</guid>
+      <pubDate>Mon, 10 Aug 2026 09:12:10 +0000</pubDate>
+      <category>The First Descendant</category>
+      <description>&lt;div class="bb_h1"&gt;&lt;img src="https://dszw1qtcnsa5e.cloudfront.net/community/20260810/b76a263c-1ceb-4260-b6f6-afb8912e0f55/%EB%8D%B0%EB%B8%8C%EB%85%B8%ED%8A%B8%EA%B3%B5%EC%A7%80%EA%B3%B5%ED%99%88%EC%83%81%EB%8B%A82108x460.png" /&gt;Greetings, Descendants!&lt;/div&gt; &lt;br /&gt;&lt;br /&gt;In this Dev Note, we introduced 11 Transcendent Weapons as well as the new content, 'Trials' coming in Season 4. More details on Season 4 will be shared at the Dev Live on Tuesday, August 18&lt;sup&gt;th&lt;/sup&gt;.&lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;F</description>
+    </item>
     <item>
       <title>Fan Art Competition</title>
       <link>https://store.steampowered.com/news/app/2694490/view/708905451829330790</link>
@@ -28,23 +36,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/2073850/view/703275952293020219</guid>
       <pubDate>Fri, 07 Aug 2026 15:16:58 +0000</pubDate>
       <category>THE FINALS</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/42849803/a0bc4dbd63d738c848a52aa1f5d9fb34110139bc.png" /&gt;&lt;br /&gt;Hello Contestants,&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We’ve pushed a client hotfix to address some of the issues when starting the game.&lt;br /&gt;&lt;b&gt;Please note this update only affects players on Steam.&lt;/b&gt;&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed a common hang/crash when starting the game from Steam&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph"&gt;As always, we than</description>
-    </item>
-    <item>
-      <title>Marvel Rivals Version 20260807 Patch Notes - Season 9.5 Arrives</title>
-      <link>https://store.steampowered.com/news/app/2767030/view/703275952293019954</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/2767030/view/703275952293019954</guid>
-      <pubDate>Fri, 07 Aug 2026 06:32:34 +0000</pubDate>
-      <category>Marvel Rivals</category>
-      <description>&lt;p class="bb_paragraph"&gt;Greetings, Rivals!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Welcome to Season 9.5 of Marvel Rivals!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Desire is the prologue to power, and the precipice of corruption. When desire dons the mantle of power, darkness silently creeps.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;This update begins on &lt;b&gt;&lt;u&gt;August 7th, 2026, at 09 : 00 : 00 (UTC)&lt;/u&gt;&lt;/b&gt;, with estimated maintenance lasting 2 hours.&lt;/p&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;div class="bb_h2"&gt;&lt;b&gt;All-New Content&lt;/b&gt;&lt;/div&gt;&lt;div c</description>
-    </item>
-    <item>
-      <title>Marvel Rivals: Step into Season 9.5 // Dev Vision Vol. 20</title>
-      <link>https://store.steampowered.com/news/app/2767030/view/703275952293019956</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/2767030/view/703275952293019956</guid>
-      <pubDate>Fri, 07 Aug 2026 06:31:03 +0000</pubDate>
-      <category>Marvel Rivals</category>
-      <description>&lt;p class="bb_paragraph"&gt;Step into Season 9.5, Rivals! Dev Vision Vol. 20 is officially here! 💫 &lt;/p&gt;&lt;p class="bb_paragraph"&gt;Join Guangguang as he takes a deep dive into the massive amount of content dropped in our latest updates. &lt;/p&gt;&lt;p class="bb_paragraph"&gt;We're breaking down a new villain reveal, the upcoming roadmap features, and more! 💥 &lt;/p&gt;&lt;p class="bb_paragraph"&gt;Season 9.5 will be available from August 7th, 2026 UTC! &lt;/p&gt;&lt;p class="bb_paragraph"&gt;Gear up for an unforgettable continuation of t</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/42849803/a0bc4dbd63d738c848a52aa1f5d9fb34110139bc.png" /&gt;&lt;br /&gt;Hello Contestants,&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We’ve pushed a client hotfix to address some of the issues when starting the game.&lt;br /&gt;&lt;b&gt;Please note this update only affects players on Steam.&lt;/b&gt;&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed a common hang/crash when starting the game from Steam&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph"&gt;As always, we than</description>
     </item>
     <item>
       <title>PUBG GLOBAL SERIES 7 FINAL STAGE DAY 2 IS LIVE</title>
@@ -82,7 +74,7 @@
       <title>News ArticleJuly 27, 2026EA SPORTS FC™ 26 | Community API Update</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-community-api-update</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-community-api-update</guid>
-      <pubDate>Mon, 10 Aug 2026 01:43:24 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 09:19:52 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -90,7 +82,7 @@
       <title>News ArticleJuly 8, 2026Football Ultimate Team™ 26 - World Tour Season 9: Spain,  Portugal, &amp; Morocco ‘30</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9</guid>
-      <pubDate>Mon, 10 Aug 2026 01:43:24 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 09:19:52 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -98,7 +90,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Mon, 10 Aug 2026 01:43:24 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 09:19:52 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -106,7 +98,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Mon, 10 Aug 2026 01:43:24 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 09:19:52 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -114,17 +106,9 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Mon, 10 Aug 2026 01:43:24 +0000</pubDate>
+      <pubDate>Mon, 10 Aug 2026 09:19:52 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
-    </item>
-    <item>
-      <title>Jujutsu Kaisen Rumble: Survivaton</title>
-      <link>https://store.steampowered.com/news/app/1794680/view/697641379212297648</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1794680/view/697641379212297648</guid>
-      <pubDate>Fri, 07 Aug 2026 09:07:06 +0000</pubDate>
-      <category>Vampire Survivors</category>
-      <description>&lt;p class="bb_paragraph"&gt;Hi everyone, we  have a lot happening around new games and Vampire Survivors, so here's a gigantic news post!&lt;br /&gt;🟣- Jujutsu Kaisen Rumble: Survivaton&lt;br /&gt;🔴- Vampire Survivors 1.15&lt;br /&gt;🔴- Legacy of the Bloodmoon teasers&lt;br /&gt;🔴- Legacy of the Moonspell info&lt;br /&gt;🔴- Workshop Support for Vampire Survivors&lt;br /&gt;🔴- ARG and Character Community Challenge winners&lt;br /&gt;🔴- Vampire Survivors Comics&lt;br /&gt;🔵- Vampire Crawlers updates&lt;br /&gt;🟢- PoncleUp&lt;br /&gt;&lt;br /&gt;&lt;img src="https://cla</description>
     </item>
   </channel>
 </rss>
