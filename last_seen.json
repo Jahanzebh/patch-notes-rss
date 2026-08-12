@@ -1,104 +1,109 @@
 {
   "seen": {
+    "6860cc662852": {
+      "url": "https://store.steampowered.com/news/app/1172470/view/685261553769907857",
+      "slug": "apex-legends",
+      "ts": "2026-08-12T01:51:19.514937+00:00"
+    },
     "770457676d52": {
       "url": "https://store.steampowered.com/news/app/2074920/view/701024152480383977",
       "slug": "the-first-descendant",
-      "ts": "2026-08-11T16:56:46.378512+00:00"
+      "ts": "2026-08-12T01:51:19.514957+00:00"
     },
     "1587edc4a544": {
       "url": "https://store.steampowered.com/news/app/2694490/view/708905451829330790",
       "slug": "path-of-exile-2",
-      "ts": "2026-08-11T16:56:46.378529+00:00"
+      "ts": "2026-08-12T01:51:19.514961+00:00"
     },
     "64f3e3c6041b": {
       "url": "https://store.steampowered.com/news/app/394360/view/671748399637202679",
       "slug": "hearts-of-iron-iv",
-      "ts": "2026-08-11T16:56:46.378534+00:00"
+      "ts": "2026-08-12T01:51:19.514964+00:00"
     },
     "191b834ee5db": {
       "url": "https://store.steampowered.com/news/app/236390/view/714534951362495990",
       "slug": "war-thunder",
-      "ts": "2026-08-11T16:56:46.378538+00:00"
+      "ts": "2026-08-12T01:51:19.514968+00:00"
     },
     "3288fb06e3ec": {
       "url": "https://store.steampowered.com/news/app/236390/view/714534951362495920",
       "slug": "war-thunder",
-      "ts": "2026-08-11T16:56:46.378541+00:00"
+      "ts": "2026-08-12T01:51:19.514971+00:00"
     },
     "d8f45844ed3a": {
       "url": "https://store.steampowered.com/news/app/578080/view/680758418664849443",
       "slug": "pubg-battlegrounds",
-      "ts": "2026-08-11T16:56:46.378544+00:00"
+      "ts": "2026-08-12T01:51:19.514974+00:00"
     },
     "9dc192816242": {
       "url": "https://store.steampowered.com/news/app/578080/view/680758418664849441",
       "slug": "pubg-battlegrounds",
-      "ts": "2026-08-11T16:56:46.378547+00:00"
+      "ts": "2026-08-12T01:51:19.514977+00:00"
     },
     "b141d2de40f4": {
       "url": "https://store.steampowered.com/news/app/578080/view/680758418664849439",
       "slug": "pubg-battlegrounds",
-      "ts": "2026-08-11T16:56:46.378551+00:00"
+      "ts": "2026-08-12T01:51:19.514981+00:00"
     },
     "f3bcdd7c5085": {
       "url": "https://store.steampowered.com/news/app/236390/view/714534951362494699",
       "slug": "war-thunder",
-      "ts": "2026-08-11T16:56:46.378555+00:00"
+      "ts": "2026-08-12T01:51:19.514984+00:00"
     },
     "6e16c5cc27d8": {
       "url": "https://store.steampowered.com/news/app/1868140/view/698772352667747217",
       "slug": "dave-the-diver",
-      "ts": "2026-08-11T16:56:46.378558+00:00"
+      "ts": "2026-08-12T01:51:19.514987+00:00"
     },
     "6b6704643e6b": {
       "url": "https://store.steampowered.com/news/app/236390/view/714534951362495345",
       "slug": "war-thunder",
-      "ts": "2026-08-11T16:56:46.378561+00:00"
+      "ts": "2026-08-12T01:51:19.514990+00:00"
     },
     "5551c626eaf3": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-community-api-update",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-08-11T16:56:46.378564+00:00"
+      "ts": "2026-08-12T01:51:19.514993+00:00"
     },
     "427ddae63ae0": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-9",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-08-11T16:56:46.378568+00:00"
+      "ts": "2026-08-12T01:51:19.514996+00:00"
     },
     "1a0ef4f8e532": {
       "url": "https://www.footballmanager.com/news",
       "slug": "football-manager-26",
-      "ts": "2026-08-11T16:56:46.378573+00:00"
+      "ts": "2026-08-12T01:51:19.515002+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-08-11T16:56:46.378576+00:00"
+      "ts": "2026-08-12T01:51:19.515005+00:00"
     },
     "f283d2459557": {
       "url": "https://store.steampowered.com/news/app/1284210/view/669498955089839176",
       "slug": "guild-wars-2",
-      "ts": "2026-08-11T16:56:46.378579+00:00"
+      "ts": "2026-08-12T01:51:19.515008+00:00"
     },
     "29088571a61b": {
       "url": "https://store.steampowered.com/news/app/526870/view/716786751176181500",
       "slug": "satisfactory",
-      "ts": "2026-08-11T16:56:46.378583+00:00"
+      "ts": "2026-08-12T01:51:19.515011+00:00"
     },
     "1ff7f7913d89": {
       "url": "https://store.steampowered.com/news/app/739630/view/680758418664850142",
       "slug": "phasmophobia",
-      "ts": "2026-08-11T16:56:46.378586+00:00"
+      "ts": "2026-08-12T01:51:19.515014+00:00"
     },
     "6d2ec7dfbc71": {
       "url": "https://store.steampowered.com/news/app/1062090/view/702150052386177895",
       "slug": "timberborn",
-      "ts": "2026-08-11T16:56:46.378589+00:00"
+      "ts": "2026-08-12T01:51:19.515017+00:00"
     },
     "8fb16a2fb967": {
       "url": "https://store.steampowered.com/news/app/2909580/view/695394652947219261",
       "slug": "viractal",
-      "ts": "2026-08-11T16:56:46.378591+00:00"
+      "ts": "2026-08-12T01:51:19.515020+00:00"
     }
   }
 }
