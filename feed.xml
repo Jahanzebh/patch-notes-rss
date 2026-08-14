@@ -4,8 +4,16 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Fri, 14 Aug 2026 01:50:56 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 09:06:20 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Update Summary (Ver.1.042.00.02)</title>
+      <link>https://store.steampowered.com/news/app/2246340/view/545650698257172191</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/2246340/view/545650698257172191</guid>
+      <pubDate>Fri, 14 Aug 2026 03:26:59 +0000</pubDate>
+      <category>Monster Hunter Wilds</category>
+      <description>You must install the latest version of Monster Hunter Wilds in order to play online multiplayer and access downloadable content.&lt;br /&gt;&lt;br /&gt;&lt;div class="bb_h2"&gt;&lt;b&gt;Release Date&lt;/b&gt;&lt;/div&gt;&lt;b&gt;Friday, August 14, 2026&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class="bb_h2"&gt;&lt;b&gt;Bug Fixes and Balance Adjustments&lt;/b&gt;&lt;/div&gt;Measures are being taken to address an issue causing frame rate drops in some environments following the release of Ver. 1.042.00.01.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Video Driver Version&lt;/b&gt;&lt;/div&gt;Please</description>
+    </item>
     <item>
       <title>Update 1.4.2 Hotfix - August 13, 2026</title>
       <link>https://store.steampowered.com/news/app/1295660/view/716787385016254960</link>
@@ -61,6 +69,14 @@
       <pubDate>Tue, 11 Aug 2026 17:19:03 +0000</pubDate>
       <category>Apex Legends</category>
       <description>&lt;p class="bb_paragraph"&gt;Hello, we just pushed an update for the following:&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;✅&lt;b&gt;FIXED&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;-Mythic CAR reload animations will now display correctly&lt;/p&gt;&lt;p class="bb_paragraph"&gt;-Hemlok Breach AR will now recoil as intended &lt;/p&gt;&lt;p class="bb_paragraph"&gt;-The World's Edge minimap now accurately reflects players location&lt;/p&gt;&lt;p class="bb_paragraph"&gt;-Lifeline's Tactical audio now plays correctly when other HP regeneration is </description>
+    </item>
+    <item>
+      <title>PAYDAY 2: Update 247.1 Changelog</title>
+      <link>https://store.steampowered.com/news/app/218620/view/701024786320460046</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/218620/view/701024786320460046</guid>
+      <pubDate>Fri, 14 Aug 2026 02:31:57 +0000</pubDate>
+      <category>PAYDAY 2</category>
+      <description>&lt;div class="bb_h2"&gt;Hello heisters!&lt;/div&gt;&lt;p class="bb_paragraph"&gt;Got a small update here that fixes some bugs people found in the initial Diesel 3.0 release.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h1"&gt;PAYDAY 2: Update 247.1 Changelog&lt;/div&gt;&lt;div class="bb_h2"&gt;Download Size: 12.8 MB&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;General&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed save files not loading for Epic games players (&lt;b&gt;Your save file is not gone or corrupted!&lt;/b&gt; S</description>
     </item>
     <item>
       <title>Beta Patch Notes - v0.111.0</title>
@@ -199,34 +215,10 @@
       <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/059879ddc37b10063eac9c9d470e405c0e612fb8.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Aircraft&lt;/b&gt; &lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;A bug where the radio proximity fuzes of ARH and SARH missiles worked incorrectly when switching to INS+DL mode has been fixed. This sometimes caused missiles to pass straight through aircraft without detonating or to explode only after having already flown past the target. (</description>
     </item>
     <item>
-      <title>August Store Update 2026</title>
-      <link>https://store.steampowered.com/news/app/578080/view/680758418664849443</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/578080/view/680758418664849443</guid>
-      <pubDate>Tue, 11 Aug 2026 06:00:47 +0000</pubDate>
-      <category>PUBG: BATTLEGROUNDS</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/27971017/52eb67ceb2ad3200f47fe82831c30712eef341bf.png" /&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fpubg.com%2Fnews%2F10828" rel=" noopener" target="_blank"&gt;Read the full announcement here!&lt;/a&gt;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Patch Notes - Update 42.3</title>
-      <link>https://store.steampowered.com/news/app/578080/view/680758418664849441</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/578080/view/680758418664849441</guid>
-      <pubDate>Tue, 11 Aug 2026 06:00:47 +0000</pubDate>
-      <category>PUBG: BATTLEGROUNDS</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/27971017/f7ef9447f1760f593564acd461b01f0ce717e87d.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fpubg.com%2Fnews%2F10885" rel=" noopener" target="_blank"&gt;Read the full announcement here!&lt;/a&gt;&lt;/div&gt;</description>
-    </item>
-    <item>
-      <title>Map Service Report - Update 42.3</title>
-      <link>https://store.steampowered.com/news/app/578080/view/680758418664849439</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/578080/view/680758418664849439</guid>
-      <pubDate>Tue, 11 Aug 2026 06:00:45 +0000</pubDate>
-      <category>PUBG: BATTLEGROUNDS</category>
-      <description>&lt;img src="https://clan.fastly.steamstatic.com/images/27971017/c6c8adc4d5670ed2aab016cc334af385eb01a5f7.png" /&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class="bb_h2"&gt;&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fpubg.com%2Fnews%2F10854" rel=" noopener" target="_blank"&gt;Read the full announcement here!&lt;/a&gt;&lt;/div&gt;</description>
-    </item>
-    <item>
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Fri, 14 Aug 2026 01:50:56 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 09:06:20 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -234,7 +226,7 @@
       <title>News ArticleJuly 27, 2026EA SPORTS FC™ 26 | Community API Update</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-community-api-update</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-community-api-update</guid>
-      <pubDate>Fri, 14 Aug 2026 01:50:56 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 09:06:20 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -242,7 +234,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Fri, 14 Aug 2026 01:50:56 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 09:06:20 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -250,7 +242,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Fri, 14 Aug 2026 01:50:56 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 09:06:20 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -258,7 +250,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Fri, 14 Aug 2026 01:50:56 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 09:06:20 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -293,14 +285,6 @@
       <pubDate>Tue, 11 Aug 2026 14:06:06 +0000</pubDate>
       <category>Phasmophobia</category>
       <description>&lt;p class="bb_paragraph"&gt;Welcome back, Ghost Hunters.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Thank you to everyone for the warm reception to our first Quality of Life update last month, and we’re glad to see many of you enjoying Phasmophobia once more.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Today as promised, we’re sharing details on the upcoming second Quality of Life update for Phasmophobia. We’ll be releasing this update across all platforms on &lt;b&gt;25th August, 2026&lt;/b&gt;. Exact release times are still to be confirmed, </description>
-    </item>
-    <item>
-      <title>Patch notes 2026-08-11 (Experimental)</title>
-      <link>https://store.steampowered.com/news/app/1062090/view/702150052386177895</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1062090/view/702150052386177895</guid>
-      <pubDate>Tue, 11 Aug 2026 06:55:35 +0000</pubDate>
-      <category>Timberborn</category>
-      <description>&lt;p class="bb_paragraph"&gt;Hello, everyone!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Just when you thought you’d seen everything we prepared for Update 1.1, here we are with &lt;b&gt;Pillars&lt;/b&gt;, another cool - and Unconventional - map! We’ve also buffed &lt;b&gt;Succulents&lt;/b&gt; and updated the &lt;b&gt;Compact Water Pump&lt;/b&gt; to enable even more advanced water transportation setups. Enjoy!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h1"&gt;Patch notes 2026-08-11 (Experimental)&lt;/div&gt;&lt;p class="bb_paragraph"&gt;As a reminder, &lt;u&gt;&lt;a class</description>
     </item>
   </channel>
 </rss>
