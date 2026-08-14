@@ -4,7 +4,7 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Thu, 13 Aug 2026 16:55:44 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 01:50:56 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Update 1.4.2 Hotfix - August 13, 2026</title>
@@ -61,6 +61,14 @@
       <pubDate>Tue, 11 Aug 2026 17:19:03 +0000</pubDate>
       <category>Apex Legends</category>
       <description>&lt;p class="bb_paragraph"&gt;Hello, we just pushed an update for the following:&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;✅&lt;b&gt;FIXED&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;-Mythic CAR reload animations will now display correctly&lt;/p&gt;&lt;p class="bb_paragraph"&gt;-Hemlok Breach AR will now recoil as intended &lt;/p&gt;&lt;p class="bb_paragraph"&gt;-The World's Edge minimap now accurately reflects players location&lt;/p&gt;&lt;p class="bb_paragraph"&gt;-Lifeline's Tactical audio now plays correctly when other HP regeneration is </description>
+    </item>
+    <item>
+      <title>Beta Patch Notes - v0.111.0</title>
+      <link>https://store.steampowered.com/news/app/2868840/view/671751488532383386</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/2868840/view/671751488532383386</guid>
+      <pubDate>Fri, 14 Aug 2026 01:07:02 +0000</pubDate>
+      <category>Slay the Spire 2</category>
+      <description>Time for another beta patch! Heads up that there won't be a patch on the 27th as our team is taking a break in the last week of August. As we'll explain a bit further in the upcoming August Neowsletter, there may be a longer wait in general for the next patch, as we've shifted our focus to some BIG, much-anticipated pieces of content!&lt;br /&gt;&lt;br /&gt;In the meantime, let's look at some of this update's highlights. First off, there are a couple of card reworks and lots of various balance changes as we</description>
     </item>
     <item>
       <title>PAYDAY 2: Update 247 Changelog</title>
@@ -218,7 +226,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Thu, 13 Aug 2026 16:55:44 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 01:50:56 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -226,7 +234,7 @@
       <title>News ArticleJuly 27, 2026EA SPORTS FC™ 26 | Community API Update</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-community-api-update</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-community-api-update</guid>
-      <pubDate>Thu, 13 Aug 2026 16:55:44 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 01:50:56 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -234,7 +242,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Thu, 13 Aug 2026 16:55:44 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 01:50:56 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -242,7 +250,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Thu, 13 Aug 2026 16:55:44 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 01:50:56 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -250,9 +258,17 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Thu, 13 Aug 2026 16:55:44 +0000</pubDate>
+      <pubDate>Fri, 14 Aug 2026 01:50:56 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
+    </item>
+    <item>
+      <title>Combat Updates – Update 51 PTS</title>
+      <link>https://store.steampowered.com/news/app/306130/view/685262187621517458</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/306130/view/685262187621517458</guid>
+      <pubDate>Thu, 13 Aug 2026 20:15:43 +0000</pubDate>
+      <category>Elder Scrolls Online</category>
+      <description>Hi All. Below is a message from the combat team, touching on some of the feedback we've seen over the last two weeks of PTS. &lt;br /&gt;&lt;br /&gt;______________________________________________________&lt;br /&gt;Greetings! This week the combat team has an update relating to some upcoming changes we’ll be pushing to the PTS for Update 51. Before we get into the juicy details, we’ll quickly talk about general sentiments we’ve seen that have led us here, as these changes are in direct response to your PTS feedbac</description>
     </item>
     <item>
       <title>The Festival of the Four Winds Is Live Now!</title>
