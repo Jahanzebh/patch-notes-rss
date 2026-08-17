@@ -1,59 +1,49 @@
 {
   "seen": {
-    "6e563d5b1cbe": {
-      "url": "https://store.steampowered.com/news/app/2246340/view/545650698257172191",
-      "slug": "monster-hunter-wilds",
-      "ts": "2026-08-17T01:11:40.002508+00:00"
-    },
     "fbcdc7299633": {
       "url": "https://store.steampowered.com/news/app/359550/view/670624854980953720",
       "slug": "rainbow-six-siege",
-      "ts": "2026-08-17T01:11:40.002524+00:00"
+      "ts": "2026-08-17T08:41:45.266495+00:00"
     },
     "d4d08f071f21": {
       "url": "https://store.steampowered.com/news/app/578080/view/452201006698072249",
       "slug": "pubg-battlegrounds",
-      "ts": "2026-08-17T01:11:40.002528+00:00"
+      "ts": "2026-08-17T08:41:45.266515+00:00"
     },
     "26c7dc562c68": {
       "url": "https://store.steampowered.com/news/app/2868840/view/685261553769906927",
       "slug": "slay-the-spire-2",
-      "ts": "2026-08-17T01:11:40.002532+00:00"
+      "ts": "2026-08-17T08:41:45.266520+00:00"
     },
     "d2964b40cc2f": {
       "url": "https://store.steampowered.com/news/app/578080/view/452201006698072247",
       "slug": "pubg-battlegrounds",
-      "ts": "2026-08-17T01:11:40.002535+00:00"
+      "ts": "2026-08-17T08:41:45.266524+00:00"
     },
     "b1bbbff1be80": {
       "url": "https://store.steampowered.com/news/app/381210/view/683010387809929805",
       "slug": "dead-by-daylight",
-      "ts": "2026-08-17T01:11:40.002538+00:00"
-    },
-    "70a87cf29376": {
-      "url": "https://store.steampowered.com/news/app/218620/view/701024786320460046",
-      "slug": "payday-2",
-      "ts": "2026-08-17T01:11:40.002541+00:00"
+      "ts": "2026-08-17T08:41:45.266527+00:00"
     },
     "95cc965af55e": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-08-17T01:11:40.002545+00:00"
+      "ts": "2026-08-17T08:41:45.266530+00:00"
     },
     "5551c626eaf3": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-community-api-update",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-08-17T01:11:40.002549+00:00"
+      "ts": "2026-08-17T08:41:45.266534+00:00"
     },
     "1a0ef4f8e532": {
       "url": "https://www.footballmanager.com/news",
       "slug": "football-manager-26",
-      "ts": "2026-08-17T01:11:40.002555+00:00"
+      "ts": "2026-08-17T08:41:45.266541+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-08-17T01:11:40.002558+00:00"
+      "ts": "2026-08-17T08:41:45.266545+00:00"
     }
   }
 }
