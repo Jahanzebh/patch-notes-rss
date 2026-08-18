@@ -1,69 +1,59 @@
 {
   "seen": {
+    "55985d59c37e": {
+      "url": "https://store.steampowered.com/news/app/1172470/view/671751488532384309",
+      "slug": "apex-legends",
+      "ts": "2026-08-18T01:09:05.915758+00:00"
+    },
     "b7756a2cdb4b": {
       "url": "https://store.steampowered.com/news/app/553850/view/703276586134145952",
       "slug": "helldivers-2",
-      "ts": "2026-08-17T16:25:49.592166+00:00"
+      "ts": "2026-08-18T01:09:05.915777+00:00"
     },
     "3e9048454ddf": {
       "url": "https://store.steampowered.com/news/app/359550/view/696521186693090390",
       "slug": "rainbow-six-siege",
-      "ts": "2026-08-17T16:25:49.592183+00:00"
+      "ts": "2026-08-18T01:09:05.915782+00:00"
     },
     "8b690ccf45c7": {
       "url": "https://store.steampowered.com/news/app/236390/view/701024786320460835",
       "slug": "war-thunder",
-      "ts": "2026-08-17T16:25:49.592187+00:00"
+      "ts": "2026-08-18T01:09:05.915785+00:00"
     },
     "fbcdc7299633": {
       "url": "https://store.steampowered.com/news/app/359550/view/670624854980953720",
       "slug": "rainbow-six-siege",
-      "ts": "2026-08-17T16:25:49.592190+00:00"
+      "ts": "2026-08-18T01:09:05.915788+00:00"
     },
     "d4d08f071f21": {
       "url": "https://store.steampowered.com/news/app/578080/view/452201006698072249",
       "slug": "pubg-battlegrounds",
-      "ts": "2026-08-17T16:25:49.592194+00:00"
-    },
-    "26c7dc562c68": {
-      "url": "https://store.steampowered.com/news/app/2868840/view/685261553769906927",
-      "slug": "slay-the-spire-2",
-      "ts": "2026-08-17T16:25:49.592197+00:00"
-    },
-    "d2964b40cc2f": {
-      "url": "https://store.steampowered.com/news/app/578080/view/452201006698072247",
-      "slug": "pubg-battlegrounds",
-      "ts": "2026-08-17T16:25:49.592200+00:00"
-    },
-    "b1bbbff1be80": {
-      "url": "https://store.steampowered.com/news/app/381210/view/683010387809929805",
-      "slug": "dead-by-daylight",
-      "ts": "2026-08-17T16:25:49.592204+00:00"
+      "ts": "2026-08-18T01:09:05.915814+00:00"
     },
     "95cc965af55e": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-08-17T16:25:49.592208+00:00"
+      "ts": "2026-08-18T01:09:05.915819+00:00"
     },
     "5551c626eaf3": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-community-api-update",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-08-17T16:25:49.592211+00:00"
+      "ts": "2026-08-18T01:09:05.915823+00:00"
     },
     "1a0ef4f8e532": {
       "url": "https://www.footballmanager.com/news",
       "slug": "football-manager-26",
-      "ts": "2026-08-17T16:25:49.592218+00:00"
+      "ts": "2026-08-18T01:09:05.915830+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-08-17T16:25:49.592221+00:00"
+      "ts": "2026-08-18T01:09:05.915833+00:00"
     },
     "a6d55bc3e7c7": {
       "url": "https://store.steampowered.com/news/app/1062090/view/546776598164015486",
       "slug": "timberborn",
-      "ts": "2026-08-17T16:25:49.592224+00:00"
+      "ts": "2026-08-18T01:09:05.915836+00:00"
     }
   }
 }
