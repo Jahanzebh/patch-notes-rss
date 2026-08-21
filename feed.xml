@@ -4,7 +4,7 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Thu, 20 Aug 2026 16:34:09 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 01:13:45 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Update 11.6.0</title>
@@ -31,20 +31,20 @@
       <description>&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;div class="bb_table"&gt;&lt;div class="bb_table_tr"&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Event Name&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Event Period&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="bb_table_tr"&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;\[Attendance] Frontline Medical Support&lt;/p&gt;&lt;/div&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;After the 08.20.2026 (Thu) update - 09.23.2026 (Wed) 23:59 PDT&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="bb</description>
     </item>
     <item>
-      <title>(In-Game) August New/Returning Player Event Info</title>
-      <link>https://store.steampowered.com/news/app/2074920/view/681885122980479329</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/2074920/view/681885122980479329</guid>
-      <pubDate>Thu, 20 Aug 2026 05:00:59 +0000</pubDate>
-      <category>The First Descendant</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_table"&gt;&lt;div class="bb_table_tr"&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Event Name&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Event Period&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="bb_table_tr"&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;\[Returning] Back to Albion&lt;/p&gt;&lt;/div&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;After the 08.20.2026 (Thu) PDT update - 11.11.2026 (Wed) 22:59 PST&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="bb_table_tr</description>
-    </item>
-    <item>
       <title>Karel's Mothership "Conquest" Difficulty &amp; Ranking Run Event Advanced Info</title>
       <link>https://store.steampowered.com/news/app/2074920/view/681885122980479323</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/2074920/view/681885122980479323</guid>
       <pubDate>Thu, 20 Aug 2026 05:00:59 +0000</pubDate>
       <category>The First Descendant</category>
       <description>&lt;div class="bb_h3"&gt;&lt;b&gt;Greetings, Descendants! A new challenge is coming to Karel's Mothership.&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/42627465/456ee7a4c8dc378899cb370c0abeebd0924357dc.jpg" /&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;"Conquest," the ultimate difficulty that surpasses the existing Normal/Hard Difficulty, will be available for a limited time.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;To celebrate, the Ranking Run Event, to crown the greate</description>
+    </item>
+    <item>
+      <title>(In-Game) August New/Returning Player Event Info</title>
+      <link>https://store.steampowered.com/news/app/2074920/view/681885122980479329</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/2074920/view/681885122980479329</guid>
+      <pubDate>Thu, 20 Aug 2026 05:00:59 +0000</pubDate>
+      <category>The First Descendant</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_table"&gt;&lt;div class="bb_table_tr"&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Event Name&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Event Period&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="bb_table_tr"&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;\[Returning] Back to Albion&lt;/p&gt;&lt;/div&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;After the 08.20.2026 (Thu) PDT update - 11.11.2026 (Wed) 22:59 PST&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="bb_table_tr</description>
     </item>
     <item>
       <title>(Updated) The First Descendant Update 1.4.0</title>
@@ -93,14 +93,6 @@
       <pubDate>Tue, 18 Aug 2026 10:00:24 +0000</pubDate>
       <category>The First Descendant</category>
       <description>&lt;img src="https://dszw1qtcnsa5e.cloudfront.net/community/20260818/d7a5ae3e-067d-49f7-b082-f6f705c3bdb4/TFD14.%EC%9A%94%EC%95%BD%EA%B3%B5%EC%A7%80%EA%B3%B5%ED%99%88%EC%83%81%EB%8B%A82108460.png" /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Greetings, Descendants!&lt;/b&gt;&lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;We sincerely thank all Descendants who joined us for the August developer livestream.&lt;br /&gt;&lt;br /&gt;During this broadcast, we shared various updates, including the new Descendant Raven, the Mega Dungeon "Karel's Mothership," the Mega Dungeo</description>
-    </item>
-    <item>
-      <title>Apex Legends: Latest Update - 08/17/2026</title>
-      <link>https://store.steampowered.com/news/app/1172470/view/671751488532384309</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/671751488532384309</guid>
-      <pubDate>Mon, 17 Aug 2026 23:11:53 +0000</pubDate>
-      <category>Apex Legends</category>
-      <description>&lt;p class="bb_paragraph"&gt;✅FIXED:&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Victims of Gibby's mythic finisher will no longer disappear into another realm&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Resolved an issue causing display issues for some items in the store&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>1.61 Update: Volvo FH Series 6 100 Year Edition</title>
@@ -210,7 +202,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Thu, 20 Aug 2026 16:34:09 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 01:13:45 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -218,7 +210,7 @@
       <title>News ArticleJuly 27, 2026EA SPORTS FC™ 26 | Community API Update</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-community-api-update</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-community-api-update</guid>
-      <pubDate>Thu, 20 Aug 2026 16:34:09 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 01:13:45 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -226,7 +218,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Thu, 20 Aug 2026 16:34:09 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 01:13:45 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -234,7 +226,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Thu, 20 Aug 2026 16:34:09 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 01:13:45 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -242,9 +234,25 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Thu, 20 Aug 2026 16:34:09 +0000</pubDate>
+      <pubDate>Fri, 21 Aug 2026 01:13:45 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
+    </item>
+    <item>
+      <title>Golden Pursuits—Straight to the Crate</title>
+      <link>https://store.steampowered.com/news/app/306130/view/713410320354247418</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/306130/view/713410320354247418</guid>
+      <pubDate>Fri, 21 Aug 2026 00:00:55 +0000</pubDate>
+      <category>Elder Scrolls Online</category>
+      <description>&lt;img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2026/08/ccdf7c01e1c9f4cc38732649d52e7e31.jpg" /&gt;                                                                                     &lt;br /&gt;&lt;i&gt;Earn up to 20 Crown Crates free during a new Golden Pursuits campaign! &lt;/i&gt;&lt;br /&gt;&lt;br /&gt; &lt;div class="bb_h2"&gt;Straight to the Crate&lt;/div&gt; Earn up to 20 free Crown Crates during the new Straight to the Crate Golden Pursuits campaign, &lt;b&gt;now live and continuing until September 17, 2026&lt;/b&gt;. Check out the </description>
+    </item>
+    <item>
+      <title>Get More Out of Tamriel with the ESO Plus Free Trial</title>
+      <link>https://store.steampowered.com/news/app/306130/view/713410320354247414</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/306130/view/713410320354247414</guid>
+      <pubDate>Thu, 20 Aug 2026 16:42:03 +0000</pubDate>
+      <category>Elder Scrolls Online</category>
+      <description>&lt;img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2024/12/7fd5508ee7240766d6f5d5bf21520f3c.jpg" /&gt;                                                                                     &lt;br /&gt;&lt;i&gt;Enjoy access to the Craft Bag, DLCs, and more with ESO Plus free for a limited time! &lt;/i&gt;&lt;br /&gt;&lt;br /&gt; &lt;div class="bb_h2"&gt;ESO Plus Free Trial&lt;/div&gt; The ESO Plus Trial is now live and &lt;b&gt;continues until August 27 at 10AM EST&lt;/b&gt;. During this limited-time promotion, you can enjoy a vast collection of be</description>
     </item>
     <item>
       <title>Bob Starter Guide</title>
