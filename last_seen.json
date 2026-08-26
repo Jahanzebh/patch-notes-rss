@@ -1,74 +1,79 @@
 {
   "seen": {
+    "3247b7423e59": {
+      "url": "https://store.steampowered.com/news/app/1172470/view/708907354451607553",
+      "slug": "apex-legends",
+      "ts": "2026-08-26T01:13:50.491674+00:00"
+    },
+    "cb59ee0fd2be": {
+      "url": "https://store.steampowered.com/news/app/2694490/view/714536220261090882",
+      "slug": "path-of-exile-2",
+      "ts": "2026-08-26T01:13:50.491689+00:00"
+    },
     "08d1de886f9b": {
       "url": "https://store.steampowered.com/news/app/553850/view/671752023818896712",
       "slug": "helldivers-2",
-      "ts": "2026-08-25T16:36:00.202096+00:00"
+      "ts": "2026-08-26T01:13:50.491693+00:00"
     },
     "6626e0a32dbb": {
       "url": "https://store.steampowered.com/news/app/381210/view/669500224005211596",
       "slug": "dead-by-daylight",
-      "ts": "2026-08-25T16:36:00.202114+00:00"
+      "ts": "2026-08-26T01:13:50.491697+00:00"
     },
     "42901d56da66": {
       "url": "https://store.steampowered.com/news/app/236390/view/704403121118381692",
       "slug": "war-thunder",
-      "ts": "2026-08-25T16:36:00.202118+00:00"
+      "ts": "2026-08-26T01:13:50.491700+00:00"
     },
     "103f9ee6d022": {
       "url": "https://store.steampowered.com/news/app/394360/view/674003823632582244",
       "slug": "hearts-of-iron-iv",
-      "ts": "2026-08-25T16:36:00.202121+00:00"
+      "ts": "2026-08-26T01:13:50.491702+00:00"
     },
     "d14a1d33a788": {
       "url": "https://store.steampowered.com/news/app/236390/view/704403121118381421",
       "slug": "war-thunder",
-      "ts": "2026-08-25T16:36:00.202123+00:00"
+      "ts": "2026-08-26T01:13:50.491705+00:00"
     },
     "bc08a2edcae7": {
       "url": "https://store.steampowered.com/news/app/730/view/717913919982667304",
       "slug": "counter-strike-2",
-      "ts": "2026-08-25T16:36:00.202126+00:00"
+      "ts": "2026-08-26T01:13:50.491709+00:00"
     },
     "79bf118ba837": {
       "url": "https://store.steampowered.com/news/app/236390/view/704403121118381434",
       "slug": "war-thunder",
-      "ts": "2026-08-25T16:36:00.202129+00:00"
-    },
-    "260f480dd85f": {
-      "url": "https://store.steampowered.com/news/app/1422450/view/676255623445218601",
-      "slug": "deadlock",
-      "ts": "2026-08-25T16:36:00.202132+00:00"
+      "ts": "2026-08-26T01:13:50.491713+00:00"
     },
     "95cc965af55e": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-08-25T16:36:00.202135+00:00"
+      "ts": "2026-08-26T01:13:50.491716+00:00"
     },
     "5551c626eaf3": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/pitch-notes-fc26-community-api-update",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-08-25T16:36:00.202138+00:00"
+      "ts": "2026-08-26T01:13:50.491719+00:00"
     },
     "1a0ef4f8e532": {
       "url": "https://www.footballmanager.com/news",
       "slug": "football-manager-26",
-      "ts": "2026-08-25T16:36:00.202143+00:00"
+      "ts": "2026-08-26T01:13:50.491724+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-08-25T16:36:00.202145+00:00"
+      "ts": "2026-08-26T01:13:50.491727+00:00"
     },
     "8255bc48c00f": {
       "url": "https://store.steampowered.com/news/app/1158310/view/702151321303646672",
       "slug": "crusader-kings-iii",
-      "ts": "2026-08-25T16:36:00.202147+00:00"
+      "ts": "2026-08-26T01:13:50.491730+00:00"
     },
     "6f6a8f4c199b": {
       "url": "https://store.steampowered.com/news/app/739630/view/699899521489962767",
       "slug": "phasmophobia",
-      "ts": "2026-08-25T16:36:00.202150+00:00"
+      "ts": "2026-08-26T01:13:50.491733+00:00"
     }
   }
 }
