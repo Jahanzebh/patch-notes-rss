@@ -4,8 +4,16 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Wed, 02 Sep 2026 12:34:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 19:14:14 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Controller Anti-Cheat Enforcement &amp; Ban Wave Update — 09/02/2026</title>
+      <link>https://store.steampowered.com/news/app/1172470/view/708907988310557009</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/708907988310557009</guid>
+      <pubDate>Wed, 02 Sep 2026 17:24:54 +0000</pubDate>
+      <category>Apex Legends</category>
+      <description>&lt;p class="bb_paragraph"&gt;We are implementing significant, new systems to detect players using unauthorized controller hardware or software in Apex Legends on all platforms including: PC, PlayStation, Xbox, and Nintendo Switch 2.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We’ve spent the past several months thoroughly validating these systems to ensure they can accurately identify prohibited behavior.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Players that trigger these detections will be actioned upon and banned accordingly.&lt;/p</description>
+    </item>
     <item>
       <title>Palworld Global Popularity Poll 2026 is LIVE!</title>
       <link>https://store.steampowered.com/news/app/1623730/view/695396555568448503</link>
@@ -21,6 +29,22 @@
       <pubDate>Mon, 31 Aug 2026 00:13:11 +0000</pubDate>
       <category>Path of Exile 2</category>
       <description>Last week, we announced &lt;a class="bb_link" href="https://youtu.be/WMo3RYyr4vY?t=1169" rel="" target="_blank"&gt;Forbidden Rites&lt;/a&gt;, an event league in Path of Exile 2 launching alongside the 0.5.5 patch on September 4th PDT. In this news post, we’ve answered some of the most common questions from our community about the event.&lt;br /&gt;&lt;br /&gt;&lt;div class="bb_h3"&gt;Is Duelist in 0.5.5?&lt;/div&gt;No, Duelist will be released on December 11th when Path of Exile 2 1.0 fully launches.&lt;br /&gt;&lt;br /&gt;&lt;div class="bb_h3"&gt;</description>
+    </item>
+    <item>
+      <title>Update 2.57.1.126</title>
+      <link>https://store.steampowered.com/news/app/236390/view/701026688965804053</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/701026688965804053</guid>
+      <pubDate>Wed, 02 Sep 2026 13:39:12 +0000</pubDate>
+      <category>War Thunder</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/b6d4369d91afab22b3303a99f53036294c09f860.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Aircraft&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;An issue where AI SPAAGs without radar (e.g., ZSU-57-2, M42 Duster, Ostwind) would intercept bombs and rockets/missiles has been fixed.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Ground Vehicles&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;A pote</description>
+    </item>
+    <item>
+      <title>Updated Nuclear Escalation: Vietnam!</title>
+      <link>https://store.steampowered.com/news/app/236390/view/701026688965804051</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/701026688965804051</guid>
+      <pubDate>Wed, 02 Sep 2026 13:17:18 +0000</pubDate>
+      <category>War Thunder</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/127d216504b1ef8295680dacc6be939131772332.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We’re returning the Nuclear Escalation mode to the Vietnam era for aircraft with Battle Ratings of 8.7-11.0! MiG-21s vs F-105s, Shrikes vs S-75s, the air war over Vietnam was ruthless, and now you can find yourself at the heart of a hypothetical escalation of that conflict. Here are the details!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;blockquote</description>
     </item>
     <item>
       <title>AW159 Wildcat HMA2: The Cat with Many Claws!</title>
@@ -90,7 +114,7 @@
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Wed, 02 Sep 2026 12:34:39 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 19:14:14 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -98,7 +122,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Wed, 02 Sep 2026 12:34:39 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 19:14:14 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -106,7 +130,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Wed, 02 Sep 2026 12:34:39 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 19:14:14 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -114,7 +138,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Wed, 02 Sep 2026 12:34:39 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 19:14:14 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -122,7 +146,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Wed, 02 Sep 2026 12:34:39 +0000</pubDate>
+      <pubDate>Wed, 02 Sep 2026 19:14:14 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
