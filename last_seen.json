@@ -1,114 +1,139 @@
 {
   "seen": {
+    "2d578fbc9e7d": {
+      "url": "https://store.steampowered.com/news/app/2073850/view/678508690826854583",
+      "slug": "the-finals",
+      "ts": "2026-09-03T12:37:56.229372+00:00"
+    },
+    "5709e0333c4d": {
+      "url": "https://store.steampowered.com/news/app/2767030/view/678508690826854999",
+      "slug": "marvel-rivals",
+      "ts": "2026-09-03T12:37:56.229393+00:00"
+    },
+    "93419a2eab3c": {
+      "url": "https://store.steampowered.com/news/app/2074920/view/667249691758428721",
+      "slug": "the-first-descendant",
+      "ts": "2026-09-03T12:37:56.229397+00:00"
+    },
+    "237baefdcd5c": {
+      "url": "https://store.steampowered.com/news/app/2074920/view/667249691758428714",
+      "slug": "the-first-descendant",
+      "ts": "2026-09-03T12:37:56.229401+00:00"
+    },
     "47fe5f25796c": {
       "url": "https://store.steampowered.com/news/app/2694490/view/686389990174753302",
       "slug": "path-of-exile-2",
-      "ts": "2026-09-03T03:03:54.270519+00:00"
+      "ts": "2026-09-03T12:37:56.229404+00:00"
     },
     "adf09b79df17": {
       "url": "https://store.steampowered.com/news/app/1172470/view/708907988310557009",
       "slug": "apex-legends",
-      "ts": "2026-09-03T03:03:54.270536+00:00"
+      "ts": "2026-09-03T12:37:56.229408+00:00"
     },
     "e2d22a66aa59": {
       "url": "https://store.steampowered.com/news/app/1623730/view/695396555568448503",
       "slug": "palworld",
-      "ts": "2026-09-03T03:03:54.270540+00:00"
+      "ts": "2026-09-03T12:37:56.229411+00:00"
+    },
+    "d5f272bb2272": {
+      "url": "https://store.steampowered.com/news/app/227300/view/701026688965804235",
+      "slug": "euro-truck-simulator-2",
+      "ts": "2026-09-03T12:37:56.229415+00:00"
     },
     "2d676ffa45fe": {
       "url": "https://store.steampowered.com/news/app/236390/view/701026688965804053",
       "slug": "war-thunder",
-      "ts": "2026-09-03T03:03:54.270544+00:00"
+      "ts": "2026-09-03T12:37:56.229419+00:00"
     },
     "40911029b358": {
       "url": "https://store.steampowered.com/news/app/236390/view/701026688965804051",
       "slug": "war-thunder",
-      "ts": "2026-09-03T03:03:54.270547+00:00"
+      "ts": "2026-09-03T12:37:56.229422+00:00"
     },
     "93eb5b839c42": {
       "url": "https://store.steampowered.com/news/app/236390/view/701026055100564424",
       "slug": "war-thunder",
-      "ts": "2026-09-03T03:03:54.270549+00:00"
+      "ts": "2026-09-03T12:37:56.229425+00:00"
     },
     "300f80c38c58": {
       "url": "https://store.steampowered.com/news/app/359550/view/696522455474242841",
       "slug": "rainbow-six-siege",
-      "ts": "2026-09-03T03:03:54.270552+00:00"
+      "ts": "2026-09-03T12:37:56.229429+00:00"
     },
     "f18e8e02a7ac": {
       "url": "https://store.steampowered.com/news/app/359550/view/696522455474242369",
       "slug": "rainbow-six-siege",
-      "ts": "2026-09-03T03:03:54.270556+00:00"
+      "ts": "2026-09-03T12:37:56.229431+00:00"
     },
     "184bb8e7328f": {
       "url": "https://store.steampowered.com/news/app/381210/view/683011656593179537",
       "slug": "dead-by-daylight",
-      "ts": "2026-09-03T03:03:54.270560+00:00"
+      "ts": "2026-09-03T12:37:56.229449+00:00"
     },
     "d3704d58276f": {
       "url": "https://store.steampowered.com/news/app/394360/view/705528385946782917",
       "slug": "hearts-of-iron-iv",
-      "ts": "2026-09-03T03:03:54.270563+00:00"
+      "ts": "2026-09-03T12:37:56.229452+00:00"
     },
     "ba56276034f0": {
       "url": "https://store.steampowered.com/news/app/578080/view/712285054170039493",
       "slug": "pubg-battlegrounds",
-      "ts": "2026-09-03T03:03:54.270566+00:00"
+      "ts": "2026-09-03T12:37:56.229455+00:00"
     },
     "36b88957dfb0": {
       "url": "https://store.steampowered.com/news/app/236390/view/701026055100564148",
       "slug": "war-thunder",
-      "ts": "2026-09-03T03:03:54.270569+00:00"
-    },
-    "3ad422d54cf6": {
-      "url": "https://store.steampowered.com/news/app/1973530/view/706655554637923126",
-      "slug": "limbus-company",
-      "ts": "2026-09-03T03:03:54.270572+00:00"
+      "ts": "2026-09-03T12:37:56.229458+00:00"
     },
     "3f1c7aab9ff4": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-09-03T03:03:54.270574+00:00"
+      "ts": "2026-09-03T12:37:56.229461+00:00"
     },
     "95cc965af55e": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-09-03T03:03:54.270577+00:00"
+      "ts": "2026-09-03T12:37:56.229464+00:00"
     },
     "1a0ef4f8e532": {
       "url": "https://www.footballmanager.com/news",
       "slug": "football-manager-26",
-      "ts": "2026-09-03T03:03:54.270583+00:00"
+      "ts": "2026-09-03T12:37:56.229470+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-09-03T03:03:54.270586+00:00"
+      "ts": "2026-09-03T12:37:56.229473+00:00"
     },
     "a9d297f4deb3": {
       "url": "https://store.steampowered.com/news/app/2054970/view/739305482942941330",
       "slug": "dragons-dogma-2",
-      "ts": "2026-09-03T03:03:54.270589+00:00"
+      "ts": "2026-09-03T12:37:56.229476+00:00"
     },
     "742fc35adc59": {
       "url": "https://store.steampowered.com/news/app/306130/view/685263456405816356",
       "slug": "elder-scrolls-online",
-      "ts": "2026-09-03T03:03:54.270592+00:00"
+      "ts": "2026-09-03T12:37:56.229479+00:00"
     },
     "445ca5a57c61": {
       "url": "https://store.steampowered.com/news/app/1158310/view/687515256220549925",
       "slug": "crusader-kings-iii",
-      "ts": "2026-09-03T03:03:54.270594+00:00"
+      "ts": "2026-09-03T12:37:56.229482+00:00"
+    },
+    "449028ea58cb": {
+      "url": "https://store.steampowered.com/news/app/1062090/view/713408417186711419",
+      "slug": "timberborn",
+      "ts": "2026-09-03T12:37:56.229485+00:00"
+    },
+    "96ed2fef240a": {
+      "url": "https://store.steampowered.com/news/app/1062090/view/677382790920012370",
+      "slug": "timberborn",
+      "ts": "2026-09-03T12:37:56.229488+00:00"
     },
     "b45560cb0295": {
       "url": "https://store.steampowered.com/news/app/1062090/view/677382157060014982",
       "slug": "timberborn",
-      "ts": "2026-09-03T03:03:54.270597+00:00"
-    },
-    "204d35c5c040": {
-      "url": "https://store.steampowered.com/news/app/1062090/view/677382157060014368",
-      "slug": "timberborn",
-      "ts": "2026-09-03T03:03:54.270600+00:00"
+      "ts": "2026-09-03T12:37:56.229491+00:00"
     }
   }
 }
