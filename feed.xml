@@ -4,8 +4,16 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Thu, 03 Sep 2026 12:37:56 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 19:07:14 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apex Legends: Latest Update 9/3/2026</title>
+      <link>https://store.steampowered.com/news/app/1172470/view/708907988310557400</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/708907988310557400</guid>
+      <pubDate>Thu, 03 Sep 2026 16:28:20 +0000</pubDate>
+      <category>Apex Legends</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;UPDATE:&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Anyone previously experiencing crashes on AMD hardware, there is a new patch available from AMD that will fully resolve the issue. Find more information here: &lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.amd.com%2Fen%2Fresources%2Fsupport-articles%2Frelease-notes%2FRN-RAD-WIN-26-9-1.html" rel=" noopener" target="_blank"&gt;https://www.amd.c</description>
+    </item>
     <item>
       <title>Store Update 11.8.0</title>
       <link>https://store.steampowered.com/news/app/2073850/view/678508690826854583</link>
@@ -63,6 +71,30 @@
       <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/40671762/142b22c0d4f3e9a4a735e6fe6ab36750d35d2599.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Pal Tamers！&lt;/p&gt;&lt;p class="bb_paragraph"&gt;The time has come to decide who stands at the top of the Palpagos Islands. Voting for the &lt;b&gt;Palworld Global Popularity Poll 2026&lt;/b&gt; is officially open!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;With the launch of version 1.0, our roster has expanded to &lt;b&gt;over 280+ Pals, &lt;/b&gt;and every single one of them (plus s</description>
     </item>
     <item>
+      <title>BREACH AND CLEAR</title>
+      <link>https://store.steampowered.com/news/app/252490/view/716789287659503901</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/252490/view/716789287659503901</guid>
+      <pubDate>Thu, 03 Sep 2026 17:26:33 +0000</pubDate>
+      <category>Rust</category>
+      <description>&lt;div class="bb_h2"&gt;MONUMENT BLOCKERS&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Monument blockers are a new obstacle we're adding to monuments with red keycard puzzle rooms. They’re intended to slow down early access to the loot at these monuments. They require a significant amount of damage to destroy but once destroyed they won't respawn. You may also find a handful of weaker monument blockers which can be destroyed by melee.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We don't think this will ha</description>
+    </item>
+    <item>
+      <title>PAYDAY 2: Update 247.3 Changelog</title>
+      <link>https://store.steampowered.com/news/app/218620/view/701026055100564020</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/218620/view/701026055100564020</guid>
+      <pubDate>Thu, 03 Sep 2026 15:14:34 +0000</pubDate>
+      <category>PAYDAY 2</category>
+      <description>&lt;div class="bb_h2"&gt;Hello heisters!&lt;/div&gt;&lt;p class="bb_paragraph"&gt;Another round of fixes. We're still looking into the performance issues from the v3 engine update, thank you for understanding and helping us in the bug report forums with all the information provided!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;This update focuses on some small fixes along with some inventory cleanup to help with some mods  removing items from inventories when being disabled. We're developing a new clean</description>
+    </item>
+    <item>
+      <title>Update 2.57.1.132</title>
+      <link>https://store.steampowered.com/news/app/236390/view/701026688965804703</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/701026688965804703</guid>
+      <pubDate>Thu, 03 Sep 2026 14:44:22 +0000</pubDate>
+      <category>War Thunder</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/ceb472e641db538e12e45cf6606adc1ed5bd218c.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Nuclear Escalation&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;☢Jaguar A&lt;/b&gt; — countermeasures have been added.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;New nuclear weaponry carrying aircraft are now available in battles: &lt;b&gt;☢Su-17M4 (USSR), ☢Su-17M4 (China)&lt;/b&gt;. They have replaced the ☢Su-7 in both Bat</description>
+    </item>
+    <item>
       <title>Euro Truck Simulator 2: 1.61 Update Open Beta</title>
       <link>https://store.steampowered.com/news/app/227300/view/701026688965804235</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/227300/view/701026688965804235</guid>
@@ -85,14 +117,6 @@
       <pubDate>Wed, 02 Sep 2026 13:17:18 +0000</pubDate>
       <category>War Thunder</category>
       <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/127d216504b1ef8295680dacc6be939131772332.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We’re returning the Nuclear Escalation mode to the Vietnam era for aircraft with Battle Ratings of 8.7-11.0! MiG-21s vs F-105s, Shrikes vs S-75s, the air war over Vietnam was ruthless, and now you can find yourself at the heart of a hypothetical escalation of that conflict. Here are the details!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;blockquote</description>
-    </item>
-    <item>
-      <title>AW159 Wildcat HMA2: The Cat with Many Claws!</title>
-      <link>https://store.steampowered.com/news/app/236390/view/701026055100564424</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/701026055100564424</guid>
-      <pubDate>Wed, 02 Sep 2026 08:49:21 +0000</pubDate>
-      <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/ad1d8ff07bc4de95a50c078df14d238e4b62ee4b.gif" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;A modernized “Super Lynx” development, the AW159 is a multi-role naval helicopter with a huge number of air-launched munitions!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_table"&gt;&lt;div class="bb_table_tr"&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;AW159 Wildcat HMA2:&lt;/b&gt; A Helicopter for Great Britai</description>
     </item>
     <item>
       <title>Y11S3 PATCH NOTES ADDENDUM</title>
@@ -135,18 +159,10 @@
       <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/27971017/2f450a8e142189ec53132a1580fa5f255a2a0e1c.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;i&gt;In the wake of Gen.G’s dramatic PGS 9 tournament win, we enlisted the help of PUBG expert reporter Jisooboy to analyse what precisely led to their tournament win! Here’s what they had to say:&lt;/i&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;When people think of the greatest organizations in PUBG Esports, a few teams natural</description>
     </item>
     <item>
-      <title>Giulio Cesare: Caesar Adest!</title>
-      <link>https://store.steampowered.com/news/app/236390/view/701026055100564148</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/701026055100564148</guid>
-      <pubDate>Mon, 31 Aug 2026 14:51:48 +0000</pubDate>
-      <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/4cc3c59791e3e5c1ca12d7c617440b0036854b75.gif" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;The die is cast captains, Giulio Cesare will be joining War Thunder in the next major update as a premium battleship for Italy’s Bluewater fleet!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_table"&gt;&lt;div class="bb_table_tr"&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Giulio Cesare: &lt;/b&gt;A Premium Battle</description>
-    </item>
-    <item>
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Thu, 03 Sep 2026 12:37:56 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 19:07:14 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -154,7 +170,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Thu, 03 Sep 2026 12:37:56 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 19:07:14 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -162,7 +178,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Thu, 03 Sep 2026 12:37:56 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 19:07:14 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -170,7 +186,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Thu, 03 Sep 2026 12:37:56 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 19:07:14 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -178,7 +194,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Thu, 03 Sep 2026 12:37:56 +0000</pubDate>
+      <pubDate>Thu, 03 Sep 2026 19:07:14 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
