@@ -4,8 +4,16 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Tue, 08 Sep 2026 03:13:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 12:38:55 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Patch 7.56 Notes</title>
+      <link>https://store.steampowered.com/news/app/39210/view/704404388682139868</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/39210/view/704404388682139868</guid>
+      <pubDate>Tue, 08 Sep 2026 10:00:22 +0000</pubDate>
+      <category>Final Fantasy XIV</category>
+      <description>&lt;img src="https://clan.fastly.steamstatic.com/images/4459756/08db8dc5ee13dca17f2170df382db20fecdbc3ba.jpg" /&gt;&lt;br /&gt;&lt;br /&gt;Faced with the coming Solstice, the fate Halmarut claims to await all worlds, the Warrior of Light embarks upon another journey─one that promises to grow ever colder...&lt;br /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4459756/0b96e16fb6f2d4a25162791868d0231692850158.png" /&gt;&lt;br /&gt;Patch 7.56 also introduces the new limited job beastmaster and its exclusive duty, t</description>
+    </item>
     <item>
       <title>v1.0.4: Balance Adjustments &amp; Bug Fixes</title>
       <link>https://store.steampowered.com/news/app/1623730/view/695397189431592456</link>
@@ -42,7 +50,7 @@
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Tue, 08 Sep 2026 03:13:11 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 12:38:55 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -50,7 +58,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Tue, 08 Sep 2026 03:13:11 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 12:38:55 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -58,7 +66,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Tue, 08 Sep 2026 03:13:11 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 12:38:55 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -66,7 +74,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Tue, 08 Sep 2026 03:13:11 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 12:38:55 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -74,9 +82,17 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Tue, 08 Sep 2026 03:13:11 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 12:38:55 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
+    </item>
+    <item>
+      <title>"By God Alone" Dev Diary #6 - Performance</title>
+      <link>https://store.steampowered.com/news/app/1158310/view/687515890081597528</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1158310/view/687515890081597528</guid>
+      <pubDate>Tue, 08 Sep 2026 11:58:15 +0000</pubDate>
+      <category>Crusader Kings III</category>
+      <description>&lt;p class="bb_paragraph"&gt;When the &lt;i&gt;All Under Heaven&lt;/i&gt; update released we shared an update on our performance work here: (&lt;a class="bb_link" href="https://store.steampowered.com/news/app/1158310/view/535490230242770974" rel="" target="_blank"&gt;Dev Diary #187 - Performance &amp; Optimization&lt;/a&gt;). In that update we also included some hopes and dreams for Crusader Kings III going forward and this is the Dev Diary where we add up the status as we reach the &lt;i&gt;By God Alone&lt;/i&gt; update.&lt;/p&gt;&lt;p class="bb_p</description>
     </item>
   </channel>
 </rss>
