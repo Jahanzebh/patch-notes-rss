@@ -4,7 +4,7 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Tue, 08 Sep 2026 12:38:55 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 19:16:52 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Patch 7.56 Notes</title>
@@ -31,6 +31,30 @@
       <description>&lt;p class="bb_paragraph"&gt;In case you missed it, here’s our full panel from PAX West 2026! The team at Firaxis had a great time celebrating the 35th anniversary of the &lt;i&gt;Civilization &lt;/i&gt;franchise and outlining all of the exciting things coming to &lt;i&gt;Civ VII &lt;/i&gt;in the near future.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="sharedFilePreviewYouTubeVideo"&gt;&lt;img class="sharedFilePreviewYouTubeVideo" src="https://steamcommunity.com/public/shared/images/responsive/youtube_16x9_placeholder.gif" /&gt;&lt;/div</description>
     </item>
     <item>
+      <title>Update 2.57.1.135</title>
+      <link>https://store.steampowered.com/news/app/236390/view/701026688965806302</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/701026688965806302</guid>
+      <pubDate>Tue, 08 Sep 2026 14:37:16 +0000</pubDate>
+      <category>War Thunder</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/8cc3f4c40b2bfd40f30da73814819f1cae406309.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Naval Vessels&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;A bug that caused the automatic lead for the guns to be calculated incorrectly in Arcade Battles has been fixed. (&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fcommunity.gaijin.net%2Fissues%2Fp%2Fwarthunder%2Fi%2F0VRODewcR7x9" rel=" noope</description>
+    </item>
+    <item>
+      <title>10.1.2 | Bugfix Patch</title>
+      <link>https://store.steampowered.com/news/app/381210/view/683012290458421393</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/381210/view/683012290458421393</guid>
+      <pubDate>Tue, 08 Sep 2026 14:30:39 +0000</pubDate>
+      <category>Dead by Daylight</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/11814497/e140f8b71622b069f7ed7f4a0146c1b835661b2d.png" /&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;&lt;b&gt;Content&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;The Judgment&lt;/b&gt;&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Increased the Divine Light curve window while Zealous to 0.8s &lt;i&gt;(was 0.6s)&lt;/i&gt;&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;&lt;i&gt;Dev note: In hotfix 1 we increased the Zealous Curve window to 0.6s. However, that duration was sh</description>
+    </item>
+    <item>
+      <title>HOI IV Dev Corner | Industrial Might &amp; Military Production</title>
+      <link>https://store.steampowered.com/news/app/394360/view/705530288588980377</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/394360/view/705530288588980377</guid>
+      <pubDate>Tue, 08 Sep 2026 13:03:33 +0000</pubDate>
+      <category>Hearts of Iron IV</category>
+      <description>&lt;i&gt;Generals&lt;/i&gt;! Welcome to an additional &lt;b&gt;Dev Corner&lt;/b&gt; on Military Production.&lt;br /&gt;&lt;br /&gt;Hello, I am &lt;i&gt;&lt;b&gt;Zwirbaum&lt;/b&gt;&lt;/i&gt;, Game Designer for Hearts of Iron, and welcome to this &lt;b&gt;Dev Corner&lt;/b&gt; about Industry. This is a follow-up to the &lt;b&gt;&lt;a class="bb_link" href="https://store.steampowered.com/news/app/394360/view/671748399637202677?l=english" rel="" target="_blank"&gt;Military Production Dev Corner&lt;/a&gt;&lt;/b&gt; since you had a lot of feedback around it. We noticed there were a lot of concerns</description>
+    </item>
+    <item>
       <title>Work-In-Progress: Regenerative Steering — Should We Add It?</title>
       <link>https://store.steampowered.com/news/app/236390/view/701026688965805630</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/701026688965805630</guid>
@@ -50,7 +74,7 @@
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Tue, 08 Sep 2026 12:38:55 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 19:16:52 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -58,7 +82,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Tue, 08 Sep 2026 12:38:55 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 19:16:52 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -66,7 +90,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Tue, 08 Sep 2026 12:38:55 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 19:16:52 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -74,7 +98,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Tue, 08 Sep 2026 12:38:55 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 19:16:52 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -82,9 +106,17 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Tue, 08 Sep 2026 12:38:55 +0000</pubDate>
+      <pubDate>Tue, 08 Sep 2026 19:16:52 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
+    </item>
+    <item>
+      <title>"Code of Creation" Concludes Visions of Eternity on September 15</title>
+      <link>https://store.steampowered.com/news/app/1284210/view/692019489711065513</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1284210/view/692019489711065513</guid>
+      <pubDate>Tue, 08 Sep 2026 16:00:40 +0000</pubDate>
+      <category>Guild Wars 2</category>
+      <description>&lt;p class="bb_paragraph"&gt;Greetings, Tyrians!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;The final chapter of &lt;i&gt;Guild Wars 2®: Visions of Eternity&lt;/i&gt; ™ drops September 15. Next week, "Code of Creation" will send players into the depths of Castora as they seek to stop Vloxx from achieving his goals throughout six climactic new story chapters. All eyes are on you, Commander, and here is what you need to know about next week's update.&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;i&gt;Guild Wars 2: Visions of Eternity&lt;/i&gt;—"Code of Creation</description>
     </item>
     <item>
       <title>"By God Alone" Dev Diary #6 - Performance</title>
