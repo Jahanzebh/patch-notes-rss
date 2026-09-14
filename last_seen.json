@@ -1,99 +1,84 @@
 {
   "seen": {
+    "6512cb1e6003": {
+      "url": "https://store.steampowered.com/news/app/381210/view/706656822950364128",
+      "slug": "dead-by-daylight",
+      "ts": "2026-09-14T14:45:34.086264+00:00"
+    },
+    "1527e803eae9": {
+      "url": "https://store.steampowered.com/news/app/236390/view/710034946759065728",
+      "slug": "war-thunder",
+      "ts": "2026-09-14T14:45:34.086286+00:00"
+    },
+    "efa70a0be076": {
+      "url": "https://store.steampowered.com/news/app/1973530/view/705530923042472984",
+      "slug": "limbus-company",
+      "ts": "2026-09-14T14:45:34.086290+00:00"
+    },
     "e3825fffb418": {
       "url": "https://store.steampowered.com/news/app/578080/view/695397823941706713",
       "slug": "pubg-battlegrounds",
-      "ts": "2026-09-14T03:32:21.202878+00:00"
+      "ts": "2026-09-14T14:45:34.086293+00:00"
     },
     "7802ee349af4": {
       "url": "https://store.steampowered.com/news/app/578080/view/695397823941706709",
       "slug": "pubg-battlegrounds",
-      "ts": "2026-09-14T03:32:21.202892+00:00"
+      "ts": "2026-09-14T14:45:34.086295+00:00"
     },
     "d70b364b66d1": {
       "url": "https://store.steampowered.com/news/app/227300/view/710034522707591651",
       "slug": "euro-truck-simulator-2",
-      "ts": "2026-09-14T03:32:21.202896+00:00"
+      "ts": "2026-09-14T14:45:34.086298+00:00"
     },
     "f082e49e8c9e": {
       "url": "https://store.steampowered.com/news/app/578080/view/695397823941706561",
       "slug": "pubg-battlegrounds",
-      "ts": "2026-09-14T03:32:21.202899+00:00"
+      "ts": "2026-09-14T14:45:34.086300+00:00"
     },
     "0465250b4d17": {
       "url": "https://store.steampowered.com/news/app/578080/view/695397823941706559",
       "slug": "pubg-battlegrounds",
-      "ts": "2026-09-14T03:32:21.202902+00:00"
+      "ts": "2026-09-14T14:45:34.086303+00:00"
     },
     "32b82bee5efa": {
       "url": "https://store.steampowered.com/news/app/236390/view/710034522707591179",
       "slug": "war-thunder",
-      "ts": "2026-09-14T03:32:21.202905+00:00"
+      "ts": "2026-09-14T14:45:34.086307+00:00"
     },
     "12be29d2a4ef": {
       "url": "https://store.steampowered.com/news/app/236390/view/710034522707591647",
       "slug": "war-thunder",
-      "ts": "2026-09-14T03:32:21.202909+00:00"
+      "ts": "2026-09-14T14:45:34.086309+00:00"
     },
     "7c9817191e89": {
       "url": "https://store.steampowered.com/news/app/1973530/view/705530923042472432",
       "slug": "limbus-company",
-      "ts": "2026-09-14T03:32:21.202912+00:00"
+      "ts": "2026-09-14T14:45:34.086312+00:00"
     },
     "680c187a39dd": {
       "url": "https://store.steampowered.com/news/app/227300/view/710034522707591581",
       "slug": "euro-truck-simulator-2",
-      "ts": "2026-09-14T03:32:21.202916+00:00"
-    },
-    "8b3b2d0bed02": {
-      "url": "https://store.steampowered.com/news/app/221100/view/668376226113520108",
-      "slug": "dayz",
-      "ts": "2026-09-14T03:32:21.202919+00:00"
-    },
-    "0b8b9f36e996": {
-      "url": "https://store.steampowered.com/news/app/578080/view/695397823941706319",
-      "slug": "pubg-battlegrounds",
-      "ts": "2026-09-14T03:32:21.202922+00:00"
-    },
-    "113fbb4112e9": {
-      "url": "https://store.steampowered.com/news/app/578080/view/695397823941706307",
-      "slug": "pubg-battlegrounds",
-      "ts": "2026-09-14T03:32:21.202925+00:00"
+      "ts": "2026-09-14T14:45:34.086314+00:00"
     },
     "3f1c7aab9ff4": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-09-14T03:32:21.202928+00:00"
+      "ts": "2026-09-14T14:45:34.086317+00:00"
     },
     "95cc965af55e": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-09-14T03:32:21.202931+00:00"
+      "ts": "2026-09-14T14:45:34.086319+00:00"
     },
     "1a0ef4f8e532": {
       "url": "https://www.footballmanager.com/news",
       "slug": "football-manager-26",
-      "ts": "2026-09-14T03:32:21.202937+00:00"
+      "ts": "2026-09-14T14:45:34.086324+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-09-14T03:32:21.202940+00:00"
-    },
-    "27c0a8b6e6d7": {
-      "url": "https://store.steampowered.com/news/app/892970/view/692020124159312346",
-      "slug": "valheim",
-      "ts": "2026-09-14T03:32:21.202943+00:00"
-    },
-    "5e5a3509a8e2": {
-      "url": "https://store.steampowered.com/news/app/1604030/view/689768324345626995",
-      "slug": "v-rising",
-      "ts": "2026-09-14T03:32:21.202946+00:00"
-    },
-    "2eb20fbff07c": {
-      "url": "https://store.steampowered.com/news/app/2909580/view/712286322480382545",
-      "slug": "viractal",
-      "ts": "2026-09-14T03:32:21.202949+00:00"
+      "ts": "2026-09-14T14:45:34.086327+00:00"
     }
   }
 }
