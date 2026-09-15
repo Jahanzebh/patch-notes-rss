@@ -4,8 +4,16 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 20:10:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 03:33:38 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>v1.0.5: Bug fixes</title>
+      <link>https://store.steampowered.com/news/app/1623730/view/698775523599320162</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1623730/view/698775523599320162</guid>
+      <pubDate>Tue, 15 Sep 2026 03:03:47 +0000</pubDate>
+      <category>Palworld</category>
+      <description>&lt;p class="bb_paragraph"&gt;▼Bug Fixes&lt;/p&gt;&lt;p class="bb_paragraph"&gt;・Fixed an issue where terrain, building, and other textures could load at significantly reduced resolution for some players&lt;/p&gt;&lt;p class="bb_paragraph"&gt;・Fixed an issue where some map icon filters could unintentionally be turned off after the player respawned&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Apex Legends™: Marked Midseason Patch Notes</title>
       <link>https://store.steampowered.com/news/app/1172470/view/714538122294068499</link>
@@ -79,26 +87,10 @@
       <description>&lt;p class="bb_paragraph"&gt;Our dearest community,  &lt;/p&gt;&lt;p class="bb_paragraph"&gt;Earlier this year, we shared that we would be taking a temporary pause from running our World of Trucks events. We also know how much these events mean to our #BestCommunityEver and that many of you have missed taking part. Today, we are pleased to confirm that we have decided to resume our World of Trucks events in the familiar format you already know, while the wider rework continues. &lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img s</description>
     </item>
     <item>
-      <title>PUBG Americas Series 2: Playoffs 1 Day 2 is LIVE!!</title>
-      <link>https://store.steampowered.com/news/app/578080/view/695397823941706561</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/578080/view/695397823941706561</guid>
-      <pubDate>Sat, 12 Sep 2026 02:02:47 +0000</pubDate>
-      <category>PUBG: BATTLEGROUNDS</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/27971017/3869e752335d92fdb96276b2a810571c0e1b417e.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;The PUBG Americas Series 2 Playoffs begin tonight at 4pm EDT / 7pm EST!&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Over the course of three match days this weekend, we will whittle down 29 teams into 16 finalists! Who will make the cut?&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img src=</description>
-    </item>
-    <item>
-      <title>PUBG EMEA Championship: Playoffs 1 Day 2 is LIVE!!</title>
-      <link>https://store.steampowered.com/news/app/578080/view/695397823941706559</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/578080/view/695397823941706559</guid>
-      <pubDate>Sat, 12 Sep 2026 01:39:15 +0000</pubDate>
-      <category>PUBG: BATTLEGROUNDS</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/27971017/a1eae8a8f33c948d01f3f84cacbb8b5f0e64f291.png" /&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;The PUBG EMEA Championship: Fall Playoffs are about to kick off tonight at 18:00 CEST! &lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Over the course of three match days this weekend, we will whittle down 29 teams into 16 finalists! Who will make the cut? &lt;/p&gt;&lt;p class="bb_paragraph"&gt;The PEC: Fall Playof</description>
-    </item>
-    <item>
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Mon, 14 Sep 2026 20:10:14 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 03:33:38 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -106,7 +98,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Mon, 14 Sep 2026 20:10:14 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 03:33:38 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -114,7 +106,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Mon, 14 Sep 2026 20:10:14 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 03:33:38 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -122,7 +114,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Mon, 14 Sep 2026 20:10:14 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 03:33:38 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -130,7 +122,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Mon, 14 Sep 2026 20:10:14 +0000</pubDate>
+      <pubDate>Tue, 15 Sep 2026 03:33:38 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
