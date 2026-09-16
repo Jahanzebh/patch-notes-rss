@@ -4,8 +4,16 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Wed, 16 Sep 2026 03:29:37 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 13:10:29 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Summary of the September 16 (Wed) Developer Live Stream</title>
+      <link>https://store.steampowered.com/news/app/2074920/view/690894858003415134</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/2074920/view/690894858003415134</guid>
+      <pubDate>Wed, 16 Sep 2026 09:29:23 +0000</pubDate>
+      <category>The First Descendant</category>
+      <description>&lt;img src="https://dszw1qtcnsa5e.cloudfront.net/community/20260916/8041f569-9a78-4143-98dd-4e5bce9d76f3/15%EC%9A%94%EC%95%BD%EA%B3%B5%EC%A7%80%EA%B3%B5%ED%99%88%EC%83%81%EB%8B%A82108x460.png" /&gt;&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Greetings, Descendants!&lt;/b&gt;&lt;br /&gt;&lt;br /&gt; &lt;br /&gt;&lt;br /&gt;We sincerely thank all Descendants who joined us for the September Dev Live.&lt;br /&gt;&lt;br /&gt;During this broadcast, we introduced the major content coming in the September 17th (Thu) update, including Ultimate Hailey, the Hailey Descendant Story</description>
+    </item>
     <item>
       <title>7.41f Gameplay Patch</title>
       <link>https://store.steampowered.com/news/app/570/view/677383425371407609</link>
@@ -55,12 +63,20 @@
       <description>&lt;p class="bb_paragraph"&gt;Update 1.5.0 and the Hall of History Collection land tomorrow in &lt;i&gt;Civilization VII&lt;/i&gt;, celebrating the series' &lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fcivilization.2k.com%2Fciv-vii%2Fnews%2F35th-anniversary%2F" rel=" noopener" target="_blank"&gt;&lt;u&gt;35-year legacy &lt;/u&gt;&lt;/a&gt;by adding fan-favorite map types, classic civs and leaders, and more!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Update 1.5.0 includes:&lt;/b&gt;&lt;/p&gt;&lt;ul cl</description>
     </item>
     <item>
-      <title>Planned Technical Works on 16.09.2026</title>
-      <link>https://store.steampowered.com/news/app/236390/view/710034946759066126</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/710034946759066126</guid>
-      <pubDate>Tue, 15 Sep 2026 17:19:37 +0000</pubDate>
+      <title>1.30 Experimental Release | Motorbikes, Inventory UI Improvements, and more!</title>
+      <link>https://store.steampowered.com/news/app/221100/view/689768958096572473</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/221100/view/689768958096572473</guid>
+      <pubDate>Wed, 16 Sep 2026 10:08:09 +0000</pubDate>
+      <category>DayZ</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4458811/983b150f2889d08009135f645dce5fb986b09d81.jpg" /&gt;&lt;br /&gt;Dear Survivors,&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We are thrilled to announce that &lt;b&gt;Update 1.30 is now entering the Experimental phase on Steam&lt;/b&gt;.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;a class="bb_link" href="https://store.steampowered.com/app/3816030/DayZ_Badlands/" rel="" target="_blank"&gt;https://store.steampowered.com/app/3816030/DayZ_Badlands/&lt;/a&gt;This marks the beginni</description>
+    </item>
+    <item>
+      <title>Meet the “Sky Odyssey” Major Update!</title>
+      <link>https://store.steampowered.com/news/app/236390/view/710034946759065715</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/710034946759065715</guid>
+      <pubDate>Wed, 16 Sep 2026 09:20:34 +0000</pubDate>
       <category>War Thunder</category>
-      <description>&lt;div class="sharedFilePreviewYouTubeVideo"&gt;&lt;img class="sharedFilePreviewYouTubeVideo" src="https://steamcommunity.com/public/shared/images/responsive/youtube_16x9_placeholder.gif" /&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Hey everyone, on September 16th from 08:00 GMT, the War Thunder game servers may be unavailable due to the release of the Sky Odyssey major update!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Be sure to catch up on what content is coming in this upd</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/da67e86ae346037570fa151e803fefa8cdb917ff.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Welcome to Sky Odyssey! This major update introduces a diverse selection of new vehicles, including aircraft and tanks from Greece, the CA-27, the Indian Arjun Mk 1, and the Indonesian Harimau. Additionally, Darwin Hill, set within the landscapes of the Falkland Islands, has been added as a new map for Ground Battles. Beyond new vehicles</description>
     </item>
     <item>
       <title>10.2.0 | PTB Patch Notes</title>
@@ -68,7 +84,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/381210/view/706656822950364293</guid>
       <pubDate>Tue, 15 Sep 2026 15:07:04 +0000</pubDate>
       <category>Dead by Daylight</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/11814497/e7d60d9e2748b7cddebdf0c9ee1513888e590561.png" /&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;&lt;b&gt;Features&lt;/b&gt;&lt;/div&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Survivor Intent System&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Survivors can send and receive text messages during a match&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;By pressing and holding the scroll-button when using a Mouse, or the right d-pad inpu</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/11814497/e7d60d9e2748b7cddebdf0c9ee1513888e590561.png" /&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;&lt;b&gt;Features&lt;/b&gt;&lt;/div&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Survivor Intent System&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Survivors can send and receive text messages during a match&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;By pressing and holding the scroll-button when using a Mouse, or the right d-pad inpu</description>
     </item>
     <item>
       <title>Denuvo Anti Cheat Trial Update</title>
@@ -76,7 +92,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/381210/view/706656822950364301</guid>
       <pubDate>Tue, 15 Sep 2026 14:00:06 +0000</pubDate>
       <category>Dead by Daylight</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/11814497/a9bc5498fa56f20697b8544f986283a28060a9b6.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;i&gt;At 11am ET, there will be an update that ends this current Anti Cheat Trial and removes Denuvo from Dead by Daylight. We thank everyone for participating and providing valuable feedback;  we will be reviewing all the data and feedback we have received ahead of any future trials. Please stay tuned to our So</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/11814497/a9bc5498fa56f20697b8544f986283a28060a9b6.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;i&gt;At 11am ET, there will be an update that ends this current Anti Cheat Trial and removes Denuvo from Dead by Daylight. We thank everyone for participating and providing valuable feedback;  we will be reviewing all the data and feedback we have received ahead of any future trials. Please stay tuned to our So</description>
     </item>
     <item>
       <title>PAYDAY 2: Under The Hammer Heist</title>
@@ -116,7 +132,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/381210/view/706656822950364128</guid>
       <pubDate>Mon, 14 Sep 2026 14:00:30 +0000</pubDate>
       <category>Dead by Daylight</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/11814497/5ccfbbc06c9408004b81edfdb95f1e0dc5730464.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Greetings, Fog Dwellers. Today we wanted to talk to you about some of the perk changes (spoiler alert: 58 perks are changing) and content that you can expect in the next PTB, as well as the reasonings behind them.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Back in update 9.6.0, we added Diminishing Returns to the game. You may have noticed that this fe</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/11814497/5ccfbbc06c9408004b81edfdb95f1e0dc5730464.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Greetings, Fog Dwellers. Today we wanted to talk to you about some of the perk changes (spoiler alert: 58 perks are changing) and content that you can expect in the next PTB, as well as the reasonings behind them.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Back in update 9.6.0, we added Diminishing Returns to the game. You may have noticed that this fe</description>
     </item>
     <item>
       <title>Update 2.57.1.140</title>
@@ -124,7 +140,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/710034946759065728</guid>
       <pubDate>Mon, 14 Sep 2026 11:58:19 +0000</pubDate>
       <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/bb205f3da0099055388cae07eaad42f5d13900ce.png" /&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Other&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;A bug that caused the game to crash at launch on Mac with Intel HD 500, Iris, Iris Pro graphics and with NVIDIA GeForce 600 and 700 series GPUs has been fixed. (&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fcommunity.gaijin.net%2Fissues%2Fp%2Fwar</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/bb205f3da0099055388cae07eaad42f5d13900ce.png" /&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Other&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;A bug that caused the game to crash at launch on Mac with Intel HD 500, Iris, Iris Pro graphics and with NVIDIA GeForce 600 and 700 series GPUs has been fixed. (&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fcommunity.gaijin.net%2Fissues%2Fp%2Fwar</description>
     </item>
     <item>
       <title>Notice: Limbus Company Mobile Platform Recommended Specs Adjusted</title>
@@ -138,7 +154,7 @@
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Wed, 16 Sep 2026 03:29:37 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 13:10:29 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -146,7 +162,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Wed, 16 Sep 2026 03:29:37 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 13:10:29 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -154,7 +170,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Wed, 16 Sep 2026 03:29:37 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 13:10:29 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -162,7 +178,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Wed, 16 Sep 2026 03:29:37 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 13:10:29 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -170,7 +186,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Wed, 16 Sep 2026 03:29:37 +0000</pubDate>
+      <pubDate>Wed, 16 Sep 2026 13:10:29 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
