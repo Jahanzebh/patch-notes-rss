@@ -4,7 +4,7 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Wed, 16 Sep 2026 19:23:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 03:35:46 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Summary of the September 16 (Wed) Developer Live Stream</title>
@@ -61,6 +61,14 @@
       <pubDate>Mon, 14 Sep 2026 16:00:36 +0000</pubDate>
       <category>Civilization VII</category>
       <description>&lt;p class="bb_paragraph"&gt;Update 1.5.0 and the Hall of History Collection land tomorrow in &lt;i&gt;Civilization VII&lt;/i&gt;, celebrating the series' &lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fcivilization.2k.com%2Fciv-vii%2Fnews%2F35th-anniversary%2F" rel=" noopener" target="_blank"&gt;&lt;u&gt;35-year legacy &lt;/u&gt;&lt;/a&gt;by adding fan-favorite map types, classic civs and leaders, and more!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Update 1.5.0 includes:&lt;/b&gt;&lt;/p&gt;&lt;ul cl</description>
+    </item>
+    <item>
+      <title>Minor Update - 09-16-2026</title>
+      <link>https://store.steampowered.com/news/app/1422450/view/698776157349216434</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1422450/view/698776157349216434</guid>
+      <pubDate>Wed, 16 Sep 2026 20:16:43 +0000</pubDate>
+      <category>Deadlock</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;b&gt;\[ General ]&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Unstable Rift comeback resist max values now scale over the course of the game. Previously the max values were 35%. Now it is 10% + 1% per minute (around ~20% for the first one), with an upper limit of 40% at 30 minutes.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Removed a fixed amount of extra bonus souls you would get for being behind even a very slightly amount in net worth for b</description>
     </item>
     <item>
       <title>SCS On The Road: Iceland Research Trip</title>
@@ -151,6 +159,14 @@
       <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/bb205f3da0099055388cae07eaad42f5d13900ce.png" /&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Other&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;A bug that caused the game to crash at launch on Mac with Intel HD 500, Iris, Iris Pro graphics and with NVIDIA GeForce 600 and 700 series GPUs has been fixed. (&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fcommunity.gaijin.net%2Fissues%2Fp%2Fwar</description>
     </item>
     <item>
+      <title>2026, Sep. 17th Scheduled Update Notice</title>
+      <link>https://store.steampowered.com/news/app/1973530/view/705530923042472971</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1973530/view/705530923042472971</guid>
+      <pubDate>Mon, 14 Sep 2026 09:29:11 +0000</pubDate>
+      <category>Limbus Company</category>
+      <description>&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/f5f21221e3b68cff2262684429e0e700325953a8.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/8367c114a0da28d48486cb72625d7d671f06f8c0.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/4ee95b5496d7de5db8c9cb8afae6819b90da5883.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/4622c58fd757a416624d80553cd76796cbbf2b36.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steams</description>
+    </item>
+    <item>
       <title>Notice: Limbus Company Mobile Platform Recommended Specs Adjusted</title>
       <link>https://store.steampowered.com/news/app/1973530/view/705530923042472984</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/1973530/view/705530923042472984</guid>
@@ -162,7 +178,7 @@
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Wed, 16 Sep 2026 19:23:23 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 03:35:46 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -170,7 +186,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Wed, 16 Sep 2026 19:23:23 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 03:35:46 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -178,7 +194,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Wed, 16 Sep 2026 19:23:23 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 03:35:46 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -186,7 +202,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Wed, 16 Sep 2026 19:23:23 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 03:35:46 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -194,7 +210,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Wed, 16 Sep 2026 19:23:23 +0000</pubDate>
+      <pubDate>Thu, 17 Sep 2026 03:35:46 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
