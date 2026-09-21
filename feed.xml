@@ -4,8 +4,16 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Mon, 21 Sep 2026 14:52:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 20:16:59 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apex Legends: Latest Update - 09/21/2026</title>
+      <link>https://store.steampowered.com/news/app/1172470/view/698776157349217233</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/698776157349217233</guid>
+      <pubDate>Mon, 21 Sep 2026 17:41:03 +0000</pubDate>
+      <category>Apex Legends</category>
+      <description>&lt;p class="bb_paragraph"&gt;✅FIXED:&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Fixed a bug that switched the order of Lifeline upgrades&lt;br /&gt;- The correct Mythic 30-30 and L-STAR now spawn appropriately in Wildcard&lt;/p&gt;</description>
+    </item>
     <item>
       <title>The First Descendant Hotfix 1.4.3c</title>
       <link>https://store.steampowered.com/news/app/2074920/view/690894858003415378</link>
@@ -13,22 +21,6 @@
       <pubDate>Sat, 19 Sep 2026 03:03:54 +0000</pubDate>
       <category>The First Descendant</category>
       <description>&lt;div class="bb_h3"&gt;&lt;b&gt;Greetings, Descendants.&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We would like to inform you about the details for The First Descendant Hotfix 1.4.3c.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Descendants, please reconnect to the game after the patch to ensure smoother gameplay.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Please note that if you do not update the game within 1 hour after the patch, the game may close.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class=</description>
-    </item>
-    <item>
-      <title>An Update from the Anti Cheat Team - 09/18/2026</title>
-      <link>https://store.steampowered.com/news/app/1172470/view/698776157349216995</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/698776157349216995</guid>
-      <pubDate>Fri, 18 Sep 2026 17:37:54 +0000</pubDate>
-      <category>Apex Legends</category>
-      <description>&lt;div class="bb_h1"&gt;&lt;b&gt;Competitive Integrity Update — Account Sharing&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;We’ve taken action against players who were found to be sharing their accounts across multiple devices to gain an unfair advantage on the Apex Predator leaderboard.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Following reports from the community of Predator players maintaining unusually long, continuous Ranked play sessions, our Anti-Cheat team reviewed login activity and device data associated with high-ranked </description>
-    </item>
-    <item>
-      <title>A New Chapter</title>
-      <link>https://store.steampowered.com/news/app/2073850/view/671754559586042348</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/2073850/view/671754559586042348</guid>
-      <pubDate>Fri, 18 Sep 2026 16:00:27 +0000</pubDate>
-      <category>THE FINALS</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/42849803/b9f022f6dba2a670ebc4976b07c28a1ef834bc97.png" /&gt;&lt;br /&gt;Hi everyone, &lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;This December, THE FINALS turns three.&lt;/b&gt; That's three years of cashouts, best-in-class destruction and unscripted moments that no one saw coming. The game has changed a lot in that time, and plenty of what's in it today started as feedback you provided, or something we noticed from watching how you actually play.</description>
     </item>
     <item>
       <title>2026, Sep. 24th Scheduled Update Notice</title>
@@ -47,18 +39,10 @@
       <description>&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/d66fbf64694823ff8108572f51a5f97fb097c0db.png" /&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class="bb_h1"&gt;Welcome to the 242nd War Thunder Steam Screenshot Competition!&lt;/div&gt;&lt;br /&gt;Thanks for all of your awesome submissions last week! This week, we released a major update! Sky Odyssey brings many new vehicles, new and updated maps, UI changes and more. This is your chance to showcase what you like the most from the latest major update! The three most popular and </description>
     </item>
     <item>
-      <title>Update 2.59.0.13</title>
-      <link>https://store.steampowered.com/news/app/236390/view/694272557720797685</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/694272557720797685</guid>
-      <pubDate>Fri, 18 Sep 2026 15:00:26 +0000</pubDate>
-      <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/280e82e9d6b969fdcc01c340fb1b86adc5599c5d.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Aircraft&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;A final camera-tracking sequence showing the target being hit by the missile has been added to the missile tracking camera.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;A bug that sometimes caused the calculation of the multipath effect to work incorrectly when the target missile (most</description>
-    </item>
-    <item>
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Mon, 21 Sep 2026 14:52:05 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 20:16:59 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -66,7 +50,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Mon, 21 Sep 2026 14:52:05 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 20:16:59 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -74,7 +58,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Mon, 21 Sep 2026 14:52:05 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 20:16:59 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -82,7 +66,7 @@
       <title>Latest Updates</title>
       <link>https://www.footballmanager.com/news</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news</guid>
-      <pubDate>Mon, 21 Sep 2026 14:52:05 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 20:16:59 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -90,25 +74,9 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Mon, 21 Sep 2026 14:52:05 +0000</pubDate>
+      <pubDate>Mon, 21 Sep 2026 20:16:59 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
-    </item>
-    <item>
-      <title>Get Four Weeks of Loot with the Code of Creation Supply Drop!</title>
-      <link>https://store.steampowered.com/news/app/1284210/view/712286956230279535</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1284210/view/712286956230279535</guid>
-      <pubDate>Fri, 18 Sep 2026 16:01:02 +0000</pubDate>
-      <category>Guild Wars 2</category>
-      <description>&lt;p class="bb_paragraph"&gt;The last episode of&lt;i&gt; Guild Wars 2&lt;/i&gt;®&lt;i&gt;: Visions of Eternity&lt;/i&gt;™ has arrived with a magical twist! Follow the commander's adventure into an all-new update, and see how this riveting story ends.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h1"&gt;Code of Creation Supply Drop Requisition&lt;/div&gt;&lt;p class="bb_paragraph"&gt;Get ready for the final showdown in Leyspring Hollows. This supply drop has everything you need to venture into this new, magical map! When you purchase the </description>
-    </item>
-    <item>
-      <title>Uncover Tamriel’s Mysteries with the Rumors System</title>
-      <link>https://store.steampowered.com/news/app/306130/view/704405656884478225</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/306130/view/704405656884478225</guid>
-      <pubDate>Fri, 18 Sep 2026 16:01:00 +0000</pubDate>
-      <category>Elder Scrolls Online</category>
-      <description>&lt;img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2026/09/8d002fcf75f71b9dab08967caeed252d.jpg" /&gt;                                                                                     &lt;br /&gt;&lt;i&gt;Delve into the secrets of the past with the new Rumors system, coming soon as part of Season One. &lt;/i&gt;&lt;br /&gt; &lt;br /&gt;Arriving with the Update 51 base-game patch on September 28 as part of Season One, the new Rumors system is a fun new way to experience the world of &lt;i&gt;The Elder Scrolls Online, &lt;/i&gt;allo</description>
     </item>
   </channel>
 </rss>
