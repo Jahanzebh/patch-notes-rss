@@ -4,8 +4,24 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Tue, 22 Sep 2026 13:08:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 19:35:08 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apex Legends: Latest Update - 09/22/2026</title>
+      <link>https://store.steampowered.com/news/app/1172470/view/698776157349217396</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/698776157349217396</guid>
+      <pubDate>Tue, 22 Sep 2026 17:58:25 +0000</pubDate>
+      <category>Apex Legends</category>
+      <description>&lt;p class="bb_paragraph"&gt;💡REMINDER: &lt;/p&gt;&lt;p class="bb_paragraph"&gt;For players experiencing issues with the new Street Fighter 6 Wildcard event, please ensure that you have updated Apex Legends today. You will be able to load into matches without updating, but your overall experience may be hindered - fully closing Apex and downloading the update should resolve most issues.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>We want to hear your thoughts on Civ VII in the latest community survey!</title>
+      <link>https://store.steampowered.com/news/app/1295660/view/707783356601861117</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1295660/view/707783356601861117</guid>
+      <pubDate>Tue, 22 Sep 2026 16:02:11 +0000</pubDate>
+      <category>Civilization VII</category>
+      <description>&lt;p class="bb_paragraph"&gt;Now live - the latest Civilization VII community survey! We're interested in hearing your thoughts on the latest reveals for Civ VII, including the recently released 1.5.0 Update, including True Start Location Earth Map, updated versions of Shuffle and Terra Incognita maps, the new Radial Ruler, and more. &lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Your conversations across Steam, Discord, and reviews continue to help let us know how we’re doing. To gather mor</description>
+    </item>
     <item>
       <title>Devoid of Liberty: 7.1.0</title>
       <link>https://store.steampowered.com/news/app/553850/view/668376859863416942</link>
@@ -31,6 +47,14 @@
       <description>&lt;p class="bb_paragraph"&gt;✅FIXED:&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Fixed a bug that switched the order of Lifeline upgrades&lt;br /&gt;- The correct Mythic 30-30 and L-STAR now spawn appropriately in Wildcard&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Update 2.59.0.22</title>
+      <link>https://store.steampowered.com/news/app/236390/view/694272557720798242</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/694272557720798242</guid>
+      <pubDate>Tue, 22 Sep 2026 15:16:00 +0000</pubDate>
+      <category>War Thunder</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/ec0136a4e4723f2a571b88ec27d3bf439ca59cb5.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Aircraft&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Hawk (all variants)&lt;/b&gt; — a bug that caused the aircraft to shake when turning in Arcade Battles has been fixed.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;CA-27 Mk.32 (Great Britain), CA-27 Mk.32 (Japan)&lt;/b&gt; — the name, description and icon for the modification that unlocks 1,</description>
+    </item>
+    <item>
       <title>DayZ Badlands | Dev Blog Recap (2)</title>
       <link>https://store.steampowered.com/news/app/221100/view/689768958096573361</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/221100/view/689768958096573361</guid>
@@ -44,13 +68,13 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/1973530/view/713412856137122695</guid>
       <pubDate>Mon, 21 Sep 2026 09:01:10 +0000</pubDate>
       <category>Limbus Company</category>
-      <description>&lt;img src="https://clan.akamai.steamstatic.com/images/43587230/cbb7c7f19034c1dc35cff010a2d3c036aabb328f.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/43587230/c6b92ea64766421bbf9b37df1c1f44c90e579d9c.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/43587230/e0ccebeddd9eacac33a58b84e6d8e3ca38b13355.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/43587230/5218f2b158e4ff10f8b3af4a9cab90ee5f86db40.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.akamai.steams</description>
+      <description>&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/cbb7c7f19034c1dc35cff010a2d3c036aabb328f.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/c6b92ea64766421bbf9b37df1c1f44c90e579d9c.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/e0ccebeddd9eacac33a58b84e6d8e3ca38b13355.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/5218f2b158e4ff10f8b3af4a9cab90ee5f86db40.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steams</description>
     </item>
     <item>
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Tue, 22 Sep 2026 13:08:26 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 19:35:08 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -58,7 +82,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Tue, 22 Sep 2026 13:08:26 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 19:35:08 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -66,7 +90,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Tue, 22 Sep 2026 13:08:26 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 19:35:08 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -74,9 +98,17 @@
       <title>FM26 Update (26.2) Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-update-262-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-update-262-now-live</guid>
-      <pubDate>Tue, 22 Sep 2026 13:08:26 +0000</pubDate>
+      <pubDate>Tue, 22 Sep 2026 19:35:08 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
+    </item>
+    <item>
+      <title>Play the New World vs. World Borderlands Map Beta on November 10</title>
+      <link>https://store.steampowered.com/news/app/1284210/view/712286956230280175</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1284210/view/712286956230280175</guid>
+      <pubDate>Tue, 22 Sep 2026 16:00:51 +0000</pubDate>
+      <category>Guild Wars 2</category>
+      <description>&lt;p class="bb_paragraph"&gt;Greetings Gamers!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Back in June, &lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.guildwars2.com%2Fnews%2Ffuture-of-the-guild-wars-franchise%2F" rel=" noopener" target="_blank"&gt;we announced&lt;/a&gt; that the &lt;i&gt;Guild Wars 2®&lt;/i&gt; team was developing the first new borderlands map for World vs. World in over a decade and we're building it alongside the players who live and breathe it. Our first beta test for the new map</description>
     </item>
     <item>
       <title>Patch notes 2026-09-22 (experimental)</title>
