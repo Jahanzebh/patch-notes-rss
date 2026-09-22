@@ -1,39 +1,54 @@
 {
   "seen": {
+    "7fe7829d4a1f": {
+      "url": "https://store.steampowered.com/news/app/553850/view/668376859863416942",
+      "slug": "helldivers-2",
+      "ts": "2026-09-22T13:08:26.566562+00:00"
+    },
+    "9b43dd16a0e6": {
+      "url": "https://store.steampowered.com/news/app/2074920/view/690894858003416137",
+      "slug": "the-first-descendant",
+      "ts": "2026-09-22T13:08:26.566578+00:00"
+    },
     "e980aee9dcd8": {
       "url": "https://store.steampowered.com/news/app/1172470/view/698776157349217233",
       "slug": "apex-legends",
-      "ts": "2026-09-22T03:28:32.719099+00:00"
+      "ts": "2026-09-22T13:08:26.566583+00:00"
+    },
+    "ae960d3b2c9f": {
+      "url": "https://store.steampowered.com/news/app/221100/view/689768958096573361",
+      "slug": "dayz",
+      "ts": "2026-09-22T13:08:26.566587+00:00"
     },
     "cc2a9adb1b86": {
       "url": "https://store.steampowered.com/news/app/1973530/view/713412856137122695",
       "slug": "limbus-company",
-      "ts": "2026-09-22T03:28:32.719120+00:00"
-    },
-    "1ecf7b1025b1": {
-      "url": "https://store.steampowered.com/news/app/236390/view/694272557720797928",
-      "slug": "war-thunder",
-      "ts": "2026-09-22T03:28:32.719125+00:00"
+      "ts": "2026-09-22T13:08:26.566590+00:00"
     },
     "3f1c7aab9ff4": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-09-22T03:28:32.719129+00:00"
+      "ts": "2026-09-22T13:08:26.566593+00:00"
     },
     "95cc965af55e": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-09-22T03:28:32.719132+00:00"
-    },
-    "1a0ef4f8e532": {
-      "url": "https://www.footballmanager.com/news",
-      "slug": "football-manager-26",
-      "ts": "2026-09-22T03:28:32.719138+00:00"
+      "ts": "2026-09-22T13:08:26.566596+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-09-22T03:28:32.719142+00:00"
+      "ts": "2026-09-22T13:08:26.566600+00:00"
+    },
+    "6b96c14517a0": {
+      "url": "https://www.footballmanager.com/news/fm26-update-262-now-live",
+      "slug": "football-manager-26",
+      "ts": "2026-09-22T13:08:26.566603+00:00"
+    },
+    "6d10bdc5d372": {
+      "url": "https://store.steampowered.com/news/app/1062090/view/719042355668190146",
+      "slug": "timberborn",
+      "ts": "2026-09-22T13:08:26.566607+00:00"
     }
   }
 }
