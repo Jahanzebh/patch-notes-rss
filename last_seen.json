@@ -1,94 +1,114 @@
 {
   "seen": {
+    "c00a51711d19": {
+      "url": "https://store.steampowered.com/news/app/1295660/view/688643694674314296",
+      "slug": "civilization-vii",
+      "ts": "2026-09-23T19:27:58.989514+00:00"
+    },
     "c54a19be88a2": {
       "url": "https://store.steampowered.com/news/app/1172470/view/698776157349217396",
       "slug": "apex-legends",
-      "ts": "2026-09-23T13:22:58.979466+00:00"
+      "ts": "2026-09-23T19:27:58.989534+00:00"
     },
     "3ee33fd7569a": {
       "url": "https://store.steampowered.com/news/app/1295660/view/707783356601861117",
       "slug": "civilization-vii",
-      "ts": "2026-09-23T13:22:58.979484+00:00"
+      "ts": "2026-09-23T19:27:58.989537+00:00"
     },
     "7fe7829d4a1f": {
       "url": "https://store.steampowered.com/news/app/553850/view/668376859863416942",
       "slug": "helldivers-2",
-      "ts": "2026-09-23T13:22:58.979488+00:00"
+      "ts": "2026-09-23T19:27:58.989540+00:00"
     },
     "9b43dd16a0e6": {
       "url": "https://store.steampowered.com/news/app/2074920/view/690894858003416137",
       "slug": "the-first-descendant",
-      "ts": "2026-09-23T13:22:58.979491+00:00"
+      "ts": "2026-09-23T19:27:58.989543+00:00"
     },
     "e980aee9dcd8": {
       "url": "https://store.steampowered.com/news/app/1172470/view/698776157349217233",
       "slug": "apex-legends",
-      "ts": "2026-09-23T13:22:58.979494+00:00"
+      "ts": "2026-09-23T19:27:58.989546+00:00"
+    },
+    "c91eea804948": {
+      "url": "https://store.steampowered.com/news/app/230410/view/677383425371407043",
+      "slug": "warframe",
+      "ts": "2026-09-23T19:27:58.989549+00:00"
+    },
+    "79a3f95bc6f2": {
+      "url": "https://store.steampowered.com/news/app/236390/view/679636495422718958",
+      "slug": "war-thunder",
+      "ts": "2026-09-23T19:27:58.989553+00:00"
+    },
+    "85ed81a2a4f7": {
+      "url": "https://store.steampowered.com/news/app/227300/view/679636495422718954",
+      "slug": "euro-truck-simulator-2",
+      "ts": "2026-09-23T19:27:58.989557+00:00"
     },
     "338c09549961": {
       "url": "https://store.steampowered.com/news/app/359550/view/693147294304829556",
       "slug": "rainbow-six-siege",
-      "ts": "2026-09-23T13:22:58.979497+00:00"
+      "ts": "2026-09-23T19:27:58.989560+00:00"
     },
     "5b8c7b8902eb": {
       "url": "https://store.steampowered.com/news/app/1973530/view/677384695610081375",
       "slug": "limbus-company",
-      "ts": "2026-09-23T13:22:58.979500+00:00"
+      "ts": "2026-09-23T19:27:58.989563+00:00"
     },
     "a4703ec24289": {
       "url": "https://store.steampowered.com/news/app/730/view/711161056325533826",
       "slug": "counter-strike-2",
-      "ts": "2026-09-23T13:22:58.979504+00:00"
+      "ts": "2026-09-23T19:27:58.989566+00:00"
     },
     "6c9ce3a7993e": {
       "url": "https://store.steampowered.com/news/app/730/view/674006995886407685",
       "slug": "counter-strike-2",
-      "ts": "2026-09-23T13:22:58.979508+00:00"
+      "ts": "2026-09-23T19:27:58.989569+00:00"
     },
     "5a4ca20af85d": {
       "url": "https://store.steampowered.com/news/app/236390/view/694272557720798242",
       "slug": "war-thunder",
-      "ts": "2026-09-23T13:22:58.979511+00:00"
+      "ts": "2026-09-23T19:27:58.989572+00:00"
     },
     "ae960d3b2c9f": {
       "url": "https://store.steampowered.com/news/app/221100/view/689768958096573361",
       "slug": "dayz",
-      "ts": "2026-09-23T13:22:58.979513+00:00"
+      "ts": "2026-09-23T19:27:58.989575+00:00"
     },
     "cc2a9adb1b86": {
       "url": "https://store.steampowered.com/news/app/1973530/view/713412856137122695",
       "slug": "limbus-company",
-      "ts": "2026-09-23T13:22:58.979516+00:00"
+      "ts": "2026-09-23T19:27:58.989578+00:00"
     },
     "3f1c7aab9ff4": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-09-23T13:22:58.979520+00:00"
+      "ts": "2026-09-23T19:27:58.989581+00:00"
     },
     "95cc965af55e": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-09-23T13:22:58.979523+00:00"
+      "ts": "2026-09-23T19:27:58.989584+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-09-23T13:22:58.979526+00:00"
+      "ts": "2026-09-23T19:27:58.989587+00:00"
     },
     "6b96c14517a0": {
       "url": "https://www.footballmanager.com/news/fm26-update-262-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-09-23T13:22:58.979529+00:00"
+      "ts": "2026-09-23T19:27:58.989590+00:00"
     },
     "8055081aa321": {
       "url": "https://store.steampowered.com/news/app/1284210/view/712286956230280175",
       "slug": "guild-wars-2",
-      "ts": "2026-09-23T13:22:58.979532+00:00"
+      "ts": "2026-09-23T19:27:58.989593+00:00"
     },
     "6d10bdc5d372": {
       "url": "https://store.steampowered.com/news/app/1062090/view/719042355668190146",
       "slug": "timberborn",
-      "ts": "2026-09-23T13:22:58.979535+00:00"
+      "ts": "2026-09-23T19:27:58.989595+00:00"
     }
   }
 }
