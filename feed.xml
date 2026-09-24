@@ -4,8 +4,16 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Wed, 23 Sep 2026 19:27:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 03:18:59 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apex Legends: Latest Update - 09/23/2026</title>
+      <link>https://store.steampowered.com/news/app/1172470/view/694273194214818895</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/694273194214818895</guid>
+      <pubDate>Wed, 23 Sep 2026 22:58:15 +0000</pubDate>
+      <category>Apex Legends</category>
+      <description>&lt;p class="bb_paragraph"&gt;✅FIXED:&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Fixed a crash that could occur when using Fighter Abilities in specific circumstances in Firing Range.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Fixed a visual issue where the Legend spotlight pass daily challenges would appear to be at 100% and not roll over to the next available challenge.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Fixed an issue where Fighter Mode could sometimes delete Ballistic's sling weapon.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Fixed an issue in </description>
+    </item>
     <item>
       <title>We Answered 30 of Your Arc of Tomorrow &amp; Earthrise Questions</title>
       <link>https://store.steampowered.com/news/app/1295660/view/688643694674314296</link>
@@ -55,6 +63,14 @@
       <description>&lt;p class="bb_paragraph"&gt;✅FIXED:&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Fixed a bug that switched the order of Lifeline upgrades&lt;br /&gt;- The correct Mythic 30-30 and L-STAR now spawn appropriately in Wildcard&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://store.steampowered.com/news/app/730/view/674006995886408819</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/730/view/674006995886408819</guid>
+      <pubDate>Wed, 23 Sep 2026 23:07:24 +0000</pubDate>
+      <category>Counter-Strike 2</category>
+      <description>&lt;p class="bb_paragraph"&gt;\[ RUSH ]&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Increased the maximum countdown-after-elimination time from 7 seconds to 14 seconds on end rooms and Convoy.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;The countdown-after-elimination time does not activate in cases where an entire team dies to suicides, team kills, and/or disconnects.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Warmup time once all players have connected, freeze time, and technical timeout time are all reduced.</description>
+    </item>
+    <item>
       <title>Iceblade of Narin Available now!</title>
       <link>https://store.steampowered.com/news/app/230410/view/677383425371407043</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/230410/view/677383425371407043</guid>
@@ -68,7 +84,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/679636495422718958</guid>
       <pubDate>Wed, 23 Sep 2026 15:08:07 +0000</pubDate>
       <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/07852b93361b7eab1ea7e79588164de0dbe45bec.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Aircraft&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Mosquito FB Mk VI (UK), Mosquito FB Mk VI (Sweden), Mosquito FB Mk VI ASH, Mosquito FB.Mk.26, Mosquito TR.Mk.33 &lt;/b&gt;— an issue where one of the four 20 mm cannons was missing from the X-ray view has been fixed. (&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/07852b93361b7eab1ea7e79588164de0dbe45bec.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Aircraft&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Mosquito FB Mk VI (UK), Mosquito FB Mk VI (Sweden), Mosquito FB Mk VI ASH, Mosquito FB.Mk.26, Mosquito TR.Mk.33 &lt;/b&gt;— an issue where one of the four 20 mm cannons was missing from the X-ray view has been fixed. (&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter</description>
     </item>
     <item>
       <title>Soul of Anatolia: Building Intersections with Pavel</title>
@@ -84,7 +100,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/359550/view/693147294304829556</guid>
       <pubDate>Wed, 23 Sep 2026 09:41:20 +0000</pubDate>
       <category>Tom Clancy's Rainbow Six Siege</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/8328525/f7a58956fe1eff03d324a18b1ef5a5100429b6ba.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;See everything included in the Y11S3.1 update.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;&lt;b&gt;REFINEMENT CHANGES&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;These are small adjustments that don’t aim to alter an Operator’s overall power level or flexibility. Instead, they focus on polishing gameplay details, improving consistency, and enhanci</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/8328525/f7a58956fe1eff03d324a18b1ef5a5100429b6ba.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;See everything included in the Y11S3.1 update.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;&lt;b&gt;REFINEMENT CHANGES&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;These are small adjustments that don’t aim to alter an Operator’s overall power level or flexibility. Instead, they focus on polishing gameplay details, improving consistency, and enhanci</description>
     </item>
     <item>
       <title>Additional Details on Sep. 24th Scheduled Update</title>
@@ -116,7 +132,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/694272557720798242</guid>
       <pubDate>Tue, 22 Sep 2026 15:16:00 +0000</pubDate>
       <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/ec0136a4e4723f2a571b88ec27d3bf439ca59cb5.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Aircraft&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Hawk (all variants)&lt;/b&gt; — a bug that caused the aircraft to shake when turning in Arcade Battles has been fixed.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;CA-27 Mk.32 (Great Britain), CA-27 Mk.32 (Japan)&lt;/b&gt; — the name, description and icon for the modification that unlocks 1,</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/ec0136a4e4723f2a571b88ec27d3bf439ca59cb5.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Aircraft&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Hawk (all variants)&lt;/b&gt; — a bug that caused the aircraft to shake when turning in Arcade Battles has been fixed.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;CA-27 Mk.32 (Great Britain), CA-27 Mk.32 (Japan)&lt;/b&gt; — the name, description and icon for the modification that unlocks 1,</description>
     </item>
     <item>
       <title>DayZ Badlands | Dev Blog Recap (2)</title>
@@ -132,13 +148,13 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/1973530/view/713412856137122695</guid>
       <pubDate>Mon, 21 Sep 2026 09:01:10 +0000</pubDate>
       <category>Limbus Company</category>
-      <description>&lt;img src="https://clan.akamai.steamstatic.com/images/43587230/cbb7c7f19034c1dc35cff010a2d3c036aabb328f.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/43587230/c6b92ea64766421bbf9b37df1c1f44c90e579d9c.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/43587230/e0ccebeddd9eacac33a58b84e6d8e3ca38b13355.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/43587230/5218f2b158e4ff10f8b3af4a9cab90ee5f86db40.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.akamai.steams</description>
+      <description>&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/cbb7c7f19034c1dc35cff010a2d3c036aabb328f.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/c6b92ea64766421bbf9b37df1c1f44c90e579d9c.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/e0ccebeddd9eacac33a58b84e6d8e3ca38b13355.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/5218f2b158e4ff10f8b3af4a9cab90ee5f86db40.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steams</description>
     </item>
     <item>
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Wed, 23 Sep 2026 19:27:58 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 03:18:59 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -146,7 +162,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Wed, 23 Sep 2026 19:27:58 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 03:18:59 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -154,7 +170,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Wed, 23 Sep 2026 19:27:58 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 03:18:59 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -162,9 +178,17 @@
       <title>FM26 Update (26.2) Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-update-262-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-update-262-now-live</guid>
-      <pubDate>Wed, 23 Sep 2026 19:27:58 +0000</pubDate>
+      <pubDate>Thu, 24 Sep 2026 03:18:59 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
+    </item>
+    <item>
+      <title>New Event Ahoy! Previewing the High Seas of Tamriel</title>
+      <link>https://store.steampowered.com/news/app/306130/view/708909893000627288</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/306130/view/708909893000627288</guid>
+      <pubDate>Wed, 23 Sep 2026 20:46:15 +0000</pubDate>
+      <category>Elder Scrolls Online</category>
+      <description>&lt;img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2026/09/b65ba3ed878ede54793a91a51c67df79.jpg" /&gt;                                                                                     &lt;br /&gt;&lt;i&gt;Scope out Season One’s upcoming High Seas of Tamriel event!  &lt;/i&gt;&lt;br /&gt; &lt;br /&gt;Get ready for a brand-new in-game event as Season One of &lt;i&gt;The Elder Scrolls Online&lt;/i&gt; sets sail! The High Seas of Tamriel event kicks off on Wednesday, September 30, and will run until October 14. This event introduces a</description>
     </item>
     <item>
       <title>Play the New World vs. World Borderlands Map Beta on November 10</title>
