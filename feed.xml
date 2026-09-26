@@ -4,7 +4,7 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Fri, 25 Sep 2026 19:50:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 03:41:58 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Noclip Making-Of Doc, Concert Video, &amp; More!</title>
@@ -85,6 +85,22 @@
       <pubDate>Wed, 23 Sep 2026 16:01:04 +0000</pubDate>
       <category>Civilization VII</category>
       <description>&lt;p class="bb_paragraph"&gt;Following our &lt;u&gt;&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fcivilization.2k.com%2Fciv-vii%2Fnews%2F35th-anniversary%2F" rel=" noopener" target="_blank"&gt;big reveals for the future of &lt;i&gt;Civilization VII&lt;/i&gt;&lt;/a&gt;&lt;/u&gt;&lt;i&gt; &lt;/i&gt;earlier this month, the dev team spent the last few days going through your questions across Reddit, Discord, and Steam for Arc of Tomorrow* and &lt;i&gt;Earthrise**&lt;/i&gt;.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;A huge thank you to everyo</description>
+    </item>
+    <item>
+      <title>The Neowsletter - September 2026</title>
+      <link>https://store.steampowered.com/news/app/2868840/view/698776157349217033</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/2868840/view/698776157349217033</guid>
+      <pubDate>Fri, 25 Sep 2026 23:35:41 +0000</pubDate>
+      <category>Slay the Spire 2</category>
+      <description>&lt;img src="https://clan.akamai.steamstatic.com/images/44971832/ab5025baf8cb1beb6a82c7665e3b26b806d28164.png" /&gt;&lt;br /&gt;&lt;br /&gt;Alright, this Neowsletter is coming in a little later than usual, but the team is back from our break!&lt;br /&gt;&lt;br /&gt;We visited the historied city of Barcelona and ate all the tapas, walked through all the Gaudís, and navigated its winding gothic quarters for silly trinkets.&lt;br /&gt;&lt;br /&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/44971832/90977cc0e438cc11cc53716a13974143</description>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://store.steampowered.com/news/app/730/view/674006995886409297</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/730/view/674006995886409297</guid>
+      <pubDate>Fri, 25 Sep 2026 21:54:54 +0000</pubDate>
+      <category>Counter-Strike 2</category>
+      <description>&lt;p class="bb_paragraph"&gt;\[ RUSH ]&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Various gap fixes and clipping adjustments.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;\[ GAMEPLAY ]&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed some cases where loud reloads would persist while trying to stealth reload.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;\[ MISC ]&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Added sv_clantags_enabled option so cus</description>
     </item>
     <item>
       <title>Coaches &amp; Road Trip: Mode Switch</title>
@@ -199,26 +215,10 @@
       <description>Hello, this is Project Moon.&lt;br /&gt;&lt;br /&gt;We would like to provide additional information regarding the "Sep. 24th Scheduled Update Notice" posted on Sep. 21st, as we have identified several additional matters.&lt;br /&gt;&lt;br /&gt;Please refer below for further details.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt; Additional Details &gt;&lt;br /&gt;&lt;br /&gt;1. Due to an unintended issue identified under certain environments with one of the "Main Story Canto 10 Control Scheme &amp; Feel Improvements", the following improvement has regrettably been </description>
     </item>
     <item>
-      <title>Rush Hour</title>
-      <link>https://store.steampowered.com/news/app/730/view/711161056325533826</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/730/view/711161056325533826</guid>
-      <pubDate>Tue, 22 Sep 2026 23:38:37 +0000</pubDate>
-      <category>Counter-Strike 2</category>
-      <description>&lt;video class="bb_video bb_video_autoplay bb_video_loop" loop="loop" poster="https://clan.fastly.steamstatic.com/images/3381077/f020505dfd64884805558c64ec15691154469e0a.png"&gt;&lt;source src="https://clan.fastly.steamstatic.com/images/3381077/7aba6949917c9a837b3ef43fff369ea019bea6b6.webm" type="video/webm" /&gt;&lt;source src="https://clan.fastly.steamstatic.com/images/3381077/c3484d6cdc68181fdc58a543cc746baea975c2de.mp4" type="video/mp4" /&gt;&lt;/video&gt;&lt;/video&gt;&lt;br /&gt;Put your foot on the gas and floor it. Welcom</description>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://store.steampowered.com/news/app/730/view/674006995886407685</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/730/view/674006995886407685</guid>
-      <pubDate>Tue, 22 Sep 2026 23:37:36 +0000</pubDate>
-      <category>Counter-Strike 2</category>
-      <description>&lt;p class="bb_paragraph"&gt;\[ PREMIER ]&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Updated the map selection process to give players more opportunities to play maps they've been learning.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Map selection process:&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Team 1 picks one map&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Team 2 picks two maps&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Team 1 picks a final map. &lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;One of the four maps wi</description>
-    </item>
-    <item>
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Fri, 25 Sep 2026 19:50:57 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 03:41:58 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -226,7 +226,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Fri, 25 Sep 2026 19:50:57 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 03:41:58 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -234,7 +234,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Fri, 25 Sep 2026 19:50:57 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 03:41:58 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -242,7 +242,7 @@
       <title>FM26 Update (26.2) Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-update-262-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-update-262-now-live</guid>
-      <pubDate>Fri, 25 Sep 2026 19:50:57 +0000</pubDate>
+      <pubDate>Sat, 26 Sep 2026 03:41:58 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
