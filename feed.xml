@@ -4,8 +4,16 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Tue, 29 Sep 2026 04:25:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 14:38:45 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Patch 1.4.4 Schedule for October 1 (Thu)</title>
+      <link>https://store.steampowered.com/news/app/2074920/view/699902693745887483</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/2074920/view/699902693745887483</guid>
+      <pubDate>Tue, 29 Sep 2026 07:00:27 +0000</pubDate>
+      <category>The First Descendant</category>
+      <description>&lt;div class="bb_h3"&gt;&lt;b&gt;Greetings, Descendants.&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We would like to inform you about the schedule for this week’s Patch 1.4.4.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;■ Patch Schedule &lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Scheduled for PDT 10.01.2026(Thu) 00:00&lt;/p&gt;&lt;p class="bb_paragraph"&gt;※ The schedule and content are subject to change, and details will be provided in a separate Patch Note.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p cl</description>
+    </item>
     <item>
       <title>Apex Legends: Latest Update 9/28/2026</title>
       <link>https://store.steampowered.com/news/app/1172470/view/694273194214819778</link>
@@ -13,6 +21,22 @@
       <pubDate>Mon, 28 Sep 2026 19:17:40 +0000</pubDate>
       <category>Apex Legends</category>
       <description>&lt;p class="bb_paragraph"&gt;&lt;b&gt;REMINDER:&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Last week, in response to player feedback, we brought back the Core Wildcard mode alongside Apex KO. As a reminder, you should expect slightly longer queue times for either mode, with the higher skilled lobbies being most impacted. The highest successful queue times we're seeing is around 2.5-3.5 minutes. Know before you go!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Update 2.59.0.38</title>
+      <link>https://store.steampowered.com/news/app/236390/view/679636495422719234</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/679636495422719234</guid>
+      <pubDate>Tue, 29 Sep 2026 08:48:35 +0000</pubDate>
+      <category>War Thunder</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/737c3e0bdcf13a8ebe8afd884897391e4155fd0d.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Aircraft&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;A bug that sometimes caused missiles to not deal damage from direct hits and explosions has been fixed. (&lt;b&gt;&lt;u&gt;&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fcommunity.gaijin.net%2Fissues%2Fp%2Fwarthunder%2Fi%2FiyBXcCvYqRis" rel=" noopener" tar</description>
+    </item>
+    <item>
+      <title>Additional Notice Regarding the Oct. 1st, 2026 Scheduled Update</title>
+      <link>https://store.steampowered.com/news/app/1973530/view/677384695610083783</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1973530/view/677384695610083783</guid>
+      <pubDate>Tue, 29 Sep 2026 05:59:35 +0000</pubDate>
+      <category>Limbus Company</category>
+      <description>Hello, this is Project Moon.&lt;br /&gt;&lt;br /&gt;We would like to provide additional information regarding the "Oct. 1st Scheduled Update Notice" posted on Sep. 28th, as we have identified several additional matters.&lt;br /&gt;&lt;br /&gt;Please refer to the details below.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;Additional Bug Fixes &amp; Improvements have been implemented.&lt;br /&gt;※ Please note that the following improvements will be deployed with the Oct. 1st Scheduled Update.&lt;br /&gt;&lt;br /&gt;[Improvements]&lt;br /&gt;▶ Fixed an issue where,</description>
     </item>
     <item>
       <title>Counter-Strike 2 Update</title>
@@ -23,14 +47,6 @@
       <description>&lt;p class="bb_paragraph"&gt;\[ MISC ]&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed pixel-gaps in various Rush rooms.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Clipping adjustments in T/CT Castle rooms.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description>
     </item>
     <item>
-      <title>Planned Technical Works on 29.09.2026</title>
-      <link>https://store.steampowered.com/news/app/236390/view/679636495422719827</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/679636495422719827</guid>
-      <pubDate>Mon, 28 Sep 2026 18:12:06 +0000</pubDate>
-      <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/3713377aa411b99ca159ca324acc4103a0e1cf01.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Hey everyone, on September 29th from 07:00 GMT, the War Thunder game servers may be unavailable due to the short planned maintenance. Thank you for your understanding.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Reinforce your Arsenal with Iceblade of Narin Bundles</title>
       <link>https://store.steampowered.com/news/app/230410/view/681888295241647041</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/230410/view/681888295241647041</guid>
@@ -39,18 +55,10 @@
       <description>Embody the winter storm and instantly add two chilling customization Collections with the latest bundles launching with Iceblade of Narin!&lt;br /&gt;&lt;br /&gt;&lt;div class="sharedFilePreviewYouTubeVideo sizeFull"&gt;&lt;img class="sharedFilePreviewYouTubeVideo sizeFull" src="https://steamcommunity.com/public/shared/images/responsive/youtube_16x9_placeholder.gif" /&gt;&lt;/div&gt;&lt;br /&gt;&lt;hr /&gt;&lt;br /&gt;&lt;div class="bb_h3"&gt;Narin Warframe Bundle&lt;/div&gt;&lt;br /&gt;&lt;a class="bb_link" href="https://store.steampowered.com/app/5126960/Warfra</description>
     </item>
     <item>
-      <title>Screenshot Competition – Into the Fray!</title>
-      <link>https://store.steampowered.com/news/app/236390/view/679636495422719494</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/679636495422719494</guid>
-      <pubDate>Sat, 26 Sep 2026 05:10:03 +0000</pubDate>
-      <category>War Thunder</category>
-      <description>&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/d66fbf64694823ff8108572f51a5f97fb097c0db.png" /&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class="bb_h1"&gt;Welcome to the 243rd War Thunder Steam Screenshot Competition!&lt;/div&gt;&lt;br /&gt;We enjoyed getting to see your screenshots from the latest major update, Sky Odyssey! For this competition, we’re looking to capture screenshots of vehicles in combat. Pick your favorite vehicle, and capture it in the heat of battle - whether it is with a display of firepower, or the m</description>
-    </item>
-    <item>
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Tue, 29 Sep 2026 04:25:25 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 14:38:45 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -58,7 +66,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Tue, 29 Sep 2026 04:25:25 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 14:38:45 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -66,7 +74,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Tue, 29 Sep 2026 04:25:25 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 14:38:45 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -74,9 +82,17 @@
       <title>FM26 Update (26.2) Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-update-262-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-update-262-now-live</guid>
-      <pubDate>Tue, 29 Sep 2026 04:25:25 +0000</pubDate>
+      <pubDate>Tue, 29 Sep 2026 14:38:45 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
+    </item>
+    <item>
+      <title>"By God Alone" Dev Diary #8 - (Truly) Everything Else</title>
+      <link>https://store.steampowered.com/news/app/1158310/view/684140095047993206</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1158310/view/684140095047993206</guid>
+      <pubDate>Tue, 29 Sep 2026 11:57:39 +0000</pubDate>
+      <category>Crusader Kings III</category>
+      <description>&lt;p class="bb_paragraph"&gt;Hello! In case you didn’t know, our latest Core Expansion, &lt;b&gt;By God Alone&lt;/b&gt;, launches on 30 September, which is tomorrow. Aside from trying to explain why September doesn’t have a 31st, we’ll walk you through several topics we normally cover right before release: &lt;b&gt;Art&lt;/b&gt;, &lt;b&gt;Music&lt;/b&gt;, &lt;b&gt;Modding&lt;/b&gt;, and &lt;b&gt;Achievements&lt;/b&gt; - all in one Diary! &lt;/p&gt;&lt;p class="bb_paragraph"&gt;We also have some new faces to introduce: a dedicated &lt;b&gt;UGC Experience&lt;/b&gt; (&lt;b&gt;UGCx&lt;/b&gt;) team </description>
     </item>
   </channel>
 </rss>
