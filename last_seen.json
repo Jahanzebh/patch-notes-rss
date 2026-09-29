@@ -1,44 +1,49 @@
 {
   "seen": {
+    "6ab1be8b899e": {
+      "url": "https://store.steampowered.com/news/app/1172470/view/694273194214819778",
+      "slug": "apex-legends",
+      "ts": "2026-09-29T04:25:25.472875+00:00"
+    },
+    "05211c111186": {
+      "url": "https://store.steampowered.com/news/app/730/view/674006995886409692",
+      "slug": "counter-strike-2",
+      "ts": "2026-09-29T04:25:25.472911+00:00"
+    },
+    "fcb2fe0d81c4": {
+      "url": "https://store.steampowered.com/news/app/236390/view/679636495422719827",
+      "slug": "war-thunder",
+      "ts": "2026-09-29T04:25:25.472917+00:00"
+    },
     "916882bf4297": {
       "url": "https://store.steampowered.com/news/app/230410/view/681888295241647041",
       "slug": "warframe",
-      "ts": "2026-09-28T16:29:07.905679+00:00"
+      "ts": "2026-09-29T04:25:25.472921+00:00"
     },
     "af82f4d56605": {
       "url": "https://store.steampowered.com/news/app/236390/view/679636495422719494",
       "slug": "war-thunder",
-      "ts": "2026-09-28T16:29:07.905699+00:00"
-    },
-    "198c798edb72": {
-      "url": "https://store.steampowered.com/news/app/2868840/view/698776157349217033",
-      "slug": "slay-the-spire-2",
-      "ts": "2026-09-28T16:29:07.905702+00:00"
-    },
-    "291ca36065aa": {
-      "url": "https://store.steampowered.com/news/app/730/view/674006995886409297",
-      "slug": "counter-strike-2",
-      "ts": "2026-09-28T16:29:07.905704+00:00"
+      "ts": "2026-09-29T04:25:25.472924+00:00"
     },
     "3f1c7aab9ff4": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-09-28T16:29:07.905706+00:00"
+      "ts": "2026-09-29T04:25:25.472927+00:00"
     },
     "95cc965af55e": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-09-28T16:29:07.905708+00:00"
+      "ts": "2026-09-29T04:25:25.472930+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-09-28T16:29:07.905710+00:00"
+      "ts": "2026-09-29T04:25:25.472934+00:00"
     },
     "6b96c14517a0": {
       "url": "https://www.footballmanager.com/news/fm26-update-262-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-09-28T16:29:07.905712+00:00"
+      "ts": "2026-09-29T04:25:25.472938+00:00"
     }
   }
 }
