@@ -4,8 +4,16 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Fri, 02 Oct 2026 20:22:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 03:56:17 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apex Legends: Latest Update 10/02/2026</title>
+      <link>https://store.steampowered.com/news/app/1172470/view/703281025618281776</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/703281025618281776</guid>
+      <pubDate>Fri, 02 Oct 2026 20:24:23 +0000</pubDate>
+      <category>Apex Legends</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;b&gt;FIXED:&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Resolved an issue impacting Steam users that resulted in settings being reset after every relaunch of the game. This was largely impacting players with unique folder structures and Apex installation locations, most commonly seen in APAC.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;ADJUSTED:&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Fast Draw Wild Card&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Reload Time Reduction Benefit Reduced to 25% from 3</description>
+    </item>
     <item>
       <title>The First Descendant Hotfix 1.4.4b</title>
       <link>https://store.steampowered.com/news/app/2074920/view/698777425990910965</link>
@@ -85,6 +93,22 @@
       <pubDate>Wed, 30 Sep 2026 14:08:57 +0000</pubDate>
       <category>Civilization VII</category>
       <description>&lt;p class="bb_paragraph"&gt;Today’s hotfix is focused on stability and performance following our recent Update 1.5.0. Thanks for your ongoing feedback, &lt;i&gt;Civ &lt;/i&gt;players! &lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;A note for Switch / Switch 2 players&lt;/b&gt;: This hotfix will be coming at a later date; thanks for your patience while we get this through additional Nintendo submission requirements. In the meantime, the current console-compatible Switch version remains available with full crossplay support with Steam</description>
+    </item>
+    <item>
+      <title>Team Fortress 2 Update Released</title>
+      <link>https://store.steampowered.com/news/app/440/view/714540024688805202</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/440/view/714540024688805202</guid>
+      <pubDate>Fri, 02 Oct 2026 22:25:22 +0000</pubDate>
+      <category>Team Fortress 2</category>
+      <description>An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:&lt;br /&gt;&lt;br /&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;Adding missing zi_ strings&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Fixed some missing VO lines for the Taunt: One-Eyed Punt!&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Fixed Scout Crazy Legs using the incorrect lightwarp (community fix from Chickenman456)&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Updated the Skeleton Crew to add a second style that was originally missed&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Updated the A</description>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://store.steampowered.com/news/app/730/view/675133527946167652</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/730/view/675133527946167652</guid>
+      <pubDate>Fri, 02 Oct 2026 22:24:13 +0000</pubDate>
+      <category>Counter-Strike 2</category>
+      <description>&lt;p class="bb_paragraph"&gt;\[ MISC ]&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Agents now wear their equipped gloves during the photobooth photography sessions and in buy menu&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed grenade crosshair rendering when crosshair thickness is set to 3 pixels&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed formatting of titles in commend and report dialogs&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Improved lighting in the Warehouse map&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Up</description>
     </item>
     <item>
       <title>Don’t Miss the WTCS Challenger League Major III Playoffs!</title>
@@ -223,18 +247,10 @@
       <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/deb4ce7df1eaf333602a310f5d80d7477a3899c1.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;The Sky Odyssey major update is named after Greek vehicles, and the trophy of the same name naturally includes camouflages for vehicles recently added to the game: both Greek and those from other nations! You’ll also find many new camouflages for vehicles featured in recent events and the recently concluded summer camouflage contest. We </description>
     </item>
     <item>
-      <title>City Never Sleeps</title>
-      <link>https://store.steampowered.com/news/app/1422450/view/694273194214819790</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1422450/view/694273194214819790</guid>
-      <pubDate>Tue, 29 Sep 2026 20:25:11 +0000</pubDate>
-      <category>Deadlock</category>
-      <description>&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.playdeadlock.com%2Fcityneversleeps" rel=" noopener" target="_blank"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/45164767/4cb96ab54e327aefdcfeef87a67414bdf8f03c6f/english.png" /&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;The Cursed Apple is ever changing, and these streets are nothing like you remember. A massive visual update to the map and neutrals, six new heroes, HUD updates, numerous quality-of-life additions, accessibility op</description>
-    </item>
-    <item>
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Fri, 02 Oct 2026 20:22:35 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 03:56:17 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -242,7 +258,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Fri, 02 Oct 2026 20:22:35 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 03:56:17 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -250,7 +266,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Fri, 02 Oct 2026 20:22:35 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 03:56:17 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -258,7 +274,7 @@
       <title>FM26 Update (26.2) Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-update-262-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-update-262-now-live</guid>
-      <pubDate>Fri, 02 Oct 2026 20:22:35 +0000</pubDate>
+      <pubDate>Sat, 03 Oct 2026 03:56:17 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
