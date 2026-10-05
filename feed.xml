@@ -4,8 +4,16 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 04:14:20 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 16:49:53 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Galactic Network Maintenance</title>
+      <link>https://store.steampowered.com/news/app/553850/view/715665925076944715</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/553850/view/715665925076944715</guid>
+      <pubDate>Mon, 05 Oct 2026 09:37:32 +0000</pubDate>
+      <category>Helldivers 2</category>
+      <description>&lt;p class="bb_paragraph"&gt;Galactic Network Maintenance will occur on Tuesday, October 6th @ 8:00 UTC. Any Helldivers remaining in-atmosphere during the blackout may be lost along with any rewards.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Backend maintenance will last 2 hours. Follow Super Earth communication channels for updates.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/44156989/73a5ba1fb334f02b098cbb8eb417fb783468c014.png" /&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Apex Legends: Latest Update 10/02/2026</title>
       <link>https://store.steampowered.com/news/app/1172470/view/703281025618281776</link>
@@ -15,12 +23,20 @@
       <description>&lt;p class="bb_paragraph"&gt;&lt;b&gt;FIXED:&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Resolved an issue impacting Steam users that resulted in settings being reset after every relaunch of the game. This was largely impacting players with unique folder structures and Apex installation locations, most commonly seen in APAC.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;ADJUSTED:&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Fast Draw Wild Card&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Reload Time Reduction Benefit Reduced to 25% from 3</description>
     </item>
     <item>
-      <title>The First Descendant Hotfix 1.4.4b</title>
-      <link>https://store.steampowered.com/news/app/2074920/view/698777425990910965</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/2074920/view/698777425990910965</guid>
-      <pubDate>Fri, 02 Oct 2026 07:52:00 +0000</pubDate>
-      <category>The First Descendant</category>
-      <description>&lt;div class="bb_h3"&gt;&lt;b&gt;Greetings, Descendants.&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We would like to inform you about the details for The First Descendant Hotfix 1.4.4b.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;This patch will be applied without a client update, allowing immediate access without additional downloads.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;For Descendants currently in-game, please return to the title screen and reconnect to apply the patch.&lt;/p&gt;&lt;p class="b</description>
+      <title>Experience Halloween Thrills All Throughout October in GTA Online</title>
+      <link>https://store.steampowered.com/news/app/271590/view/710036425059338226</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/271590/view/710036425059338226</guid>
+      <pubDate>Mon, 05 Oct 2026 15:22:49 +0000</pubDate>
+      <category>GTA Online</category>
+      <description>The streets of Los Santos are crawling with creepy apparitions, paranormal visions, and more this Halloween season. Prepare for a month of ghastly mayhem with vengeful Slashers roaming the streets and tides of shambling undead occupying Ludendorff Cemetery.&lt;br /&gt;&lt;br /&gt;Hunt down spooky visions of deceased tech executives for Ghosts Exposed and make a killing across the Halloween Featured Series, the kill-or-be-killed tension of Slasher, racing in the San Andreas Super Sport Series, or fighting of</description>
+    </item>
+    <item>
+      <title>Update 2.59.0.46</title>
+      <link>https://store.steampowered.com/news/app/236390/view/679637128142915436</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/679637128142915436</guid>
+      <pubDate>Mon, 05 Oct 2026 10:16:51 +0000</pubDate>
+      <category>War Thunder</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/b060b0eb3e639d1c8a12260f22c56eb5cf9410b8.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Aircraft&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Mk.M2 540 lb&lt;/b&gt; — bomb mass has been corrected from 213 kg to 255 kg; visual model replaced with a more accurate one. &lt;b&gt;Source:&lt;/b&gt; AP101B-3101 &amp; 2-15C Jaguar GR.1A &amp; T.2A Aircrew Manual - Navigation / Attack and Armament Systems.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;H.</description>
     </item>
     <item>
       <title>SCS On The Road: Gamescom 2026 Aftermovie</title>
@@ -28,7 +44,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/227300/view/679637128142914535</guid>
       <pubDate>Sun, 04 Oct 2026 15:00:33 +0000</pubDate>
       <category>Euro Truck Simulator 2</category>
-      <description>&lt;p class="bb_paragraph"&gt;In today's episode of SCS On The Road, we take a look back at our participation at this year's Gamescom. Take a look at how it went!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4036972/81170738d772615d18cb91ec499458bd1603b5d1.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;This year, at the end of August, we once again took part in &lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.gamescom.global%2Fen" rel=" noopene</description>
+      <description>&lt;p class="bb_paragraph"&gt;In today's episode of SCS On The Road, we take a look back at our participation at this year's Gamescom. Take a look at how it went!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4036972/81170738d772615d18cb91ec499458bd1603b5d1.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;This year, at the end of August, we once again took part in &lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.gamescom.global%2Fen" rel=" noopene</description>
     </item>
     <item>
       <title>Team Fortress 2 Update Released</title>
@@ -47,34 +63,10 @@
       <description>&lt;p class="bb_paragraph"&gt;\[ MISC ]&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Agents now wear their equipped gloves during the photobooth photography sessions and in buy menu&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed grenade crosshair rendering when crosshair thickness is set to 3 pixels&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed formatting of titles in commend and report dialogs&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Improved lighting in the Warehouse map&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Up</description>
     </item>
     <item>
-      <title>Don’t Miss the WTCS Challenger League Major III Playoffs!</title>
-      <link>https://store.steampowered.com/news/app/236390/view/679637128142914503</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/679637128142914503</guid>
-      <pubDate>Fri, 02 Oct 2026 14:06:11 +0000</pubDate>
-      <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/d8ba9d51a2263b2406f41338cb86937e8be94a58.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;The Challenger League Major III is here, and the battle is about to reach its most intense stage!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;After fighting their way through the qualifiers, the best teams have secured their place in this major and are ready to face some of the strongest rising talent in the scene. Every match</description>
-    </item>
-    <item>
-      <title>Preliminary Notice: Oct. 8th Mobile Platform Optimization Update</title>
-      <link>https://store.steampowered.com/news/app/1973530/view/678511227668792423</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1973530/view/678511227668792423</guid>
-      <pubDate>Fri, 02 Oct 2026 13:20:19 +0000</pubDate>
-      <category>Limbus Company</category>
-      <description>Hello, this is Project Moon.&lt;br /&gt;With Ver. 1.116.2 Scheduled Update, which will be deployed on Oct. 8th, 12:00 (KST), we will be implementing the following memory-related optimizations.&lt;br /&gt;&lt;br /&gt;Please refer to the information below.&lt;br /&gt;&lt;br /&gt;&lt;div class="bb_h3"&gt;■ Improvements&lt;/div&gt;1. Main Story Chapter 10 -  Combat / visual effects resource optimization&lt;br /&gt; - We have improved the compression method for resources in Shadowed combat, characters, E.G.O, and various other resources.&lt;br /&gt; - T</description>
-    </item>
-    <item>
-      <title>Notice: Chapter 10 - Part 3 The Shadowed Boss Battle in 5F Difficulty Survey</title>
-      <link>https://store.steampowered.com/news/app/1973530/view/678511227668792401</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1973530/view/678511227668792401</guid>
-      <pubDate>Fri, 02 Oct 2026 11:04:52 +0000</pubDate>
-      <category>Limbus Company</category>
-      <description>Hello, this is Project Moon.&lt;br /&gt;&lt;br /&gt;After monitoring various feedback following the Oct. 1st Scheduled Update, we decided that Main Story Chapter 10 - Part 3 The Shadowed Boss Battle in 5F needed certain difficulty adjustments.&lt;br /&gt;In order to determine the specifics of the adjustment, we will be conducting a combat difficulty survey.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;- Limbus Company Main Story Chapter 10 - Part 3 The Shadowed Boss Battle in 5F difficulty survey&lt;br /&gt;- Survey period: Until Oct. 8th (Thu) 1</description>
-    </item>
-    <item>
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Mon, 05 Oct 2026 04:14:20 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 16:49:53 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -82,7 +74,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Mon, 05 Oct 2026 04:14:20 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 16:49:53 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -90,7 +82,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Mon, 05 Oct 2026 04:14:20 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 16:49:53 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -98,7 +90,7 @@
       <title>FM26 Update (26.2) Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-update-262-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-update-262-now-live</guid>
-      <pubDate>Mon, 05 Oct 2026 04:14:20 +0000</pubDate>
+      <pubDate>Mon, 05 Oct 2026 16:49:53 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -109,22 +101,6 @@
       <pubDate>Fri, 02 Oct 2026 18:56:51 +0000</pubDate>
       <category>Elder Scrolls Online</category>
       <description>&lt;img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2026/10/74cd207b0308a52e98483870298e9fb6.jpg" /&gt;                                                                                     &lt;br /&gt;&lt;i&gt;Battle above and below the seas, delve solo dungeons, and haunt Tamriel’s monsters this October!&lt;/i&gt;&lt;br /&gt; &lt;br /&gt;&lt;i&gt; &lt;/i&gt;&lt;br /&gt; &lt;br /&gt;&lt;b&gt;High Seas of Tamriel Event (September 30-October 14)&lt;/b&gt;&lt;br /&gt; &lt;br /&gt;Continue your expeditions into the Abecean during the High Seas of Tamriel in-game event. Battl</description>
-    </item>
-    <item>
-      <title>Sea of Thieves Sail Design Competition</title>
-      <link>https://store.steampowered.com/news/app/1172620/view/715665925076943030</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172620/view/715665925076943030</guid>
-      <pubDate>Fri, 02 Oct 2026 07:45:16 +0000</pubDate>
-      <category>Sea of Thieves</category>
-      <description>&lt;p class="bb_paragraph"&gt;Have you ever looked at your ship’s sails and thought “those would be 100% better with a reference to our crew’s inside joke about Flameheart having a puppy called Hot Dog”? Of course you have, and now’s your chance to prove it!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Our first ever Sail Design Competition is your invitation to sketch and share your dream set of sheets, with the potential for them to be added to &lt;i&gt;Sea of Thieves&lt;/i&gt;, and other pirates’ customisation chests, as part o</description>
-    </item>
-    <item>
-      <title>Hallowed Concepts Patch Notes Preview</title>
-      <link>https://store.steampowered.com/news/app/632360/view/703281025618280585</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/632360/view/703281025618280585</guid>
-      <pubDate>Fri, 02 Oct 2026 15:07:33 +0000</pubDate>
-      <category>Risk of Rain 2</category>
-      <description>&lt;p class="bb_paragraph"&gt;Along with the Hallowed Concepts DLC and the Free Update coming VERY soon we will have a huge list of balance changes, fixes and updates to lots of existing content! For a small preview of these changes, check out this video:&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="sharedFilePreviewYouTubeVideo"&gt;&lt;img class="sharedFilePreviewYouTubeVideo" src="https://steamcommunity.com/public/shared/images/responsive/youtube_16x9_placeholder.gif" /&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;None of</description>
     </item>
   </channel>
 </rss>

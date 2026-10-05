@@ -1,79 +1,64 @@
 {
   "seen": {
+    "5fccd063037c": {
+      "url": "https://store.steampowered.com/news/app/553850/view/715665925076944715",
+      "slug": "helldivers-2",
+      "ts": "2026-10-05T16:49:53.364859+00:00"
+    },
     "4f23f1b14a92": {
       "url": "https://store.steampowered.com/news/app/1172470/view/703281025618281776",
       "slug": "apex-legends",
-      "ts": "2026-10-05T04:14:20.078924+00:00"
+      "ts": "2026-10-05T16:49:53.364889+00:00"
     },
-    "5707f55f8348": {
-      "url": "https://store.steampowered.com/news/app/2074920/view/698777425990910965",
-      "slug": "the-first-descendant",
-      "ts": "2026-10-05T04:14:20.078943+00:00"
+    "34e40fe69b2c": {
+      "url": "https://store.steampowered.com/news/app/271590/view/710036425059338226",
+      "slug": "gta-online",
+      "ts": "2026-10-05T16:49:53.364892+00:00"
+    },
+    "c7d0929bd0e7": {
+      "url": "https://store.steampowered.com/news/app/236390/view/679637128142915436",
+      "slug": "war-thunder",
+      "ts": "2026-10-05T16:49:53.364894+00:00"
     },
     "d4d5a1107fbb": {
       "url": "https://store.steampowered.com/news/app/227300/view/679637128142914535",
       "slug": "euro-truck-simulator-2",
-      "ts": "2026-10-05T04:14:20.078946+00:00"
+      "ts": "2026-10-05T16:49:53.364897+00:00"
     },
     "f3652b1c51dc": {
       "url": "https://store.steampowered.com/news/app/440/view/714540024688805202",
       "slug": "team-fortress-2",
-      "ts": "2026-10-05T04:14:20.078948+00:00"
+      "ts": "2026-10-05T16:49:53.364899+00:00"
     },
     "2e92b9ef1d4b": {
       "url": "https://store.steampowered.com/news/app/730/view/675133527946167652",
       "slug": "counter-strike-2",
-      "ts": "2026-10-05T04:14:20.078950+00:00"
-    },
-    "ce6c52d41e13": {
-      "url": "https://store.steampowered.com/news/app/236390/view/679637128142914503",
-      "slug": "war-thunder",
-      "ts": "2026-10-05T04:14:20.078952+00:00"
-    },
-    "6b3656e17be0": {
-      "url": "https://store.steampowered.com/news/app/1973530/view/678511227668792423",
-      "slug": "limbus-company",
-      "ts": "2026-10-05T04:14:20.078954+00:00"
-    },
-    "cd903091820e": {
-      "url": "https://store.steampowered.com/news/app/1973530/view/678511227668792401",
-      "slug": "limbus-company",
-      "ts": "2026-10-05T04:14:20.078957+00:00"
+      "ts": "2026-10-05T16:49:53.364902+00:00"
     },
     "3f1c7aab9ff4": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-10-05T04:14:20.078960+00:00"
+      "ts": "2026-10-05T16:49:53.364906+00:00"
     },
     "95cc965af55e": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-10-05T04:14:20.078962+00:00"
+      "ts": "2026-10-05T16:49:53.364909+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-10-05T04:14:20.078964+00:00"
+      "ts": "2026-10-05T16:49:53.364912+00:00"
     },
     "6b96c14517a0": {
       "url": "https://www.footballmanager.com/news/fm26-update-262-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-10-05T04:14:20.078967+00:00"
+      "ts": "2026-10-05T16:49:53.364914+00:00"
     },
     "cbae2c779bb9": {
       "url": "https://store.steampowered.com/news/app/306130/view/668378128507208914",
       "slug": "elder-scrolls-online",
-      "ts": "2026-10-05T04:14:20.078969+00:00"
-    },
-    "f57617a83e2e": {
-      "url": "https://store.steampowered.com/news/app/1172620/view/715665925076943030",
-      "slug": "sea-of-thieves",
-      "ts": "2026-10-05T04:14:20.078971+00:00"
-    },
-    "3b0695b913e0": {
-      "url": "https://store.steampowered.com/news/app/632360/view/703281025618280585",
-      "slug": "risk-of-rain-2",
-      "ts": "2026-10-05T04:14:20.078972+00:00"
+      "ts": "2026-10-05T16:49:53.364917+00:00"
     }
   }
 }
