@@ -4,7 +4,7 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Mon, 05 Oct 2026 16:49:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 05:02:35 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Galactic Network Maintenance</title>
@@ -15,12 +15,52 @@
       <description>&lt;p class="bb_paragraph"&gt;Galactic Network Maintenance will occur on Tuesday, October 6th @ 8:00 UTC. Any Helldivers remaining in-atmosphere during the blackout may be lost along with any rewards.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Backend maintenance will last 2 hours. Follow Super Earth communication channels for updates.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/44156989/73a5ba1fb334f02b098cbb8eb417fb783468c014.png" /&gt;&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Apex Legends: Latest Update 10/02/2026</title>
-      <link>https://store.steampowered.com/news/app/1172470/view/703281025618281776</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/703281025618281776</guid>
-      <pubDate>Fri, 02 Oct 2026 20:24:23 +0000</pubDate>
-      <category>Apex Legends</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;b&gt;FIXED:&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Resolved an issue impacting Steam users that resulted in settings being reset after every relaunch of the game. This was largely impacting players with unique folder structures and Apex installation locations, most commonly seen in APAC.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;ADJUSTED:&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Fast Draw Wild Card&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Reload Time Reduction Benefit Reduced to 25% from 3</description>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://store.steampowered.com/news/app/730/view/675133527946168308</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/730/view/675133527946168308</guid>
+      <pubDate>Mon, 05 Oct 2026 23:39:43 +0000</pubDate>
+      <category>Counter-Strike 2</category>
+      <description>&lt;p class="bb_paragraph"&gt;\[ MISC ]&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Pet photobook pages now have localized text art.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Added play menu buttons to manage downloaded Workshop maps.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Adjusted VK shader cache extension flags.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>Minor Update - 10-05-2026</title>
+      <link>https://store.steampowered.com/news/app/1422450/view/703281025618282632</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1422450/view/703281025618282632</guid>
+      <pubDate>Mon, 05 Oct 2026 23:05:32 +0000</pubDate>
+      <category>Deadlock</category>
+      <description>&lt;p class="bb_paragraph"&gt;- Fixed bugs that were causing troopers to walk too slowly in lane&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Rat King: Scrap Grenade - Fixed some bugs with bouncing targeting&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Rat King: Scrap Grenade - Damage increased from 65 to 70&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Rat King: Scrap Grenade - T2 Damage increased from 65 to 70&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Rat King: Rat Swarm - Base Cooldown reduced from 28s to 24s&lt;/p&gt;&lt;p class="bb_paragr</description>
+    </item>
+    <item>
+      <title>Team Fortress 2 Update Released</title>
+      <link>https://store.steampowered.com/news/app/440/view/714540024688805878</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/440/view/714540024688805878</guid>
+      <pubDate>Mon, 05 Oct 2026 23:02:42 +0000</pubDate>
+      <category>Team Fortress 2</category>
+      <description>An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:&lt;br /&gt;&lt;br /&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;Added sv_wallbug convar to allow previous movement behavior on community servers (related to the missed note at the bottom)&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Fixed view jitter that occurs and persists when playing for extended periods of time&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Fixed snd_mix_async from crashing the game&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Fixed sv_parallel_sends</description>
+    </item>
+    <item>
+      <title>October in Warframe</title>
+      <link>https://store.steampowered.com/news/app/230410/view/681888927386173555</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/230410/view/681888927386173555</guid>
+      <pubDate>Mon, 05 Oct 2026 19:56:21 +0000</pubDate>
+      <category>Warframe</category>
+      <description>As the seasons change, so does the Origin System. And this October is no exception, with plenty of seasonal, returning, and brand new additions to occupy you as we draw ever closer to Warframe: Tau later this year.&lt;br /&gt;&lt;br /&gt;Watch for the following events this month:&lt;br /&gt;&lt;br /&gt;&lt;div class="bb_h2"&gt;EPOCH OPERATION: TAUBOUND&lt;/div&gt;&lt;b&gt;October 15 - November 17&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4437469/ffdf4837337f53bdff7edcaa082d21eaf61f3350.png" /&gt;&lt;br /&gt;A unique eve</description>
+    </item>
+    <item>
+      <title>Developer Update | 10.2.0 PTB to Live Changes</title>
+      <link>https://store.steampowered.com/news/app/381210/view/716791824502491130</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/381210/view/716791824502491130</guid>
+      <pubDate>Mon, 05 Oct 2026 18:00:20 +0000</pubDate>
+      <category>Dead by Daylight</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/11814497/25e3cb32792313b70cb0141fe95a6ee4abcf7bbe.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;With the release of 10.2.0 just around the corner, we wanted to take some time to talk to you about a handful of the many changes that will be happening from PTB to the Live release - and a few changes that won’t. We want to thank everyone who took the time during the PTB to share their thoughts, as we always take your feedback very ser</description>
+    </item>
+    <item>
+      <title>V3.3.0 Stable</title>
+      <link>https://store.steampowered.com/news/app/251570/view/681888927386175529</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/251570/view/681888927386175529</guid>
+      <pubDate>Mon, 05 Oct 2026 17:12:28 +0000</pubDate>
+      <category>7 Days to Die</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/5383109/5778acec065ef7ee16561445272c77c481e3e7f3.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;A lack of inventory space got you down survivor? &lt;br /&gt;Well, worry no more with the new Bigger Backpack system! &lt;br /&gt;Craft, loot, or buy your way to a bigger inventory today! &lt;br /&gt; &lt;br /&gt;V3.3.0 also introduces a new inventory grid size of 8x6. &lt;br /&gt;That's 4 rows of free-to-use slots and 2 rows of encumbered slots. &lt;br /&gt;A total of 48 </description>
     </item>
     <item>
       <title>Experience Halloween Thrills All Throughout October in GTA Online</title>
@@ -47,26 +87,10 @@
       <description>&lt;p class="bb_paragraph"&gt;In today's episode of SCS On The Road, we take a look back at our participation at this year's Gamescom. Take a look at how it went!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4036972/81170738d772615d18cb91ec499458bd1603b5d1.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;This year, at the end of August, we once again took part in &lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.gamescom.global%2Fen" rel=" noopene</description>
     </item>
     <item>
-      <title>Team Fortress 2 Update Released</title>
-      <link>https://store.steampowered.com/news/app/440/view/714540024688805202</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/440/view/714540024688805202</guid>
-      <pubDate>Fri, 02 Oct 2026 22:25:22 +0000</pubDate>
-      <category>Team Fortress 2</category>
-      <description>An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:&lt;br /&gt;&lt;br /&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;Adding missing zi_ strings&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Fixed some missing VO lines for the Taunt: One-Eyed Punt!&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Fixed Scout Crazy Legs using the incorrect lightwarp (community fix from Chickenman456)&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Updated the Skeleton Crew to add a second style that was originally missed&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Updated the A</description>
-    </item>
-    <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://store.steampowered.com/news/app/730/view/675133527946167652</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/730/view/675133527946167652</guid>
-      <pubDate>Fri, 02 Oct 2026 22:24:13 +0000</pubDate>
-      <category>Counter-Strike 2</category>
-      <description>&lt;p class="bb_paragraph"&gt;\[ MISC ]&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Agents now wear their equipped gloves during the photobooth photography sessions and in buy menu&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed grenade crosshair rendering when crosshair thickness is set to 3 pixels&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed formatting of titles in commend and report dialogs&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Improved lighting in the Warehouse map&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Up</description>
-    </item>
-    <item>
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Mon, 05 Oct 2026 16:49:53 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 05:02:35 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -74,7 +98,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Mon, 05 Oct 2026 16:49:53 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 05:02:35 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -82,7 +106,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Mon, 05 Oct 2026 16:49:53 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 05:02:35 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -90,17 +114,9 @@
       <title>FM26 Update (26.2) Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-update-262-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-update-262-now-live</guid>
-      <pubDate>Mon, 05 Oct 2026 16:49:53 +0000</pubDate>
+      <pubDate>Tue, 06 Oct 2026 05:02:35 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
-    </item>
-    <item>
-      <title>ESO’s October 2026 Survival Guide</title>
-      <link>https://store.steampowered.com/news/app/306130/view/668378128507208914</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/306130/view/668378128507208914</guid>
-      <pubDate>Fri, 02 Oct 2026 18:56:51 +0000</pubDate>
-      <category>Elder Scrolls Online</category>
-      <description>&lt;img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2026/10/74cd207b0308a52e98483870298e9fb6.jpg" /&gt;                                                                                     &lt;br /&gt;&lt;i&gt;Battle above and below the seas, delve solo dungeons, and haunt Tamriel’s monsters this October!&lt;/i&gt;&lt;br /&gt; &lt;br /&gt;&lt;i&gt; &lt;/i&gt;&lt;br /&gt; &lt;br /&gt;&lt;b&gt;High Seas of Tamriel Event (September 30-October 14)&lt;/b&gt;&lt;br /&gt; &lt;br /&gt;Continue your expeditions into the Abecean during the High Seas of Tamriel in-game event. Battl</description>
     </item>
   </channel>
 </rss>
