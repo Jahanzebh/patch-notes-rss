@@ -4,7 +4,7 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Tue, 06 Oct 2026 20:48:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 04:29:29 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Apex Legends: Latest Update 10/6/2026</title>
@@ -12,7 +12,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/703281025618282862</guid>
       <pubDate>Tue, 06 Oct 2026 17:18:13 +0000</pubDate>
       <category>Apex Legends</category>
-      <description>&lt;p class="bb_paragraph"&gt;TESTING:&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Starting tomorrow, October 7th at approximately 10am PT, we will be conducting a matchmaking test by enabling cross-play as the default option for all players, on all consoles in the US-West servers. The intention of this test is to shorten queue times and tighten matchmaking skill bands. This test will run until the season ends on November 3rd. Console players can opt out of the test by turning off cross-play in your settings menu.&lt;/p&gt;</description>
+      <description>&lt;p class="bb_paragraph"&gt;TESTING:&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Starting tomorrow, October 7th at approximately 10am PT, we will be conducting a matchmaking test by enabling cross-play as the default option for all players, on all platforms in the US-West servers. The intention of this test is to shorten queue times and tighten matchmaking skill bands. This test will run until the season ends on November 3rd. Console players can opt out of the test by turning off cross-play in your settings menu.&lt;/p</description>
     </item>
     <item>
       <title>Galactic Network Maintenance</title>
@@ -21,6 +21,14 @@
       <pubDate>Mon, 05 Oct 2026 09:37:32 +0000</pubDate>
       <category>Helldivers 2</category>
       <description>&lt;p class="bb_paragraph"&gt;Galactic Network Maintenance will occur on Tuesday, October 6th @ 8:00 UTC. Any Helldivers remaining in-atmosphere during the blackout may be lost along with any rewards.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Backend maintenance will last 2 hours. Follow Super Earth communication channels for updates.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/44156989/73a5ba1fb334f02b098cbb8eb417fb783468c014.png" /&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mind the Birds!</title>
+      <link>https://store.steampowered.com/news/app/1422450/view/703281025618282871</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1422450/view/703281025618282871</guid>
+      <pubDate>Tue, 06 Oct 2026 20:59:54 +0000</pubDate>
+      <category>Deadlock</category>
+      <description>&lt;img src="https://clan.fastly.steamstatic.com/images/45164767/720ba4e0f1b1ed105708f7b15cdfc7ad95bfdb30/english.png" /&gt;&lt;br /&gt;&lt;br /&gt;It was a close contest, but today we find New York's notorious pigeon lady leaving her favorite perch in Central Park and joining the fight on the city streets. &lt;br /&gt;&lt;br /&gt;Tourists in the park might not think much of ol' Baba sitting on her bench - sipping tea and talking to her birds - but the locals have always suspected that something more brews below the surface.</description>
     </item>
     <item>
       <title>10.2.0 | Mid-Chapter</title>
@@ -122,7 +130,7 @@
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Tue, 06 Oct 2026 20:48:26 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 04:29:29 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -130,7 +138,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Tue, 06 Oct 2026 20:48:26 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 04:29:29 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -138,7 +146,7 @@
       <title>Flying High: Football Manager and Brighton extend partnership for the new season</title>
       <link>https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</guid>
-      <pubDate>Tue, 06 Oct 2026 20:48:26 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 04:29:29 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -146,7 +154,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Tue, 06 Oct 2026 20:48:26 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 04:29:29 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -154,7 +162,7 @@
       <title>FM26 Update (26.2) Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-update-262-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-update-262-now-live</guid>
-      <pubDate>Tue, 06 Oct 2026 20:48:26 +0000</pubDate>
+      <pubDate>Wed, 07 Oct 2026 04:29:29 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
