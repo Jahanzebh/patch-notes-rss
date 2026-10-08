@@ -4,8 +4,24 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Thu, 08 Oct 2026 15:14:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 21:03:14 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>ExileCon 2026 Cosplay and Costume Weapons Policy</title>
+      <link>https://store.steampowered.com/news/app/2694490/view/669504662825600867</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/2694490/view/669504662825600867</guid>
+      <pubDate>Thu, 08 Oct 2026 20:33:27 +0000</pubDate>
+      <category>Path of Exile 2</category>
+      <description>If you intend to cosplay and bring any kind of weapons from in-game please make sure that they are not actually functional in any way, as it is extremely likely that your costume weapon would not be allowed in through the security check.&lt;br /&gt;&lt;br /&gt;All costume weapons will be inspected thoroughly by event staff before being allowed admittance into ExileCon and will be tagged once they are deemed okay. The tags should not be altered or removed from the item, or the weapon may be confiscated.&lt;br /</description>
+    </item>
+    <item>
+      <title>An Update from the Anti Cheat Team - 10/08/2026</title>
+      <link>https://store.steampowered.com/news/app/1172470/view/703281660030879524</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/703281660030879524</guid>
+      <pubDate>Thu, 08 Oct 2026 17:01:41 +0000</pubDate>
+      <category>Apex Legends</category>
+      <description>&lt;div class="bb_h1"&gt;&lt;b&gt;First week of EA Javelin Anticheat&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;Since the transition to EA Javelin Anticheat, we’ve continued to monitor, identify, and disrupt cheating across Apex Legends. The move to Javelin gives our Anti-Cheat team greater visibility into threats and more flexibility to respond as new cheats emerge.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We wanted to share an update on what we’ve seen since the transition, including the volume of cheat attempts prevented, enfor</description>
+    </item>
     <item>
       <title>Store Update 11.13.0</title>
       <link>https://store.steampowered.com/news/app/2073850/view/686393161428238547</link>
@@ -53,6 +69,14 @@
       <pubDate>Tue, 06 Oct 2026 17:18:13 +0000</pubDate>
       <category>Apex Legends</category>
       <description>&lt;p class="bb_paragraph"&gt;TESTING:&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Starting tomorrow, October 7th at approximately 10am PT, we will be conducting a matchmaking test by enabling cross-play as the default option for all players, on all platforms in the US-West servers. The intention of this test is to shorten queue times and tighten matchmaking skill bands. This test will run until the season ends on November 3rd. Console players can opt out of the test by turning off cross-play in your settings menu.&lt;/p</description>
+    </item>
+    <item>
+      <title>Warframe Iceblade of Narin x Alienware Laptop Giveaway</title>
+      <link>https://store.steampowered.com/news/app/230410/view/681889561799821087</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/230410/view/681889561799821087</guid>
+      <pubDate>Thu, 08 Oct 2026 16:17:39 +0000</pubDate>
+      <category>Warframe</category>
+      <description>An ice-cold giveaway has arrived courtesy of Alienware!&lt;br /&gt;&lt;br /&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4437469/cc2113e555b79914cb265226f3dbd12c302b4894.png" /&gt;&lt;br /&gt;&lt;br /&gt;With our latest update, we will be giving one lucky winner a fully decked out Iceblade of Narin-themed Alienware Aurora 16 X Laptop, alongside an Alienware Pro Keyboard, Alienware Pro Mouse and Alienware Pro Headset!</description>
     </item>
     <item>
       <title>Euro Truck Simulator 2 - 1.62 Update: New Garages</title>
@@ -175,42 +199,10 @@
       <description>An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:&lt;br /&gt;&lt;br /&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;Added sv_wallbug convar to allow previous movement behavior on community servers (related to the missed note at the bottom)&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Fixed view jitter that occurs and persists when playing for extended periods of time&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Fixed snd_mix_async from crashing the game&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Fixed sv_parallel_sends</description>
     </item>
     <item>
-      <title>October in Warframe</title>
-      <link>https://store.steampowered.com/news/app/230410/view/681888927386173555</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/230410/view/681888927386173555</guid>
-      <pubDate>Mon, 05 Oct 2026 19:56:21 +0000</pubDate>
-      <category>Warframe</category>
-      <description>As the seasons change, so does the Origin System. And this October is no exception, with plenty of seasonal, returning, and brand new additions to occupy you as we draw ever closer to Warframe: Tau later this year.&lt;br /&gt;&lt;br /&gt;Watch for the following events this month:&lt;br /&gt;&lt;br /&gt;&lt;div class="bb_h2"&gt;EPOCH OPERATION: TAUBOUND&lt;/div&gt;&lt;b&gt;October 15 - November 17&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4437469/ffdf4837337f53bdff7edcaa082d21eaf61f3350.png" /&gt;&lt;br /&gt;A unique eve</description>
-    </item>
-    <item>
-      <title>Developer Update | 10.2.0 PTB to Live Changes</title>
-      <link>https://store.steampowered.com/news/app/381210/view/716791824502491130</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/381210/view/716791824502491130</guid>
-      <pubDate>Mon, 05 Oct 2026 18:00:20 +0000</pubDate>
-      <category>Dead by Daylight</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/11814497/25e3cb32792313b70cb0141fe95a6ee4abcf7bbe.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;With the release of 10.2.0 just around the corner, we wanted to take some time to talk to you about a handful of the many changes that will be happening from PTB to the Live release - and a few changes that won’t. We want to thank everyone who took the time during the PTB to share their thoughts, as we always take your feedback very ser</description>
-    </item>
-    <item>
-      <title>V3.3.0 Stable</title>
-      <link>https://store.steampowered.com/news/app/251570/view/681888927386175529</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/251570/view/681888927386175529</guid>
-      <pubDate>Mon, 05 Oct 2026 17:12:28 +0000</pubDate>
-      <category>7 Days to Die</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/5383109/5778acec065ef7ee16561445272c77c481e3e7f3.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;A lack of inventory space got you down survivor? &lt;br /&gt;Well, worry no more with the new Bigger Backpack system! &lt;br /&gt;Craft, loot, or buy your way to a bigger inventory today! &lt;br /&gt; &lt;br /&gt;V3.3.0 also introduces a new inventory grid size of 8x6. &lt;br /&gt;That's 4 rows of free-to-use slots and 2 rows of encumbered slots. &lt;br /&gt;A total of 48 </description>
-    </item>
-    <item>
-      <title>Experience Halloween Thrills All Throughout October in GTA Online</title>
-      <link>https://store.steampowered.com/news/app/271590/view/710036425059338226</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/271590/view/710036425059338226</guid>
-      <pubDate>Mon, 05 Oct 2026 15:22:49 +0000</pubDate>
-      <category>GTA Online</category>
-      <description>The streets of Los Santos are crawling with creepy apparitions, paranormal visions, and more this Halloween season. Prepare for a month of ghastly mayhem with vengeful Slashers roaming the streets and tides of shambling undead occupying Ludendorff Cemetery.&lt;br /&gt;&lt;br /&gt;Hunt down spooky visions of deceased tech executives for Ghosts Exposed and make a killing across the Halloween Featured Series, the kill-or-be-killed tension of Slasher, racing in the San Andreas Super Sport Series, or fighting of</description>
-    </item>
-    <item>
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Thu, 08 Oct 2026 15:14:39 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 21:03:14 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -218,7 +210,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Thu, 08 Oct 2026 15:14:39 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 21:03:14 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -226,7 +218,7 @@
       <title>Flying High: Football Manager and Brighton extend partnership for the new season</title>
       <link>https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</guid>
-      <pubDate>Thu, 08 Oct 2026 15:14:39 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 21:03:14 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -234,7 +226,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Thu, 08 Oct 2026 15:14:39 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 21:03:14 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -242,7 +234,7 @@
       <title>FM26 Update (26.2) Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-update-262-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-update-262-now-live</guid>
-      <pubDate>Thu, 08 Oct 2026 15:14:39 +0000</pubDate>
+      <pubDate>Thu, 08 Oct 2026 21:03:14 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -269,6 +261,14 @@
       <pubDate>Tue, 06 Oct 2026 12:40:29 +0000</pubDate>
       <category>Crusader Kings III</category>
       <description>&lt;p class="bb_paragraph"&gt;Hello everyone! Our 1.20.1 update is still in active development, and many of the issues you’ve reported will be fixed or improved in that release. In the meantime, we’re rolling out a small hotfix today to address a high priority issue that was preventing players from educating their children.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Check out the changelog below for more details!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;hr /&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="</description>
+    </item>
+    <item>
+      <title>Risk of Rain: Hallowed Concepts is Available Now!</title>
+      <link>https://store.steampowered.com/news/app/632360/view/703281025618280508</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/632360/view/703281025618280508</guid>
+      <pubDate>Thu, 08 Oct 2026 16:40:55 +0000</pubDate>
+      <category>Risk of Rain 2</category>
+      <description>&lt;div class="bb_h1"&gt;Hallowed Concepts is Available Now!&lt;/div&gt;&lt;div class="sharedFilePreviewYouTubeVideo"&gt;&lt;img class="sharedFilePreviewYouTubeVideo" src="https://steamcommunity.com/public/shared/images/responsive/youtube_16x9_placeholder.gif" /&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;a class="bb_link" href="https://store.steampowered.com/app/3055670/Risk_of_Rain_2_Hallowed_Concepts/" rel="" target="_blank"&gt;https://store.steampowered.com/app/3055670/Risk_of_Rain_2_Hallowed_Concept</description>
     </item>
     <item>
       <title>Timberborn 1.1 Build-a-Map Contest is live</title>
