@@ -4,8 +4,16 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Thu, 08 Oct 2026 21:03:14 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 04:43:51 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apex Legends: 10/08/2026</title>
+      <link>https://store.steampowered.com/news/app/1172470/view/703281660030879764</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/703281660030879764</guid>
+      <pubDate>Thu, 08 Oct 2026 22:33:00 +0000</pubDate>
+      <category>Apex Legends</category>
+      <description>&lt;p class="bb_paragraph"&gt;FIXED:&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We have resolved issues revolving around specific movements for some Legends on consoles, including: Ash's dash and double jump, Sparrow's double jump, Revenant's climb and mantle, and Lifeline's run animation. &lt;/p&gt;&lt;p class="bb_paragraph"&gt;Thank you for your patience as we worked to resolve these issues.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>ExileCon 2026 Cosplay and Costume Weapons Policy</title>
       <link>https://store.steampowered.com/news/app/2694490/view/669504662825600867</link>
@@ -71,12 +79,12 @@
       <description>&lt;p class="bb_paragraph"&gt;TESTING:&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Starting tomorrow, October 7th at approximately 10am PT, we will be conducting a matchmaking test by enabling cross-play as the default option for all players, on all platforms in the US-West servers. The intention of this test is to shorten queue times and tighten matchmaking skill bands. This test will run until the season ends on November 3rd. Console players can opt out of the test by turning off cross-play in your settings menu.&lt;/p</description>
     </item>
     <item>
-      <title>Warframe Iceblade of Narin x Alienware Laptop Giveaway</title>
-      <link>https://store.steampowered.com/news/app/230410/view/681889561799821087</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/230410/view/681889561799821087</guid>
-      <pubDate>Thu, 08 Oct 2026 16:17:39 +0000</pubDate>
-      <category>Warframe</category>
-      <description>An ice-cold giveaway has arrived courtesy of Alienware!&lt;br /&gt;&lt;br /&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4437469/cc2113e555b79914cb265226f3dbd12c302b4894.png" /&gt;&lt;br /&gt;&lt;br /&gt;With our latest update, we will be giving one lucky winner a fully decked out Iceblade of Narin-themed Alienware Aurora 16 X Laptop, alongside an Alienware Pro Keyboard, Alienware Pro Mouse and Alienware Pro Headset!</description>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://store.steampowered.com/news/app/730/view/675134162359814146</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/730/view/675134162359814146</guid>
+      <pubDate>Thu, 08 Oct 2026 22:36:49 +0000</pubDate>
+      <category>Counter-Strike 2</category>
+      <description>&lt;p class="bb_paragraph"&gt;\[ MISC ]&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Added a ping icon for dropped defuse kits&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Reduced the time for AUG reload by half second&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed the sound event during silent reload for Desert Eagle&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed a case of buzzing soundscape sounds during demo playback&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Clipping fixes for Rush maps&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragra</description>
     </item>
     <item>
       <title>Euro Truck Simulator 2 - 1.62 Update: New Garages</title>
@@ -175,34 +183,10 @@
       <description>Hello, this is Project Moon.&lt;br /&gt;&lt;br /&gt;On Oct. 2nd, we launched a survey regarding difficulty adjustments for a certain boss. A total of 49,678 Managers have participated so far.&lt;br /&gt;&lt;br /&gt;As we have collected sufficient meaningful data regarding the boss difficulty adjustments, the survey will close earlier than originally scheduled.&lt;br /&gt;&lt;br /&gt;- Before: Responses accepted until Oct. 8th (Thu), 10:00 (KST)&lt;br /&gt;&lt;b&gt;- After: Responses accepted until Oct. 7th (Wed), 00:00 (KST)&lt;/b&gt;&lt;br /&gt;We will </description>
     </item>
     <item>
-      <title>Counter-Strike 2 Update</title>
-      <link>https://store.steampowered.com/news/app/730/view/675133527946168308</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/730/view/675133527946168308</guid>
-      <pubDate>Mon, 05 Oct 2026 23:39:43 +0000</pubDate>
-      <category>Counter-Strike 2</category>
-      <description>&lt;p class="bb_paragraph"&gt;\[ MISC ]&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Pet photobook pages now have localized text art.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Added play menu buttons to manage downloaded Workshop maps.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Adjusted VK shader cache extension flags.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>Minor Update - 10-05-2026</title>
-      <link>https://store.steampowered.com/news/app/1422450/view/703281025618282632</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1422450/view/703281025618282632</guid>
-      <pubDate>Mon, 05 Oct 2026 23:05:32 +0000</pubDate>
-      <category>Deadlock</category>
-      <description>&lt;p class="bb_paragraph"&gt;- Fixed bugs that were causing troopers to walk too slowly in lane&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Rat King: Scrap Grenade - Fixed some bugs with bouncing targeting&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Rat King: Scrap Grenade - Damage increased from 65 to 70&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Rat King: Scrap Grenade - T2 Damage increased from 65 to 70&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Rat King: Rat Swarm - Base Cooldown reduced from 28s to 24s&lt;/p&gt;&lt;p class="bb_paragr</description>
-    </item>
-    <item>
-      <title>Team Fortress 2 Update Released</title>
-      <link>https://store.steampowered.com/news/app/440/view/714540024688805878</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/440/view/714540024688805878</guid>
-      <pubDate>Mon, 05 Oct 2026 23:02:42 +0000</pubDate>
-      <category>Team Fortress 2</category>
-      <description>An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:&lt;br /&gt;&lt;br /&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;Added sv_wallbug convar to allow previous movement behavior on community servers (related to the missed note at the bottom)&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Fixed view jitter that occurs and persists when playing for extended periods of time&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Fixed snd_mix_async from crashing the game&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Fixed sv_parallel_sends</description>
-    </item>
-    <item>
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Thu, 08 Oct 2026 21:03:14 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 04:43:51 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -210,7 +194,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Thu, 08 Oct 2026 21:03:14 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 04:43:51 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -218,7 +202,7 @@
       <title>Flying High: Football Manager and Brighton extend partnership for the new season</title>
       <link>https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</guid>
-      <pubDate>Thu, 08 Oct 2026 21:03:14 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 04:43:51 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -226,7 +210,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Thu, 08 Oct 2026 21:03:14 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 04:43:51 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -234,7 +218,7 @@
       <title>FM26 Update (26.2) Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-update-262-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-update-262-now-live</guid>
-      <pubDate>Thu, 08 Oct 2026 21:03:14 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 04:43:51 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
