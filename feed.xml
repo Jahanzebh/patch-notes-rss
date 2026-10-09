@@ -4,8 +4,16 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Fri, 09 Oct 2026 14:59:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 20:34:10 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apex Legends: Latest Update - 10/09/2026</title>
+      <link>https://store.steampowered.com/news/app/1172470/view/703281660030880603</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/703281660030880603</guid>
+      <pubDate>Fri, 09 Oct 2026 17:36:30 +0000</pubDate>
+      <category>Apex Legends</category>
+      <description>&lt;p class="bb_paragraph"&gt;📋TESTING: We have activated a matchmaking test that increases maximum queue times for Plat+ players on all platforms, in all regions. The queue time increase scales with Rank tier, and Masters players could expect a maximum extension of approximately 30 seconds.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;This test is in pursuit of tighter skill bands in high skill matches and less spill over of high rank players into mid-rank matches, as the matchmaker spends more time prioritizing the t</description>
+    </item>
     <item>
       <title>Apex Legends: 10/08/2026</title>
       <link>https://store.steampowered.com/news/app/1172470/view/703281660030879764</link>
@@ -71,12 +79,12 @@
       <description>&lt;div class="bb_h3"&gt;&lt;b&gt;Greetings, Descendants! &lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;With the November Season 4 Episode 2 update, in order to provide guidance on growth more efficiently,&lt;/p&gt;&lt;p class="bb_paragraph"&gt;the Guide Quests will be discontinued and their associated rewards will be integrated into the Boost Path.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Descendants who are currently progressing through the Guide Quests are advised to review the details </description>
     </item>
     <item>
-      <title>Apex Legends: Latest Update 10/6/2026</title>
-      <link>https://store.steampowered.com/news/app/1172470/view/703281025618282862</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/703281025618282862</guid>
-      <pubDate>Tue, 06 Oct 2026 17:18:13 +0000</pubDate>
-      <category>Apex Legends</category>
-      <description>&lt;p class="bb_paragraph"&gt;TESTING:&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Starting tomorrow, October 7th at approximately 10am PT, we will be conducting a matchmaking test by enabling cross-play as the default option for all players, on all platforms in the US-West servers. The intention of this test is to shorten queue times and tighten matchmaking skill bands. This test will run until the season ends on November 3rd. Console players can opt out of the test by turning off cross-play in your settings menu.&lt;/p</description>
+      <title>1.62 Update: Improved Material System</title>
+      <link>https://store.steampowered.com/news/app/227300/view/679637761984039386</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/227300/view/679637761984039386</guid>
+      <pubDate>Fri, 09 Oct 2026 15:00:45 +0000</pubDate>
+      <category>Euro Truck Simulator 2</category>
+      <description>&lt;p class="bb_paragraph"&gt;The Improved Material System continues to make its way across our truck line-up! With the upcoming 1.62 update for &lt;a class="bb_link" href="https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/" rel="" target="_blank"&gt;Euro Truck Simulator 2&lt;/a&gt; &amp; &lt;a class="bb_link" href="https://store.steampowered.com/app/270880/American_Truck_Simulator/" rel="" target="_blank"&gt;American Truck Simulator&lt;/a&gt;, two more trucks will benefit from this upgrade, bringing further visua</description>
     </item>
     <item>
       <title>Server Update 09.10.2026</title>
@@ -170,7 +178,7 @@
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Fri, 09 Oct 2026 14:59:54 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 20:34:10 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -178,7 +186,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Fri, 09 Oct 2026 14:59:54 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 20:34:10 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -186,7 +194,7 @@
       <title>Flying High: Football Manager and Brighton extend partnership for the new season</title>
       <link>https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</guid>
-      <pubDate>Fri, 09 Oct 2026 14:59:54 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 20:34:10 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -194,7 +202,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Fri, 09 Oct 2026 14:59:54 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 20:34:10 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -202,7 +210,7 @@
       <title>FM26 Update (26.2) Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-update-262-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-update-262-now-live</guid>
-      <pubDate>Fri, 09 Oct 2026 14:59:54 +0000</pubDate>
+      <pubDate>Fri, 09 Oct 2026 20:34:10 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
