@@ -4,7 +4,7 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Wed, 14 Oct 2026 13:19:53 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 19:59:41 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Line Up the Perfect Shot with the Scope of Authority Premium Warbond!</title>
@@ -20,7 +20,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/39210/view/694274460775091487</guid>
       <pubDate>Tue, 13 Oct 2026 10:33:49 +0000</pubDate>
       <category>Final Fantasy XIV</category>
-      <description>&lt;img src="https://clan.fastly.steamstatic.com/images/4459756/9c626e90914ac55df75686ab5e3d573e69ae5012.png" /&gt;&lt;br /&gt;&lt;br /&gt;Patch 7.57 introduces same-region player matchmaking to the Japanese data centers, as well as a number of adjustments to the Crucible of the Unbroken.&lt;br /&gt;&lt;br /&gt;&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fsqex.to%2FKd1Gh%20style%3Dbutton" rel=" noopener" target="_blank"&gt;Read the full patch notes on the Lodestone.&lt;/a&gt;</description>
+      <description>&lt;img src="https://clan.akamai.steamstatic.com/images/4459756/9c626e90914ac55df75686ab5e3d573e69ae5012.png" /&gt;&lt;br /&gt;&lt;br /&gt;Patch 7.57 introduces same-region player matchmaking to the Japanese data centers, as well as a number of adjustments to the Crucible of the Unbroken.&lt;br /&gt;&lt;br /&gt;&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fsqex.to%2FKd1Gh%20style%3Dbutton" rel=" noopener" target="_blank"&gt;Read the full patch notes on the Lodestone.&lt;/a&gt;</description>
     </item>
     <item>
       <title>[Dev Series] Dev Note vol.30 | 15. Oct Update Preview</title>
@@ -28,7 +28,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/2074920/view/698778060405607728</guid>
       <pubDate>Tue, 13 Oct 2026 10:00:03 +0000</pubDate>
       <category>The First Descendant</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/42627465/ccc56a34769d1c866a9af084112ea0ce44b8a0b0.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Greetings, Descendants!&lt;br /&gt;&lt;br /&gt;We sincerely thank all Descendants who joined us for the October Developer Note video.&lt;br /&gt;&lt;br /&gt;During this broadcast, we introduced the major content scheduled for the October 15th (Thu) update.&lt;br /&gt;We covered the Freyna rebalance, new Trigger Module, Gley &amp; Enzo rebalance, update for Trials, Onsla</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/42627465/ccc56a34769d1c866a9af084112ea0ce44b8a0b0.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Greetings, Descendants!&lt;br /&gt;&lt;br /&gt;We sincerely thank all Descendants who joined us for the October Developer Note video.&lt;br /&gt;&lt;br /&gt;During this broadcast, we introduced the major content scheduled for the October 15th (Thu) update.&lt;br /&gt;We covered the Freyna rebalance, new Trigger Module, Gley &amp; Enzo rebalance, update for Trials, Onsla</description>
     </item>
     <item>
       <title>Server Maintenance Notice (10.14(Wed) 22:00 – 10.15(Thu) 08:00 PDT)</title>
@@ -37,6 +37,30 @@
       <pubDate>Tue, 13 Oct 2026 05:00:47 +0000</pubDate>
       <category>The First Descendant</category>
       <description>&lt;div class="bb_h3"&gt;&lt;b&gt;Greetings, Descendants.&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We'll be having server maintenance.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;■ Maintenance Schedule&lt;/b&gt;&lt;/p&gt;&lt;div class="bb_table"&gt;&lt;div class="bb_table_tr"&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Timezone&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Maintenance Schedule&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class="bb_table_tr"&gt;&lt;div class="bb_table_td"&gt;&lt;p cla</description>
+    </item>
+    <item>
+      <title>10.2.1 | Bugfix Patch</title>
+      <link>https://store.steampowered.com/news/app/381210/view/716792458916138263</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/381210/view/716792458916138263</guid>
+      <pubDate>Wed, 14 Oct 2026 15:01:01 +0000</pubDate>
+      <category>Dead by Daylight</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/11814497/29d43e4f7e2a2f6ce2cbd4d29b4454d303352da0.png" /&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;&lt;b&gt;Features&lt;/b&gt;&lt;/div&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Surrender and End Trial&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Surrender Option&lt;/b&gt;&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Survivor Condition - When there are no other human survivors, and at least one bot, the remaining player gets the option to &lt;b&gt;Surrender. &lt;/b&gt;&lt;i&gt;(wa</description>
+    </item>
+    <item>
+      <title>Doktor's Curse Is Back: Hide, Hunt, and Survive</title>
+      <link>https://store.steampowered.com/news/app/359550/view/692022660962451696</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/359550/view/692022660962451696</guid>
+      <pubDate>Wed, 14 Oct 2026 15:00:36 +0000</pubDate>
+      <category>Tom Clancy's Rainbow Six Siege</category>
+      <description>&lt;b&gt;&lt;div class="bb_h2"&gt;DOKTOR'S CURSE RETURNS&lt;/div&gt;&lt;/b&gt;&lt;br /&gt;Doktor's Curse is back from October 14 to November 2, bringing one of Rainbow Six Siege's most beloved limited-time events back to the spotlight.&lt;br /&gt;&lt;br /&gt;Step into Doktor's twisted laboratory and choose your side in the iconic Hide &amp; Seek game mode. Hunt down your prey as a Hunter or evade capture as a Monster using unique abilities designed specifically for this seasonal event.&lt;br /&gt;&lt;br /&gt;Watch the trailer and prepare for the hunt.&lt;</description>
+    </item>
+    <item>
+      <title>Iceland: Gameplay Preview</title>
+      <link>https://store.steampowered.com/news/app/227300/view/681890195439616026</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/227300/view/681890195439616026</guid>
+      <pubDate>Wed, 14 Oct 2026 15:00:35 +0000</pubDate>
+      <category>Euro Truck Simulator 2</category>
+      <description>&lt;p class="bb_paragraph"&gt;Today, we're excited to share the first gameplay video from the upcoming &lt;a class="bb_link" href="https://store.steampowered.com/app/3796990/Euro_Truck_Simulator_2__Iceland/" rel="" target="_blank"&gt;Iceland DLC&lt;/a&gt; for &lt;a class="bb_link" href="https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/" rel="" target="_blank"&gt;Euro Truck Simulator 2&lt;/a&gt;! Join us as we explore some of the incredible landscapes that await you on the road.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img</description>
     </item>
     <item>
       <title>PGS 10 Group Stage is LIVE!!</title>
@@ -52,15 +76,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/679638055807615428</guid>
       <pubDate>Tue, 13 Oct 2026 14:41:39 +0000</pubDate>
       <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/becc96200212df9291fac98389f0f3bce0d27efd.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Sound&lt;/b&gt; &lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;A bug that caused the Indonesian crew voice over to not play and instead be swapped to a default one has been fixed. &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Locations and Missions&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;\[Air Superiority] Mozdok &lt;/b&gt;— an issue wher</description>
-    </item>
-    <item>
-      <title>October Store Update 2026</title>
-      <link>https://store.steampowered.com/news/app/578080/view/708911159562997066</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/578080/view/708911159562997066</guid>
-      <pubDate>Tue, 13 Oct 2026 06:00:52 +0000</pubDate>
-      <category>PUBG: BATTLEGROUNDS</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/27971017/3f5bd1e8dcec8808f24b6e3195d6ae3cb0ac1390.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fpubg.com%2Fnews%2F11182" rel=" noopener" target="_blank"&gt;Read the full announcement here!&lt;/a&gt;&lt;/div&gt;</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/becc96200212df9291fac98389f0f3bce0d27efd.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Sound&lt;/b&gt; &lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;A bug that caused the Indonesian crew voice over to not play and instead be swapped to a default one has been fixed. &lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Locations and Missions&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;\[Air Superiority] Mozdok &lt;/b&gt;— an issue wher</description>
     </item>
     <item>
       <title>Map Service Report - Update 43.2</title>
@@ -68,7 +84,15 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/578080/view/708911159562997064</guid>
       <pubDate>Tue, 13 Oct 2026 06:00:52 +0000</pubDate>
       <category>PUBG: BATTLEGROUNDS</category>
-      <description>&lt;img src="https://clan.fastly.steamstatic.com/images/27971017/c6c8adc4d5670ed2aab016cc334af385eb01a5f7.png" /&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class="bb_h2"&gt;&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fpubg.com%2Fnews%2F11137" rel=" noopener" target="_blank"&gt;Read the full announcement here!&lt;/a&gt;&lt;/div&gt;</description>
+      <description>&lt;img src="https://clan.akamai.steamstatic.com/images/27971017/c6c8adc4d5670ed2aab016cc334af385eb01a5f7.png" /&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class="bb_h2"&gt;&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fpubg.com%2Fnews%2F11137" rel=" noopener" target="_blank"&gt;Read the full announcement here!&lt;/a&gt;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title>October Store Update 2026</title>
+      <link>https://store.steampowered.com/news/app/578080/view/708911159562997066</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/578080/view/708911159562997066</guid>
+      <pubDate>Tue, 13 Oct 2026 06:00:52 +0000</pubDate>
+      <category>PUBG: BATTLEGROUNDS</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/27971017/3f5bd1e8dcec8808f24b6e3195d6ae3cb0ac1390.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fpubg.com%2Fnews%2F11182" rel=" noopener" target="_blank"&gt;Read the full announcement here!&lt;/a&gt;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Patch Notes - Update 43.2</title>
@@ -76,7 +100,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/578080/view/708911159562997062</guid>
       <pubDate>Tue, 13 Oct 2026 06:00:50 +0000</pubDate>
       <category>PUBG: BATTLEGROUNDS</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/27971017/f96352baff3a9972c63e49745775991b9a378859.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fpubg.com%2Fnews%2F11136" rel=" noopener" target="_blank"&gt;Read the full announcement here!&lt;/a&gt;&lt;/div&gt;</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/27971017/f96352baff3a9972c63e49745775991b9a378859.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fpubg.com%2Fnews%2F11136" rel=" noopener" target="_blank"&gt;Read the full announcement here!&lt;/a&gt;&lt;/div&gt;</description>
     </item>
     <item>
       <title>Team Fortress 2 Update Released</title>
@@ -92,7 +116,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/679638055807615211</guid>
       <pubDate>Mon, 12 Oct 2026 15:04:44 +0000</pubDate>
       <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/032b12efbfef49c1dd3c527380797526126ccfb5.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Sound&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Now, when opening the aircraft or helicopter cockpit in flight, the sound of the rushing airflow will drown out all sounds, such as engines and missiles. Previously, this was controlled by the player’s engine volume slider.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_par</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/032b12efbfef49c1dd3c527380797526126ccfb5.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Sound&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Now, when opening the aircraft or helicopter cockpit in flight, the sound of the rushing airflow will drown out all sounds, such as engines and missiles. Previously, this was controlled by the player’s engine volume slider.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_par</description>
     </item>
     <item>
       <title>Spooky Monthly Decals for October!</title>
@@ -100,21 +124,13 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/679637761984039029</guid>
       <pubDate>Mon, 12 Oct 2026 13:08:31 +0000</pubDate>
       <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/a46907166af3a22c6ec076ec10f3fda742b04138.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Hey everyone! As it’s October, we thought we’d change the format up a bit and go with a set of decals that fit the Halloween month. We’ve got skulls, ghosts and a black cat too of course! For the “Red Devils” hull art piece, we’ve tried to keep the shape somewhat generalized so you’ll be able to apply it to lots of tank hulls rather than</description>
-    </item>
-    <item>
-      <title>Poznan Game Arena 2026</title>
-      <link>https://store.steampowered.com/news/app/227300/view/679637761984039603</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/227300/view/679637761984039603</guid>
-      <pubDate>Sun, 11 Oct 2026 15:00:56 +0000</pubDate>
-      <category>Euro Truck Simulator 2</category>
-      <description>&lt;p class="bb_paragraph"&gt;We are excited to announce that SCS Software will be heading to &lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fgamearena.pl%2Fen%2F" rel=" noopener" target="_blank"&gt;Poznań Game Arena 2026&lt;/a&gt;, taking place from 23rd to 25th October in Poznań, Poland!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4036972/84c94b5d5ec55e9ba98850ec2a09edfcc1076de2.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;If you're attending this yea</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/a46907166af3a22c6ec076ec10f3fda742b04138.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Hey everyone! As it’s October, we thought we’d change the format up a bit and go with a set of decals that fit the Halloween month. We’ve got skulls, ghosts and a black cat too of course! For the “Red Devils” hull art piece, we’ve tried to keep the shape somewhat generalized so you’ll be able to apply it to lots of tank hulls rather than</description>
     </item>
     <item>
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Wed, 14 Oct 2026 13:19:53 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 19:59:41 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -122,7 +138,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Wed, 14 Oct 2026 13:19:53 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 19:59:41 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -130,7 +146,7 @@
       <title>Flying High: Football Manager and Brighton extend partnership for the new season</title>
       <link>https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</guid>
-      <pubDate>Wed, 14 Oct 2026 13:19:53 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 19:59:41 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -138,7 +154,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Wed, 14 Oct 2026 13:19:53 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 19:59:41 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -146,7 +162,7 @@
       <title>FM26 Update (26.2) Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-update-262-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-update-262-now-live</guid>
-      <pubDate>Wed, 14 Oct 2026 13:19:53 +0000</pubDate>
+      <pubDate>Wed, 14 Oct 2026 19:59:41 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -156,7 +172,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/1284210/view/677385962174549307</guid>
       <pubDate>Tue, 13 Oct 2026 16:32:19 +0000</pubDate>
       <category>Guild Wars 2</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/38608049/a26a84f1648de7ed20f0bc7acd5ffdf4ebe3c73e.png" /&gt;&lt;br /&gt;Over the past fourteen years, the story of &lt;i&gt;Guild Wars 2&lt;/i&gt;® has been told across six expansions and five Living World™ seasons. While we're proud of this extensive content library, we're always looking for ways to improve how new and returning players access our adventures in Tyria. Today, we're launching a series of updates to our expansion bundles and </description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/38608049/a26a84f1648de7ed20f0bc7acd5ffdf4ebe3c73e.png" /&gt;&lt;br /&gt;Over the past fourteen years, the story of &lt;i&gt;Guild Wars 2&lt;/i&gt;® has been told across six expansions and five Living World™ seasons. While we're proud of this extensive content library, we're always looking for ways to improve how new and returning players access our adventures in Tyria. Today, we're launching a series of updates to our expansion bundles and </description>
     </item>
     <item>
       <title>Shadow of the Mad King 2026 Is Now Live!</title>
