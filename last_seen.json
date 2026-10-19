@@ -1,89 +1,59 @@
 {
   "seen": {
-    "774828b4337b": {
-      "url": "https://store.steampowered.com/news/app/2074920/view/704408284537291206",
-      "slug": "the-first-descendant",
-      "ts": "2026-10-19T03:24:10.083246+00:00"
-    },
-    "012e0d1c36aa": {
-      "url": "https://store.steampowered.com/news/app/2074920/view/704408284537291180",
-      "slug": "the-first-descendant",
-      "ts": "2026-10-19T03:24:10.083263+00:00"
+    "81f46ab5366f": {
+      "url": "https://store.steampowered.com/news/app/236390/view/681890308606132584",
+      "slug": "war-thunder",
+      "ts": "2026-10-19T15:18:11.792814+00:00"
     },
     "10ea170c0503": {
       "url": "https://store.steampowered.com/news/app/578080/view/677386595815392283",
       "slug": "pubg-battlegrounds",
-      "ts": "2026-10-19T03:24:10.083268+00:00"
+      "ts": "2026-10-19T15:18:11.792838+00:00"
     },
     "c91c24e48b56": {
       "url": "https://store.steampowered.com/news/app/578080/view/677386595815392281",
       "slug": "pubg-battlegrounds",
-      "ts": "2026-10-19T03:24:10.083271+00:00"
+      "ts": "2026-10-19T15:18:11.792841+00:00"
     },
     "3ff08144de71": {
       "url": "https://store.steampowered.com/news/app/1422450/view/669505296465396531",
       "slug": "deadlock",
-      "ts": "2026-10-19T03:24:10.083274+00:00"
+      "ts": "2026-10-19T15:18:11.792843+00:00"
     },
     "124e7dc5709d": {
       "url": "https://store.steampowered.com/news/app/440/view/671757096278033115",
       "slug": "team-fortress-2",
-      "ts": "2026-10-19T03:24:10.083277+00:00"
-    },
-    "9c9a84bc24e3": {
-      "url": "https://store.steampowered.com/news/app/227300/view/681890308606132633",
-      "slug": "euro-truck-simulator-2",
-      "ts": "2026-10-19T03:24:10.083281+00:00"
-    },
-    "b9e5ba71aa10": {
-      "url": "https://store.steampowered.com/news/app/236390/view/681890308606132644",
-      "slug": "war-thunder",
-      "ts": "2026-10-19T03:24:10.083284+00:00"
+      "ts": "2026-10-19T15:18:11.792845+00:00"
     },
     "3f1c7aab9ff4": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-10-19T03:24:10.083288+00:00"
+      "ts": "2026-10-19T15:18:11.792847+00:00"
     },
     "95cc965af55e": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-10-19T03:24:10.083291+00:00"
+      "ts": "2026-10-19T15:18:11.792850+00:00"
     },
     "6c57154b53d1": {
       "url": "https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season",
       "slug": "football-manager-26",
-      "ts": "2026-10-19T03:24:10.083294+00:00"
+      "ts": "2026-10-19T15:18:11.792853+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-10-19T03:24:10.083298+00:00"
+      "ts": "2026-10-19T15:18:11.792855+00:00"
     },
     "6b96c14517a0": {
       "url": "https://www.footballmanager.com/news/fm26-update-262-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-10-19T03:24:10.083302+00:00"
+      "ts": "2026-10-19T15:18:11.792857+00:00"
     },
     "7309af73216d": {
       "url": "https://store.steampowered.com/news/app/306130/view/679638395625931633",
       "slug": "elder-scrolls-online",
-      "ts": "2026-10-19T03:24:10.083305+00:00"
-    },
-    "2a8365374b7d": {
-      "url": "https://store.steampowered.com/news/app/306130/view/679638395625931631",
-      "slug": "elder-scrolls-online",
-      "ts": "2026-10-19T03:24:10.083307+00:00"
-    },
-    "37e32b3f97fd": {
-      "url": "https://store.steampowered.com/news/app/548430/view/716792458916138247",
-      "slug": "deep-rock-galactic",
-      "ts": "2026-10-19T03:24:10.083310+00:00"
-    },
-    "30fa1a7378eb": {
-      "url": "https://store.steampowered.com/news/app/1794680/view/675134162359815492",
-      "slug": "vampire-survivors",
-      "ts": "2026-10-19T03:24:10.083313+00:00"
+      "ts": "2026-10-19T15:18:11.792860+00:00"
     }
   }
 }
