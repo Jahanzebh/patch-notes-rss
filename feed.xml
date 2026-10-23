@@ -4,8 +4,16 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Thu, 22 Oct 2026 19:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 03:31:18 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>The First Descendant Hotfix 1.4.6b</title>
+      <link>https://store.steampowered.com/news/app/2074920/view/713416027239617653</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/2074920/view/713416027239617653</guid>
+      <pubDate>Fri, 23 Oct 2026 03:06:33 +0000</pubDate>
+      <category>The First Descendant</category>
+      <description>&lt;div class="bb_h3"&gt;&lt;b&gt;Greetings, Descendants.&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We would like to inform you about the details for The First Descendant Hotfix 1.4.6b.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Descendants, please reconnect to the game after the patch to ensure smoother gameplay.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;■ Patch Date&lt;/b&gt;- 10.22.2026(Thu) 20:00 PDT&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;■ Platforms&lt;/b&gt;- Steam, XBOX, PS5</description>
+    </item>
     <item>
       <title>Devoid of Liberty: 7.2.1</title>
       <link>https://store.steampowered.com/news/app/553850/view/708912427613295258</link>
@@ -101,6 +109,22 @@
       <pubDate>Tue, 20 Oct 2026 06:00:19 +0000</pubDate>
       <category>Helldivers 2</category>
       <description>&lt;p class="bb_paragraph"&gt;Greetings Helldivers,&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Today, we want to talk about an upcoming change to our anti-cheat, answer some questions we have seen arise in the community around modding, and discuss how it may impact you as a player. &lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Fairness and honor have always been strong foundations for Helldivers in our fight in the Galactic War. But we have seen for too long that there are some w</description>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://store.steampowered.com/news/app/730/view/694275728822244199</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/730/view/694275728822244199</guid>
+      <pubDate>Thu, 22 Oct 2026 22:56:10 +0000</pubDate>
+      <category>Counter-Strike 2</category>
+      <description>&lt;p class="bb_paragraph"&gt;\[ MAP SCRIPTING ]&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Added Instance.Precache&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Returns a CSPrecache object&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Added CSPrecache.IsServerLoading&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Added CSPrecache.IsServerLoaded&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Added CSPrecache.IsClientLoading&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Added CSPrecache.IsClientLoaded&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragrap</description>
+    </item>
+    <item>
+      <title>October Community Stream Recap</title>
+      <link>https://store.steampowered.com/news/app/381210/view/711164227423834968</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/381210/view/711164227423834968</guid>
+      <pubDate>Thu, 22 Oct 2026 19:50:57 +0000</pubDate>
+      <category>Dead by Daylight</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/11814497/555cd6cb27d0260d653b6f9b3c69407c587edaf9.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Whether you were able to tune in live (thanks!) or you're dropping by to get a tl;dr, we're here to give you a recap of some highlights from &lt;a class="bb_link" href="https://www.youtube.com/live/thXNwfYwW6Y?si=vjVzkI7stot31Q1-&amp;amp;t=426" rel="" target="_blank"&gt;&lt;u&gt;today's community stream&lt;/u&gt;&lt;/a&gt;: &lt;/p&gt;&lt;p class="bb_paragraph"&gt; &lt;/p&gt;&lt;div cl</description>
     </item>
     <item>
       <title>HALLOWEEN 2026</title>
@@ -226,7 +250,7 @@
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Thu, 22 Oct 2026 19:45:34 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 03:31:18 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -234,7 +258,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Thu, 22 Oct 2026 19:45:34 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 03:31:18 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -242,7 +266,7 @@
       <title>Flying High: Football Manager and Brighton extend partnership for the new season</title>
       <link>https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</guid>
-      <pubDate>Thu, 22 Oct 2026 19:45:34 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 03:31:18 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -250,7 +274,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Thu, 22 Oct 2026 19:45:34 +0000</pubDate>
+      <pubDate>Fri, 23 Oct 2026 03:31:18 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
