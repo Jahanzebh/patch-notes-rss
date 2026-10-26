@@ -1,49 +1,59 @@
 {
   "seen": {
+    "ee54c06c3b19": {
+      "url": "https://store.steampowered.com/news/app/251570/view/690898029101717960",
+      "slug": "7-days-to-die",
+      "ts": "2026-10-26T20:54:25.721561+00:00"
+    },
+    "d1ac9c9d883d": {
+      "url": "https://store.steampowered.com/news/app/236390/view/715667827053304237",
+      "slug": "war-thunder",
+      "ts": "2026-10-26T20:54:25.721579+00:00"
+    },
+    "0b3517a7e162": {
+      "url": "https://store.steampowered.com/news/app/227300/view/715667827053304107",
+      "slug": "euro-truck-simulator-2",
+      "ts": "2026-10-26T20:54:25.721584+00:00"
+    },
     "b2f6e8546c70": {
       "url": "https://store.steampowered.com/news/app/1868140/view/693149828915402885",
       "slug": "dave-the-diver",
-      "ts": "2026-10-26T14:52:18.656845+00:00"
+      "ts": "2026-10-26T20:54:25.721587+00:00"
     },
     "03f16bca6253": {
       "url": "https://store.steampowered.com/news/app/578080/view/685268529568552854",
       "slug": "pubg-battlegrounds",
-      "ts": "2026-10-26T14:52:18.656860+00:00"
+      "ts": "2026-10-26T20:54:25.721590+00:00"
     },
     "d8aa2e6d07ee": {
       "url": "https://store.steampowered.com/news/app/578080/view/685268529568552721",
       "slug": "pubg-battlegrounds",
-      "ts": "2026-10-26T14:52:18.656865+00:00"
-    },
-    "aabb62be25e9": {
-      "url": "https://store.steampowered.com/news/app/251570/view/690898029101717044",
-      "slug": "7-days-to-die",
-      "ts": "2026-10-26T14:52:18.656869+00:00"
-    },
-    "9983e7e783f2": {
-      "url": "https://store.steampowered.com/news/app/236390/view/715667827053303012",
-      "slug": "war-thunder",
-      "ts": "2026-10-26T14:52:18.656872+00:00"
+      "ts": "2026-10-26T20:54:25.721593+00:00"
     },
     "3f1c7aab9ff4": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-10-26T14:52:18.656875+00:00"
+      "ts": "2026-10-26T20:54:25.721596+00:00"
     },
     "95cc965af55e": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-10-26T14:52:18.656879+00:00"
+      "ts": "2026-10-26T20:54:25.721599+00:00"
     },
     "6c57154b53d1": {
       "url": "https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season",
       "slug": "football-manager-26",
-      "ts": "2026-10-26T14:52:18.656882+00:00"
+      "ts": "2026-10-26T20:54:25.721603+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-10-26T14:52:18.656886+00:00"
+      "ts": "2026-10-26T20:54:25.721607+00:00"
+    },
+    "9c3b2e45976b": {
+      "url": "https://store.steampowered.com/news/app/1604030/view/674009530499078574",
+      "slug": "v-rising",
+      "ts": "2026-10-26T20:54:25.721610+00:00"
     }
   }
 }
