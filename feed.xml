@@ -4,7 +4,7 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Thu, 29 Oct 2026 14:58:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 20:53:27 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Update 12.1.0</title>
@@ -77,6 +77,38 @@
       <pubDate>Tue, 27 Oct 2026 07:00:17 +0000</pubDate>
       <category>The First Descendant</category>
       <description>&lt;div class="bb_h3"&gt;&lt;b&gt;Greetings, Descendants.&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We would like to inform you about the schedule for this week’s Patch 1.4.7.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;■ Patch Schedule &lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Scheduled for PDT 10.29.2026(Thu) 00:00&lt;/p&gt;&lt;p class="bb_paragraph"&gt;※ The schedule and content are subject to change, and details will be provided in a separate Patch Note.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p cl</description>
+    </item>
+    <item>
+      <title>Team Fortress 2 Update Released</title>
+      <link>https://store.steampowered.com/news/app/440/view/717920261052040989</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/440/view/717920261052040989</guid>
+      <pubDate>Thu, 29 Oct 2026 20:29:39 +0000</pubDate>
+      <category>Team Fortress 2</category>
+      <description>An update to Team Fortress 2 has been released. The update will be applied automatically when you restart Team Fortress 2. The major changes include:&lt;br /&gt;&lt;br /&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;Fixed smoke effect regression for Le Sapeur&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Updated the Chief Executor, Vested Investor's Vest, and Standing Offer to fix clipping issues&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Updated cp_wildcat_event&lt;ul class="bb_ul"&gt;&lt;li&gt;Added +1 minute to the round timer&lt;br /&gt;&lt;/li&gt;&lt;li&gt;Fixed a bug that allowed pumpkin-disguised players to ca</description>
+    </item>
+    <item>
+      <title>Terraria State of the Game - October 2026</title>
+      <link>https://store.steampowered.com/news/app/105600/view/716793726963293957</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/105600/view/716793726963293957</guid>
+      <pubDate>Thu, 29 Oct 2026 18:10:41 +0000</pubDate>
+      <category>Terraria</category>
+      <description>&lt;img src="https://clan.fastly.steamstatic.com/images/3949769/98759babb408b021bfc21c9eb4524da9297be2fc.png" /&gt;&lt;br /&gt;&lt;br /&gt;Greetings Terrarians!&lt;br /&gt;&lt;br /&gt;It's spooky season once again - one of our favorite times of the year! We didn't quite get anything together in regards to a Halloween Contest this year, but we have a few contest ideas that might be coming your way soon - courtesy of our brand new Community Manager! More on that in a bit. On the development front, we have been putting the fini</description>
+    </item>
+    <item>
+      <title>New Modules for Ground Vehicles!</title>
+      <link>https://store.steampowered.com/news/app/236390/view/711164926286102586</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/711164926286102586</guid>
+      <pubDate>Thu, 29 Oct 2026 15:12:43 +0000</pubDate>
+      <category>War Thunder</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/2eb486894f3ce86a5e2e8e2a1168dc2aec91346d.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;In today’s dev blog, we’re talking about new modules and features for ground vehicles!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Hey everyone! In the next major update, ground vehicle players can look forward to new functional modules, more detailed damage models, and new capabilities for their fa</description>
+    </item>
+    <item>
+      <title>10.2.2a Backend Bugfix Patch</title>
+      <link>https://store.steampowered.com/news/app/381210/view/692024563197805374</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/381210/view/692024563197805374</guid>
+      <pubDate>Thu, 29 Oct 2026 15:06:00 +0000</pubDate>
+      <category>Dead by Daylight</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/11814497/4cece1713e8e1a400f43501edd0c67daa8547122.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Last week, we introduced the Backend Tunables system as a way to get small balance changes in your hands quicker without having to wait for patch releases. We mentioned having changes planned for a number of Killers and today, we're putting this system to use with some adjustment to The Executioner and The Good Guy.&lt;/p&gt;&lt;p class="bb_para</description>
     </item>
     <item>
       <title>Pre-orders: F/A-18D and Q-5D</title>
@@ -175,34 +207,10 @@
       <description>Generals!&lt;br /&gt;&lt;br /&gt;Christmas is coming a little early this year in the shape of a large &lt;i&gt;&lt;b&gt;War Effort&lt;/b&gt;&lt;/i&gt; update. Once again we have put emphasis on adding various QoL features we feel improve the &lt;b&gt;Hearts of Iron IV&lt;/b&gt; experience.&lt;br /&gt;&lt;br /&gt;This has been an effort to address some of the outstanding requests we have been seeing over time from our community and we hope you will enjoy them. While there are quite a few things we’ve addressed, we want to do more of these updates that imp</description>
     </item>
     <item>
-      <title>Update 2.59.0.87</title>
-      <link>https://store.steampowered.com/news/app/236390/view/715667827053304835</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/715667827053304835</guid>
-      <pubDate>Tue, 27 Oct 2026 12:35:18 +0000</pubDate>
-      <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/87d46f86791cee1d0f489f8ba1c2333fc3a0fb53.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Ground Vehicles&lt;/b&gt;&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Object 416&lt;/b&gt; — a bug that caused the machine gun ammo to not display above the action bar has been fixed. (&lt;b&gt;&lt;u&gt;&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fcommunity.gaijin.net%2Fissues%2Fp%2Fwarthund</description>
-    </item>
-    <item>
-      <title>V3.4.0 Stable -b9 hotfix</title>
-      <link>https://store.steampowered.com/news/app/251570/view/690898029101717960</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/251570/view/690898029101717960</guid>
-      <pubDate>Mon, 26 Oct 2026 17:09:14 +0000</pubDate>
-      <category>7 Days to Die</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/5383109/94289ee0b0125c79945442427daa808bac3bf58b.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Hello Survivors! &lt;/p&gt;&lt;p class="bb_paragraph"&gt;Digging through a packed backpack in the middle of a horde is about to get much easier. V3.4.0 adds a search bar and filters to your backpack and containers, so you can find what you need in seconds. Stay alert, spend less time searching, and more time surviving! &lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/</description>
-    </item>
-    <item>
-      <title>Iceland: Viewpoints</title>
-      <link>https://store.steampowered.com/news/app/227300/view/715667827053304107</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/227300/view/715667827053304107</guid>
-      <pubDate>Mon, 26 Oct 2026 16:00:34 +0000</pubDate>
-      <category>Euro Truck Simulator 2</category>
-      <description>&lt;p class="bb_paragraph"&gt;Today, we're taking a closer look at some of the viewpoints you'll be able to visit in the upcoming &lt;a class="bb_link" href="https://store.steampowered.com/app/3796990/Euro_Truck_Simulator_2__Iceland/" rel="" target="_blank"&gt;Iceland DLC&lt;/a&gt; for &lt;a class="bb_link" href="https://store.steampowered.com/app/227300/Euro_Truck_Simulator_2/" rel="" target="_blank"&gt;Euro Truck Simulator 2&lt;/a&gt;, where you can take a break from the road and enjoy the surrounding scenery!&lt;/p&gt;&lt;p class=</description>
-    </item>
-    <item>
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Thu, 29 Oct 2026 14:58:03 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 20:53:27 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -210,7 +218,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Thu, 29 Oct 2026 14:58:03 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 20:53:27 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -218,7 +226,7 @@
       <title>Flying High: Football Manager and Brighton extend partnership for the new season</title>
       <link>https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</guid>
-      <pubDate>Thu, 29 Oct 2026 14:58:03 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 20:53:27 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -226,7 +234,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Thu, 29 Oct 2026 14:58:03 +0000</pubDate>
+      <pubDate>Thu, 29 Oct 2026 20:53:27 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -253,14 +261,6 @@
       <pubDate>Wed, 28 Oct 2026 13:11:25 +0000</pubDate>
       <category>Valheim</category>
       <description>A long list of tweaks and bug fixes incoming today! It touches on a little bit of everything, and we hope this patch will serve to give you all a smoother experience adventuring in Valheim.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;Due to some internal restrictions, the patch will require a few days to get uploaded to all platforms. Despite this, however, crossplay will still remain functional, so you can keep playing with your friends regardless of what platform you’re on.&lt;/b&gt;&lt;br /&gt;&lt;br /&gt;&lt;div class="bb_h3"&gt;Patch Notes:&lt;/d</description>
-    </item>
-    <item>
-      <title>NEW PLUSHIE: Beatrice the Tailor</title>
-      <link>https://store.steampowered.com/news/app/1604030/view/674009530499078574</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1604030/view/674009530499078574</guid>
-      <pubDate>Mon, 26 Oct 2026 17:01:16 +0000</pubDate>
-      <category>V Rising</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/40467553/d40b051441d20137ecb10fbace0b671740bca93e.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;She’s here, Vampires.&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h1"&gt;&lt;b&gt;BEATRICE THE TAILOR&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Vardoran’s roundest and most beloved V Blood has arrived, and rest assured, she is everything we could have ever imagin</description>
     </item>
   </channel>
 </rss>
