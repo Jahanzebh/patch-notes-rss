@@ -4,7 +4,7 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Sat, 07 Nov 2026 14:41:47 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 19:54:06 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Apex Legends: Latest Update - 11/6/2026</title>
@@ -63,20 +63,20 @@
       <description>&lt;p class="bb_paragraph"&gt;🛠️ADJUSTED:&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Crypto&lt;/b&gt;&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Drone recall time has been shortened from 6 seconds to 0.7 seconds.&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph"&gt;&lt;i&gt;Dev note: We are continuing to monitor match data and player feedback surrounding Crypto's state following his rework. We believe some aspects or finer details of this update missed the marked, especially for Crypto mains. This change is one we're able to make quick</description>
     </item>
     <item>
-      <title>An Update from the Anti-Cheat Team – Nov 4, 2026</title>
-      <link>https://store.steampowered.com/news/app/1172470/view/680766201707627239</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/680766201707627239</guid>
-      <pubDate>Wed, 04 Nov 2026 17:02:23 +0000</pubDate>
-      <category>Apex Legends</category>
-      <description>&lt;div class="bb_h1"&gt;Ranked Integrity Update – Rookie Rank Exploit&lt;/div&gt;&lt;p class="bb_paragraph"&gt;We recently identified and quickly resolved an exploit that allowed some players, primarily on PlayStation 5, to enter Ranked matches as Rookie IV regardless of their actual rank.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;This caused several unintended advantages, including:&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;No Ranked entry cost&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Rookie-tier kill bonuses&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p</description>
-    </item>
-    <item>
       <title>Pinktober 2026 Update</title>
       <link>https://store.steampowered.com/news/app/227300/view/711165499190280738</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/227300/view/711165499190280738</guid>
       <pubDate>Fri, 06 Nov 2026 16:00:18 +0000</pubDate>
       <category>Euro Truck Simulator 2</category>
       <description>&lt;p class="bb_paragraph"&gt;October has come to an end, and we're excited to share the results of this year's efforts! Throughout the month, our #BestCommunityEver came together once again to support an important cause, helping us turn our shared passion for trucking into something that reaches far beyond the virtual roads.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4036972/07d159688d17c02b29ec579240a4cd84c4ed85a3.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We're incredib</description>
+    </item>
+    <item>
+      <title>PUBG Saturday Custom Games return this weekend!</title>
+      <link>https://store.steampowered.com/news/app/578080/view/719046905302090089</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/578080/view/719046905302090089</guid>
+      <pubDate>Fri, 06 Nov 2026 10:49:59 +0000</pubDate>
+      <category>PUBG: BATTLEGROUNDS</category>
+      <description>&lt;p class="bb_paragraph"&gt;The next edition of &lt;b&gt;PUBG Saturday Custom Games&lt;/b&gt; is happening this &lt;b&gt;Saturday, November 7th at 20:00 CEST&lt;/b&gt;, bringing the community together once again for custom matches, creator co-streams, and G-Coin giveaways.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Tune in live on Twitch:&lt;/b&gt; &lt;/p&gt;&lt;p class="bb_paragraph"&gt;Join the games, squad up with the community, and follow the broadcast for your chance to win rewards throughout the event.&lt;/p&gt;&lt;p class="bb_p</description>
     </item>
     <item>
       <title>Take Down the Kortz Center and More High-Value Targets in The Heist Event</title>
@@ -167,18 +167,10 @@
       <description>&lt;p class="bb_paragraph"&gt;\[ GAMEPLAY ]&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Bomb defusal in Retakes mode will now instantly finish when there is sufficient time remaining in the round and no active utility remains to prevent the defuse.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Reduced freeze time and round restart delay in Retakes mode.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Pinging pet chickens during freeze time will request a trick from them.&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Pet chicken</description>
     </item>
     <item>
-      <title>Iceland: Reykjavík + BIG in Iceland</title>
-      <link>https://store.steampowered.com/news/app/227300/view/711165499190280794</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/227300/view/711165499190280794</guid>
-      <pubDate>Wed, 04 Nov 2026 16:00:22 +0000</pubDate>
-      <category>Euro Truck Simulator 2</category>
-      <description>&lt;p class="bb_paragraph"&gt;Velkomin til Reykjavíkur! Today, we're heading to Iceland's capital, Reykjavík, for a closer look at its recreation in our upcoming &lt;a class="bb_link" href="https://store.steampowered.com/app/3796990/Euro_Truck_Simulator_2_Iceland/" rel="" target="_blank"&gt;Iceland DLC for Euro Truck Simulator 2&lt;/a&gt;, which releases on November 10th, along with new &lt;a class="bb_link" href="https://store.steampowered.com/app/558245/Euro_Truck_Simulator_2_Special_Transport/" rel="" target="_bl</description>
-    </item>
-    <item>
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Sat, 07 Nov 2026 14:41:47 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:54:06 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -186,7 +178,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Sat, 07 Nov 2026 14:41:47 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:54:06 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -194,7 +186,7 @@
       <title>Flying High: Football Manager and Brighton extend partnership for the new season</title>
       <link>https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</guid>
-      <pubDate>Sat, 07 Nov 2026 14:41:47 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:54:06 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -202,7 +194,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Sat, 07 Nov 2026 14:41:47 +0000</pubDate>
+      <pubDate>Sat, 07 Nov 2026 19:54:06 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
