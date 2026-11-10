@@ -1,54 +1,59 @@
 {
   "seen": {
+    "215e07a338ee": {
+      "url": "https://store.steampowered.com/news/app/2074920/view/714543467695440119",
+      "slug": "the-first-descendant",
+      "ts": "2026-11-10T06:02:22.381362+00:00"
+    },
     "1fe7faf6af78": {
       "url": "https://store.steampowered.com/news/app/1295660/view/672885171308987063",
       "slug": "civilization-vii",
-      "ts": "2026-11-09T18:22:03.394102+00:00"
+      "ts": "2026-11-10T06:02:22.381381+00:00"
     },
     "ad982da314b6": {
       "url": "https://store.steampowered.com/news/app/2074920/view/714543467695440140",
       "slug": "the-first-descendant",
-      "ts": "2026-11-09T18:22:03.394118+00:00"
+      "ts": "2026-11-10T06:02:22.381385+00:00"
     },
-    "1ecc0285a9a7": {
-      "url": "https://store.steampowered.com/news/app/1172470/view/680766308468392340",
-      "slug": "apex-legends",
-      "ts": "2026-11-09T18:22:03.394121+00:00"
+    "21daf8a45059": {
+      "url": "https://store.steampowered.com/news/app/381210/view/692025469726360068",
+      "slug": "dead-by-daylight",
+      "ts": "2026-11-10T06:02:22.381388+00:00"
     },
     "a277443c5538": {
       "url": "https://store.steampowered.com/news/app/359550/view/678514508654707034",
       "slug": "rainbow-six-siege",
-      "ts": "2026-11-09T18:22:03.394122+00:00"
+      "ts": "2026-11-10T06:02:22.381391+00:00"
     },
     "78cb55e5a245": {
       "url": "https://store.steampowered.com/news/app/1973530/view/667255671771627759",
       "slug": "limbus-company",
-      "ts": "2026-11-09T18:22:03.394124+00:00"
+      "ts": "2026-11-10T06:02:22.381394+00:00"
     },
     "9470b74a6026": {
       "url": "https://store.steampowered.com/news/app/236390/view/711165768310456584",
       "slug": "war-thunder",
-      "ts": "2026-11-09T18:22:03.394126+00:00"
+      "ts": "2026-11-10T06:02:22.381397+00:00"
     },
     "3f1c7aab9ff4": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-11-09T18:22:03.394127+00:00"
+      "ts": "2026-11-10T06:02:22.381401+00:00"
     },
     "95cc965af55e": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-11-09T18:22:03.394130+00:00"
+      "ts": "2026-11-10T06:02:22.381404+00:00"
     },
     "6c57154b53d1": {
       "url": "https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season",
       "slug": "football-manager-26",
-      "ts": "2026-11-09T18:22:03.394132+00:00"
+      "ts": "2026-11-10T06:02:22.381407+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-11-09T18:22:03.394134+00:00"
+      "ts": "2026-11-10T06:02:22.381410+00:00"
     }
   }
 }

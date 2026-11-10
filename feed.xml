@@ -4,8 +4,16 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Mon, 09 Nov 2026 18:22:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 06:02:22 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Item Sales Discontinuation and Changes Info</title>
+      <link>https://store.steampowered.com/news/app/2074920/view/714543467695440119</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/2074920/view/714543467695440119</guid>
+      <pubDate>Tue, 10 Nov 2026 05:00:19 +0000</pubDate>
+      <category>The First Descendant</category>
+      <description>&lt;div class="bb_h3"&gt;&lt;b&gt;Greetings, Descendants! &lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;After the 11.17 (Tue) update, some products will be discontinued or have their sales period extended, as well as have changes made to the product compositions and purchase limits.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Please refer to the details below for the target products and specific changes.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;■ Products Being Discontinued &lt;/b&gt;&lt;/p&gt;&lt;div clas</description>
+    </item>
     <item>
       <title>Civ VII Developer Video - November 2026 | Update 1.5.1</title>
       <link>https://store.steampowered.com/news/app/1295660/view/672885171308987063</link>
@@ -23,12 +31,12 @@
       <description>&lt;div class="bb_h3"&gt;&lt;b&gt;Hello. This is Minseok Joo, Director of The First Descendant.&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We've been hearing a lot of concern from the community about the future of The First Descendant.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;With that in mind, we're reaching out to the community through this Dev Note to share the major improvements and plans we're currently working on.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;The Dev Team is currently pre</description>
     </item>
     <item>
-      <title>Apex Legends: Latest Update - 11/6/2026</title>
-      <link>https://store.steampowered.com/news/app/1172470/view/680766308468392340</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/680766308468392340</guid>
-      <pubDate>Fri, 06 Nov 2026 18:48:48 +0000</pubDate>
-      <category>Apex Legends</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/38098458/fc9154c750debb06b5bf7281696fbd54db07168e.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;MAP CHANGE&lt;/b&gt;&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Removed E-District (night) from all map rotations, and rotating in E-District (day)&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph"&gt;&lt;i&gt;Dev Note: We are working on a handful of high impact changes that improve visibility on E-District night. We still want to deliver on the fantasy a</description>
+      <title>10.2.2b Backend Patch</title>
+      <link>https://store.steampowered.com/news/app/381210/view/692025469726360068</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/381210/view/692025469726360068</guid>
+      <pubDate>Mon, 09 Nov 2026 19:08:56 +0000</pubDate>
+      <category>Dead by Daylight</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/11814497/bcd01d6327cc8a9810328d8b292b20d27059f69c.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Towards the end of October, we released a small balance patch using our new Backend Tunables system, adjusting The Executioner and The Good Guy. After working through your feedback and watching both of them in action, we’d like to further refine those changes. &lt;/p&gt;&lt;p class="bb_paragraph"&gt;First, let’s get a quick recap of what the Backen</description>
     </item>
     <item>
       <title>Year 11 Season 4 Reveal Incoming</title>
@@ -36,7 +44,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/359550/view/678514508654707034</guid>
       <pubDate>Mon, 09 Nov 2026 14:00:34 +0000</pubDate>
       <category>Tom Clancy's Rainbow Six Siege</category>
-      <description>&lt;div class="bb_h2"&gt;A New Season Is Approaching&lt;/div&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/8328525/93fab478b7ca851ad2d9107f224292d1584213c0.png" /&gt;&lt;br /&gt;The next chapter of Rainbow Six Siege is almost here.&lt;br /&gt;&lt;br /&gt;New gameplay updates, competitive improvements, and fresh opportunities are on the horizon. Whether you're climbing the Ranked ladder or coordinating with your squad, the upcoming season will introduce meaningful changes designed to strengthen the Siege experien</description>
+      <description>&lt;div class="bb_h2"&gt;A New Season Is Approaching&lt;/div&gt;&lt;br /&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/8328525/93fab478b7ca851ad2d9107f224292d1584213c0.png" /&gt;&lt;br /&gt;The next chapter of Rainbow Six Siege is almost here.&lt;br /&gt;&lt;br /&gt;New gameplay updates, competitive improvements, and fresh opportunities are on the horizon. Whether you're climbing the Ranked ladder or coordinating with your squad, the upcoming season will introduce meaningful changes designed to strengthen the Siege experien</description>
     </item>
     <item>
       <title>Apology &amp; Next Steps on Yi Sang and Don Quixote's JP Translation Changes</title>
@@ -52,13 +60,13 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/711165768310456584</guid>
       <pubDate>Mon, 09 Nov 2026 09:21:33 +0000</pubDate>
       <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/8404fcbd14ab0e205ddcf5c1c8f5f649d9907579.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We’re updating rendering! This will bring interesting new effects to the game, some of which we’ll discuss today.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Snow, dirt and dust on tanks&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Snow, dirt and dust on tanks&lt;/b&gt;&lt;/div&gt;&lt;div class="sha</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/8404fcbd14ab0e205ddcf5c1c8f5f649d9907579.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We’re updating rendering! This will bring interesting new effects to the game, some of which we’ll discuss today.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Snow, dirt and dust on tanks&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Snow, dirt and dust on tanks&lt;/b&gt;&lt;/div&gt;&lt;div class="sha</description>
     </item>
     <item>
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Mon, 09 Nov 2026 18:22:03 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 06:02:22 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -66,7 +74,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Mon, 09 Nov 2026 18:22:03 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 06:02:22 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -74,7 +82,7 @@
       <title>Flying High: Football Manager and Brighton extend partnership for the new season</title>
       <link>https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</guid>
-      <pubDate>Mon, 09 Nov 2026 18:22:03 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 06:02:22 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -82,7 +90,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Mon, 09 Nov 2026 18:22:03 +0000</pubDate>
+      <pubDate>Tue, 10 Nov 2026 06:02:22 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
