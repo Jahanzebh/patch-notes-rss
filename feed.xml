@@ -4,7 +4,7 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Wed, 11 Nov 2026 22:29:54 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 05:53:02 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Devoid of Liberty: 7.2.3</title>
@@ -20,7 +20,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/680766470739723361</guid>
       <pubDate>Tue, 10 Nov 2026 18:15:47 +0000</pubDate>
       <category>Apex Legends</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/38098458/9d73dfa006032b09820d62a26ef8fb982f44d3f4.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;ADJUSTED:&lt;/b&gt;&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Crypto's drone is now able to scan through glass&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Revive is no longer interrupted and canceled if drone timer ends&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph"&gt;&lt;i&gt;Dev note: This is the next</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/38098458/9d73dfa006032b09820d62a26ef8fb982f44d3f4.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;ADJUSTED:&lt;/b&gt;&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Crypto's drone is now able to scan through glass&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Revive is no longer interrupted and canceled if drone timer ends&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph"&gt;&lt;i&gt;Dev note: This is the next</description>
     </item>
     <item>
       <title>Developer Blog: November 2026</title>
@@ -44,7 +44,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/39210/view/710039868320776942</guid>
       <pubDate>Tue, 10 Nov 2026 10:41:08 +0000</pubDate>
       <category>Final Fantasy XIV</category>
-      <description>&lt;img src="https://clan.akamai.steamstatic.com/images/4459756/c360ce8a2ad7da2e42c503a2b6d31ca5c94701da.jpg" /&gt;&lt;br /&gt;&lt;br /&gt;Patch 7.58 introduces same-region player matchmaking to the North American and European data centers, as well as a number of adjustments to the Crucible of the Unbroken and a strengthened Echo effect in AAC Heavyweight Tier (Savage).&lt;br /&gt;&lt;br /&gt;&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fsqex.to%2FPBcLn%20style%3Dbutton" rel=" noopener" targ</description>
+      <description>&lt;img src="https://clan.fastly.steamstatic.com/images/4459756/c360ce8a2ad7da2e42c503a2b6d31ca5c94701da.jpg" /&gt;&lt;br /&gt;&lt;br /&gt;Patch 7.58 introduces same-region player matchmaking to the North American and European data centers, as well as a number of adjustments to the Crucible of the Unbroken and a strengthened Echo effect in AAC Heavyweight Tier (Savage).&lt;br /&gt;&lt;br /&gt;&lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fsqex.to%2FPBcLn%20style%3Dbutton" rel=" noopener" targ</description>
     </item>
     <item>
       <title>Item Sales Discontinuation and Changes Info</title>
@@ -71,12 +71,28 @@
       <description>&lt;div class="bb_h3"&gt;&lt;b&gt;Hello. This is Minseok Joo, Director of The First Descendant.&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We've been hearing a lot of concern from the community about the future of The First Descendant.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;With that in mind, we're reaching out to the community through this Dev Note to share the major improvements and plans we're currently working on.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;The Dev Team is currently pre</description>
     </item>
     <item>
+      <title>Notice: Additional Issues To Be Fixed in the Nov. 12th Scheduled Update</title>
+      <link>https://store.steampowered.com/news/app/1973530/view/690899935132909834</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1973530/view/690899935132909834</guid>
+      <pubDate>Thu, 12 Nov 2026 02:47:33 +0000</pubDate>
+      <category>Limbus Company</category>
+      <description>Hello, this is Project Moon.&lt;br /&gt;&lt;br /&gt;We would like to inform you of additional issues that will be fixed in the Scheduled Update on Nov. 12th (Thu) at 12:00 (KST).&lt;br /&gt;&lt;br /&gt;Please refer below for details.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt; Additional Issues To Be Fixed in the Scheduled Update &gt;&lt;br /&gt;&lt;br /&gt;▶ Fixed an issue where a certain Identity was not counted toward a "Mirror Projection / Achievements - Teams (Loadout)" achievement  &lt;br /&gt;→ Relevant Achievement: Clear Mirror Dungeon at Floor 5 or higher</description>
+    </item>
+    <item>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://store.steampowered.com/news/app/730/view/687522235410284761</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/730/view/687522235410284761</guid>
+      <pubDate>Wed, 11 Nov 2026 23:03:20 +0000</pubDate>
+      <category>Counter-Strike 2</category>
+      <description>&lt;p class="bb_paragraph"&gt;\[ ANIMATION ]&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed some cases of popping and glitching when switching weapons and reloading at extreme angles&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph"&gt;\[ MISC ]&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed bot pathing issue in Retakes game mode&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed a rendering hang on DX11&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Improved avx / avx512 instruction set detection&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="b</description>
+    </item>
+    <item>
       <title>Eagle’s Shadow: New Rendering! Part 2</title>
       <link>https://store.steampowered.com/news/app/236390/view/711165605954191603</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/711165605954191603</guid>
       <pubDate>Wed, 11 Nov 2026 16:07:03 +0000</pubDate>
       <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;Today we’re having a deeper look at War Thunder’s new renderer, covering light, shadows, and  metal reflections.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Local Tone Mapping: Balancing Exposure&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;Before / After&lt;/p&gt;[carousel]&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/42a36dfd80e86bd97ccbfa79db2c7aebdf6b0fdb.jpg" /&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/c1aec2d3d020f2352874591e2d949cd4ee569dbf</description>
+      <description>&lt;p class="bb_paragraph"&gt;Today we’re having a deeper look at War Thunder’s new renderer, covering light, shadows, and  metal reflections.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Local Tone Mapping: Balancing Exposure&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;Before / After&lt;/p&gt;[carousel]&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/42a36dfd80e86bd97ccbfa79db2c7aebdf6b0fdb.jpg" /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/c1aec2d3d020f2352874591e2d949cd4ee569dbf</description>
     </item>
     <item>
       <title>Meet the “Eagle’s Shadow” Major Update!</title>
@@ -84,7 +100,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/711165768310456545</guid>
       <pubDate>Wed, 11 Nov 2026 09:03:55 +0000</pubDate>
       <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/379a5c44cf9547a352ed4d1a17877c4913d9d501.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Eagle’s Shadow introduces a comprehensive selection of vehicles. The namesake of the update is inspired by the new F-15EX, which features excellent armament options and powerful engines. There’s also the modern Leopard 2A8 equipped with Trophy APS and the Second World War Fulmar Mk.II with 8,000 rounds of ammunition, along with the Su-15</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/379a5c44cf9547a352ed4d1a17877c4913d9d501.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Eagle’s Shadow introduces a comprehensive selection of vehicles. The namesake of the update is inspired by the new F-15EX, which features excellent armament options and powerful engines. There’s also the modern Leopard 2A8 equipped with Trophy APS and the Second World War Fulmar Mk.II with 8,000 rounds of ammunition, along with the Su-15</description>
     </item>
     <item>
       <title>11/11 Hotfix</title>
@@ -108,7 +124,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/711165768310456539</guid>
       <pubDate>Tue, 10 Nov 2026 14:43:08 +0000</pubDate>
       <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/48e41bcbb91ebbe3aa5b41493e7ca1e31021784a.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Hey everyone! In addition to refinements in the modeling of directional infrared countermeasures (DIRCM), improvements to the CCRP interface, and the introduction of cluster bombs, the Eagle’s Shadow update will bring several further enhancements to aircraft. Let’s take a look!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;&lt;b&gt;Aiming </description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/48e41bcbb91ebbe3aa5b41493e7ca1e31021784a.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Hey everyone! In addition to refinements in the modeling of directional infrared countermeasures (DIRCM), improvements to the CCRP interface, and the introduction of cluster bombs, the Eagle’s Shadow update will bring several further enhancements to aircraft. Let’s take a look!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;&lt;b&gt;Aiming </description>
     </item>
     <item>
       <title>H-39: The Ephemeral Giant</title>
@@ -116,7 +132,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/711165768310456535</guid>
       <pubDate>Tue, 10 Nov 2026 09:02:51 +0000</pubDate>
       <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/fcb8654a53813c9ec19ff58c67ca3455c7031588.gif" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Hi everyone! Today we’re covering Germany’s huge battleship project. H-39 will be the new top rank ship in the German Bluewater fleet in the upcoming Eagle’s Shadow major update!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_table"&gt;&lt;div class="bb_table_tr"&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;H-</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/fcb8654a53813c9ec19ff58c67ca3455c7031588.gif" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Hi everyone! Today we’re covering Germany’s huge battleship project. H-39 will be the new top rank ship in the German Bluewater fleet in the upcoming Eagle’s Shadow major update!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_table"&gt;&lt;div class="bb_table_tr"&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;H-</description>
     </item>
     <item>
       <title>10.2.2b Backend Patch</title>
@@ -124,7 +140,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/381210/view/692025469726360068</guid>
       <pubDate>Mon, 09 Nov 2026 19:08:56 +0000</pubDate>
       <category>Dead by Daylight</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/11814497/bcd01d6327cc8a9810328d8b292b20d27059f69c.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Towards the end of October, we released a small balance patch using our new Backend Tunables system, adjusting The Executioner and The Good Guy. After working through your feedback and watching both of them in action, we’d like to further refine those changes. &lt;/p&gt;&lt;p class="bb_paragraph"&gt;First, let’s get a quick recap of what the Backen</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/11814497/bcd01d6327cc8a9810328d8b292b20d27059f69c.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Towards the end of October, we released a small balance patch using our new Backend Tunables system, adjusting The Executioner and The Good Guy. After working through your feedback and watching both of them in action, we’d like to further refine those changes. &lt;/p&gt;&lt;p class="bb_paragraph"&gt;First, let’s get a quick recap of what the Backen</description>
     </item>
     <item>
       <title>Year 11 Season 4 Reveal Incoming</title>
@@ -132,7 +148,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/359550/view/678514508654707034</guid>
       <pubDate>Mon, 09 Nov 2026 14:00:34 +0000</pubDate>
       <category>Tom Clancy's Rainbow Six Siege</category>
-      <description>&lt;div class="bb_h2"&gt;A New Season Is Approaching&lt;/div&gt;&lt;br /&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/8328525/93fab478b7ca851ad2d9107f224292d1584213c0.png" /&gt;&lt;br /&gt;The next chapter of Rainbow Six Siege is almost here.&lt;br /&gt;&lt;br /&gt;New gameplay updates, competitive improvements, and fresh opportunities are on the horizon. Whether you're climbing the Ranked ladder or coordinating with your squad, the upcoming season will introduce meaningful changes designed to strengthen the Siege experien</description>
+      <description>&lt;div class="bb_h2"&gt;A New Season Is Approaching&lt;/div&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/8328525/93fab478b7ca851ad2d9107f224292d1584213c0.png" /&gt;&lt;br /&gt;The next chapter of Rainbow Six Siege is almost here.&lt;br /&gt;&lt;br /&gt;New gameplay updates, competitive improvements, and fresh opportunities are on the horizon. Whether you're climbing the Ranked ladder or coordinating with your squad, the upcoming season will introduce meaningful changes designed to strengthen the Siege experien</description>
     </item>
     <item>
       <title>Apology &amp; Next Steps on Yi Sang and Don Quixote's JP Translation Changes</title>
@@ -143,18 +159,34 @@
       <description>Hello, this is Project Moon.&lt;br /&gt;&lt;br /&gt;We would like to apologize for the changes to Yi Sang's and Don Quixote's speech in the Japanese translation introduced with the Oct. 29th (KST) update, and explain how we will address them.&lt;br /&gt;&lt;br /&gt;On Oct. 29th, we revised the Japanese lines for the following characters to improve readability for the Managers.&lt;br /&gt;&lt;br /&gt;&lt;b&gt;1) Yi Sang&lt;/b&gt;Yi Sang's Japanese dialogue contained elements of classical grammar that we felt made some lines difficult to follow</description>
     </item>
     <item>
+      <title>2026, Nov. 12th Scheduled Update Notice</title>
+      <link>https://store.steampowered.com/news/app/1973530/view/667255671771627755</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1973530/view/667255671771627755</guid>
+      <pubDate>Mon, 09 Nov 2026 10:39:15 +0000</pubDate>
+      <category>Limbus Company</category>
+      <description>※ Some typos have been found in EN/JP notices and will be edited.&lt;br /&gt;※ (20:00) EN/JP proofreading has been completed. Notice images have been updated accordingly.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/7f46401cfa7f6755ade061cc61eb99d64b21eefa.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/bbf6e1a45eb85558205f21751ec22347695f9e70.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/02eb6562e94e10fe79c08f4e</description>
+    </item>
+    <item>
+      <title>New Event - The 10th Walpurgis Night</title>
+      <link>https://store.steampowered.com/news/app/1973530/view/667255671771627757</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1973530/view/667255671771627757</guid>
+      <pubDate>Mon, 09 Nov 2026 10:30:37 +0000</pubDate>
+      <category>Limbus Company</category>
+      <description>※ Some typos have been found in EN/JP notices and will be edited.&lt;br /&gt;※ (20:05)EN/JP proofreading has been completed. Notice images have been updated accordingly.&lt;br /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/cf8f31331d7c2d4adf1de10ec2178a5e7c77096f.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/f841b18b2da1b8bde58178421aaccc288f1076eb.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/f4ebe0338430f6c1e0472c2a77c0761</description>
+    </item>
+    <item>
       <title>Eagle’s Shadow: New Rendering! Part 1</title>
       <link>https://store.steampowered.com/news/app/236390/view/711165768310456584</link>
       <guid isPermaLink="true">https://store.steampowered.com/news/app/236390/view/711165768310456584</guid>
       <pubDate>Mon, 09 Nov 2026 09:21:33 +0000</pubDate>
       <category>War Thunder</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/4649813/8404fcbd14ab0e205ddcf5c1c8f5f649d9907579.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We’re updating rendering! This will bring interesting new effects to the game, some of which we’ll discuss today.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Snow, dirt and dust on tanks&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Snow, dirt and dust on tanks&lt;/b&gt;&lt;/div&gt;&lt;div class="sha</description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/4649813/8404fcbd14ab0e205ddcf5c1c8f5f649d9907579.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We’re updating rendering! This will bring interesting new effects to the game, some of which we’ll discuss today.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Snow, dirt and dust on tanks&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Snow, dirt and dust on tanks&lt;/b&gt;&lt;/div&gt;&lt;div class="sha</description>
     </item>
     <item>
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Wed, 11 Nov 2026 22:29:54 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 05:53:02 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -162,7 +194,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Wed, 11 Nov 2026 22:29:54 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 05:53:02 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -170,7 +202,7 @@
       <title>Flying High: Football Manager and Brighton extend partnership for the new season</title>
       <link>https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</guid>
-      <pubDate>Wed, 11 Nov 2026 22:29:54 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 05:53:02 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -178,7 +210,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Wed, 11 Nov 2026 22:29:54 +0000</pubDate>
+      <pubDate>Thu, 12 Nov 2026 05:53:02 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -196,7 +228,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/1284210/view/696529069521502394</guid>
       <pubDate>Tue, 10 Nov 2026 19:00:01 +0000</pubDate>
       <category>Guild Wars 2</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/38608049/ae38b9a5e03cde1b3997c78f8303b5623c95513e.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;2026 Extra Life Donation Bundle&lt;/div&gt;&lt;p class="bb_paragraph"&gt;ArenaNet is back to the Extra Life campaign this year with a new bundle! The 2026 Extra Life Donation Bundle can be bought for 800 gems and will be available until December 1.&lt;br /&gt;&lt;br /&gt;It contains the following items:&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;5 Extra Life </description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/38608049/ae38b9a5e03cde1b3997c78f8303b5623c95513e.jpg" /&gt;&lt;/p&gt;&lt;div class="bb_h2"&gt;2026 Extra Life Donation Bundle&lt;/div&gt;&lt;p class="bb_paragraph"&gt;ArenaNet is back to the Extra Life campaign this year with a new bundle! The 2026 Extra Life Donation Bundle can be bought for 800 gems and will be available until December 1.&lt;br /&gt;&lt;br /&gt;It contains the following items:&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;5 Extra Life </description>
     </item>
     <item>
       <title>The New World vs. World Borderlands Map Beta Is Live!</title>
@@ -204,7 +236,7 @@
       <guid isPermaLink="true">https://store.steampowered.com/news/app/1284210/view/696529069521502396</guid>
       <pubDate>Tue, 10 Nov 2026 17:00:56 +0000</pubDate>
       <category>Guild Wars 2</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/38608049/d5f1988ede1e04be63365d9be078fbacca412ff0.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Greetings, &lt;i&gt;Guild Wars 2&lt;/i&gt; community,&lt;/p&gt;&lt;p class="bb_paragraph"&gt;The wait is over! Our first beta test for the new World vs. World borderlands map begins today!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Inspired by Ascalon before and during the Searing, this new battlefield brings one of Tyria's most iconic locations into World vs. World. For the </description>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/38608049/d5f1988ede1e04be63365d9be078fbacca412ff0.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Greetings, &lt;i&gt;Guild Wars 2&lt;/i&gt; community,&lt;/p&gt;&lt;p class="bb_paragraph"&gt;The wait is over! Our first beta test for the new World vs. World borderlands map begins today!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Inspired by Ascalon before and during the Searing, this new battlefield brings one of Tyria's most iconic locations into World vs. World. For the </description>
     </item>
     <item>
       <title>"Silk &amp; Silver" Dev Diary #10 - 2D Art &amp; Achievements</title>
