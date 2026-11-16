@@ -4,16 +4,8 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Sun, 15 Nov 2026 20:50:25 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 04:54:16 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>Apex Legends: Latest Update 11/12/2026</title>
-      <link>https://store.steampowered.com/news/app/1172470/view/708914425087656297</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/708914425087656297</guid>
-      <pubDate>Thu, 12 Nov 2026 21:23:07 +0000</pubDate>
-      <category>Apex Legends</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/38098458/9d73dfa006032b09820d62a26ef8fb982f44d3f4.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;✅&lt;b&gt;FIXED:&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;-An exploit that allowed players to fire the Akimbo Wingman faster than intended&lt;/p&gt;&lt;p class="bb_paragraph"&gt;-A client crash issue triggered by incorrect dropship pathing&lt;/p&gt;</description>
-    </item>
     <item>
       <title>Operation Vital Signal Revealed</title>
       <link>https://store.steampowered.com/news/app/359550/view/684144535690805611</link>
@@ -82,7 +74,7 @@
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Sun, 15 Nov 2026 20:50:25 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 04:54:16 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -90,7 +82,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Sun, 15 Nov 2026 20:50:25 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 04:54:16 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -98,7 +90,7 @@
       <title>Flying High: Football Manager and Brighton extend partnership for the new season</title>
       <link>https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</guid>
-      <pubDate>Sun, 15 Nov 2026 20:50:25 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 04:54:16 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -106,17 +98,9 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Sun, 15 Nov 2026 20:50:25 +0000</pubDate>
+      <pubDate>Mon, 16 Nov 2026 04:54:16 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
-    </item>
-    <item>
-      <title>Clash With Your Fellow Players During Whitestrake’s Mayhem</title>
-      <link>https://store.steampowered.com/news/app/306130/view/679640936065532532</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/306130/view/679640936065532532</guid>
-      <pubDate>Thu, 12 Nov 2026 22:32:48 +0000</pubDate>
-      <category>Elder Scrolls Online</category>
-      <description>&lt;img src="https://esosslfiles-a.akamaihd.net/ape/uploads/2026/11/ef144277edde700aedc301649bd3bb11.jpg" /&gt;                                                                                     &lt;br /&gt;&lt;i&gt;Seize honor and glory in the name of the Whitestrake as you battle it out in Cyrodiil, the Imperial City, and Battlegrounds. Are you prepared to raise arms against your fellow players? &lt;/i&gt;&lt;br /&gt; &lt;div class="bb_h2"&gt;Whitestrake’s Mayhem&lt;/div&gt; The Whitestrake’s Mayhem in-game event returns on &lt;b&gt;Thursd</description>
     </item>
   </channel>
 </rss>
