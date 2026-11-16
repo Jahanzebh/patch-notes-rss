@@ -1,64 +1,69 @@
 {
   "seen": {
+    "a57d5e2cee48": {
+      "url": "https://store.steampowered.com/news/app/2074920/view/713417933269763278",
+      "slug": "the-first-descendant",
+      "ts": "2026-11-16T17:58:28.879995+00:00"
+    },
+    "b5cf4eb1f035": {
+      "url": "https://store.steampowered.com/news/app/2074920/view/713417933269763217",
+      "slug": "the-first-descendant",
+      "ts": "2026-11-16T17:58:28.880012+00:00"
+    },
+    "3d68d5087979": {
+      "url": "https://store.steampowered.com/news/app/2074920/view/713417933269763215",
+      "slug": "the-first-descendant",
+      "ts": "2026-11-16T17:58:28.880016+00:00"
+    },
+    "07e0d94d82fd": {
+      "url": "https://store.steampowered.com/news/app/227300/view/681892966116098344",
+      "slug": "euro-truck-simulator-2",
+      "ts": "2026-11-16T17:58:28.880019+00:00"
+    },
+    "e4daf1ad01a1": {
+      "url": "https://store.steampowered.com/news/app/394360/view/684144008188920528",
+      "slug": "hearts-of-iron-iv",
+      "ts": "2026-11-16T17:58:28.880022+00:00"
+    },
     "2dc88483d8b9": {
       "url": "https://store.steampowered.com/news/app/359550/view/684144535690805611",
       "slug": "rainbow-six-siege",
-      "ts": "2026-11-16T04:54:16.513412+00:00"
+      "ts": "2026-11-16T17:58:28.880025+00:00"
     },
     "63c9fddd35a5": {
       "url": "https://store.steampowered.com/news/app/2868840/view/708914425087656682",
       "slug": "slay-the-spire-2",
-      "ts": "2026-11-16T04:54:16.513429+00:00"
+      "ts": "2026-11-16T17:58:28.880028+00:00"
     },
     "1d3498519c80": {
       "url": "https://store.steampowered.com/news/app/227300/view/681892849095016851",
       "slug": "euro-truck-simulator-2",
-      "ts": "2026-11-16T04:54:16.513432+00:00"
+      "ts": "2026-11-16T17:58:28.880032+00:00"
     },
     "f2de8d8ac958": {
       "url": "https://store.steampowered.com/news/app/236390/view/681892966116098180",
       "slug": "war-thunder",
-      "ts": "2026-11-16T04:54:16.513434+00:00"
-    },
-    "6747365cc3a6": {
-      "url": "https://store.steampowered.com/news/app/221100/view/712292033362920130",
-      "slug": "dayz",
-      "ts": "2026-11-16T04:54:16.513436+00:00"
-    },
-    "5a847ceb689e": {
-      "url": "https://store.steampowered.com/news/app/236390/view/681892849095016771",
-      "slug": "war-thunder",
-      "ts": "2026-11-16T04:54:16.513438+00:00"
-    },
-    "0f71d4a7678f": {
-      "url": "https://store.steampowered.com/news/app/236390/view/681892966116098064",
-      "slug": "war-thunder",
-      "ts": "2026-11-16T04:54:16.513440+00:00"
-    },
-    "73214071f6dc": {
-      "url": "https://store.steampowered.com/news/app/236390/view/681892849095016767",
-      "slug": "war-thunder",
-      "ts": "2026-11-16T04:54:16.513442+00:00"
+      "ts": "2026-11-16T17:58:28.880036+00:00"
     },
     "3f1c7aab9ff4": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-11-16T04:54:16.513445+00:00"
+      "ts": "2026-11-16T17:58:28.880039+00:00"
     },
     "95cc965af55e": {
       "url": "https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10",
       "slug": "ea-sports-fc-26",
-      "ts": "2026-11-16T04:54:16.513447+00:00"
+      "ts": "2026-11-16T17:58:28.880042+00:00"
     },
     "6c57154b53d1": {
       "url": "https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season",
       "slug": "football-manager-26",
-      "ts": "2026-11-16T04:54:16.513449+00:00"
+      "ts": "2026-11-16T17:58:28.880045+00:00"
     },
     "35067046de1a": {
       "url": "https://www.footballmanager.com/news/fm26-international-management-update-now-live",
       "slug": "football-manager-26",
-      "ts": "2026-11-16T04:54:16.513451+00:00"
+      "ts": "2026-11-16T17:58:28.880048+00:00"
     }
   }
 }
