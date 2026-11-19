@@ -4,8 +4,24 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Wed, 18 Nov 2026 16:57:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 06:01:14 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Apex Legends: Latest Update 11/16/2026</title>
+      <link>https://store.steampowered.com/news/app/1172470/view/680767470935474654</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/680767470935474654</guid>
+      <pubDate>Wed, 18 Nov 2026 23:57:13 +0000</pubDate>
+      <category>Apex Legends</category>
+      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/38098458/c52c1d115036fc56ac832bf9f3764e3d52e89aa3.jpg" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;FIXED:&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Resolved an issue causing Alter, Seer and Wattson Upgrades being misplaced in their upgrade trees.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>7.42 Gameplay Update</title>
+      <link>https://store.steampowered.com/news/app/570/view/689773669992367212</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/570/view/689773669992367212</guid>
+      <pubDate>Wed, 18 Nov 2026 20:00:46 +0000</pubDate>
+      <category>Dota 2</category>
+      <description>&lt;img src="https://clan.fastly.steamstatic.com/images/3703047/adf1013ad1d68cac20ef37fe8bdb5282c3d9c245/english.png" /&gt;&lt;br /&gt;&lt;br /&gt;&lt;p class="bb_paragraph"&gt;Patch 7.42 is out now and you can check out the patch notes &lt;a class="bb_link" href="https://www.dota2.com/patches/7.42" rel="" target="_blank"&gt;here&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;In addition, we've made the following improvements and bug fixes:&lt;br /&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt; Added functionality to bind hotkeys for individual abilities on Invoker's Invoked Spells</description>
+    </item>
     <item>
       <title>The Road to Evercold Promotion Has Begun!</title>
       <link>https://store.steampowered.com/news/app/39210/view/669507836901852894</link>
@@ -63,12 +79,12 @@
       <description>&lt;div class="bb_h3"&gt;&lt;b&gt;Greetings, Descendants! &lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Previously, the system was structured so that Ultimate Weapons acquired through the Battle Pass could be re-acquired after a certain period via the NPC Deslin Limited Weapon Trade Shop.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;However, starting with the introduction of Transcendent Weapons in Season 4, Ultimate Weapons will no longer be provided through the Battle Pass,&lt;/p&gt;&lt;p class="bb_paragraph"&gt;which </description>
     </item>
     <item>
-      <title>(Completed) Server Maintenance Notice (11.16(Mon) 21:00 – 11.17(Tue) 03:00 PST)</title>
-      <link>https://store.steampowered.com/news/app/2074920/view/713417933269763215</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/2074920/view/713417933269763215</guid>
-      <pubDate>Mon, 16 Nov 2026 05:00:04 +0000</pubDate>
-      <category>The First Descendant</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;b&gt;# PST 11.17.2026(Tue) 03:00 – The server has opened early.&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;&lt;b&gt;Greetings, Descendants.&lt;/b&gt;&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We'll be having server maintenance.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;■ Maintenance Schedule&lt;/b&gt;&lt;/p&gt;&lt;div class="bb_table"&gt;&lt;div class="bb_table_tr"&gt;&lt;div class="bb_table_td"&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Timezone&lt;/b&gt;&lt;/p&gt;&lt;/div&gt;&lt;div class="bb_table_td"&gt;&lt;p</description>
+      <title>Counter-Strike 2 Update</title>
+      <link>https://store.steampowered.com/news/app/730/view/694278269818634559</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/730/view/694278269818634559</guid>
+      <pubDate>Thu, 19 Nov 2026 00:57:59 +0000</pubDate>
+      <category>Counter-Strike 2</category>
+      <description>&lt;p class="bb_paragraph"&gt;\[ MAPS ]&lt;/p&gt;&lt;p class="bb_paragraph"&gt;Cobblestone&lt;/p&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed some walkable ledges in long A&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed map issue that was loading an empty skybox&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed an audio blocker issue by mid/A&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Added a grenade clip to assault van bumper&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Fixed various gaps in the world&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p class="bb_paragraph</description>
     </item>
     <item>
       <title>Update 2.61.0.26</title>
@@ -191,10 +207,18 @@
       <description>&lt;b&gt;Salutări! Aici &lt;i&gt;Alex&lt;/i&gt;!&lt;/b&gt; Today, I will be talking about art, aesthetics, icons, music, and other art-related things. Ever since I started working on To The Bitter End, I’ve made it my goal to create as many custom icons as possible, and below I will showcase a few of them!&lt;br /&gt;&lt;br /&gt;Together with Mari and Norrman a lot of research has been put into the creation of the focus tree and the content in and around it. I myself have played a significant part in the research, being the one cl</description>
     </item>
     <item>
+      <title>2026, Nov. 19th Scheduled Update Notice</title>
+      <link>https://store.steampowered.com/news/app/1973530/view/690899935132910597</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1973530/view/690899935132910597</guid>
+      <pubDate>Mon, 16 Nov 2026 08:59:15 +0000</pubDate>
+      <category>Limbus Company</category>
+      <description>&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/a344d6c5dc10aeb87b27c24d562798edfc9163dc.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/929e3ef9c0535ca3fb7ba43ad87a753300ac25f4.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/97d79763b747e0079e7cf2298b2b062ee8e75f82.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steamstatic.com/images/43587230/f2d76650accc4dfb019e1e9f1542fc87da5bcd32.png" /&gt;&lt;br /&gt;&lt;img src="https://clan.fastly.steams</description>
+    </item>
+    <item>
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Wed, 18 Nov 2026 16:57:53 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 06:01:14 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -202,7 +226,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Wed, 18 Nov 2026 16:57:53 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 06:01:14 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -210,7 +234,7 @@
       <title>Flying High: Football Manager and Brighton extend partnership for the new season</title>
       <link>https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</guid>
-      <pubDate>Wed, 18 Nov 2026 16:57:53 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 06:01:14 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -218,7 +242,7 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Wed, 18 Nov 2026 16:57:53 +0000</pubDate>
+      <pubDate>Thu, 19 Nov 2026 06:01:14 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
