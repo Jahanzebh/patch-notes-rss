@@ -4,16 +4,8 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Sun, 22 Nov 2026 21:36:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 05:54:57 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>An Update from the Anti-Cheat Team - 11/19/2026</title>
-      <link>https://store.steampowered.com/news/app/1172470/view/680767470935475032</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1172470/view/680767470935475032</guid>
-      <pubDate>Thu, 19 Nov 2026 23:45:07 +0000</pubDate>
-      <category>Apex Legends</category>
-      <description>&lt;p class="bb_paragraph"&gt;&lt;img src="https://clan.akamai.steamstatic.com/images/38098458/0d7c5d1311e5ddb8524c3c2d938c02b919efe29e.png" /&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Anti-Cheat Update&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;We want to acknowledge two issues that recently impacted some players.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;An update deployed yesterday inadvertently caused approximately 1,000 players to be incorrectly banned. We quickly identified the issue, disabled the affected detection, and have since rev</description>
-    </item>
     <item>
       <title>PUBG College Royale: Fall 2026 Grand Finals is LIVE!</title>
       <link>https://store.steampowered.com/news/app/578080/view/719048067771270223</link>
@@ -58,7 +50,7 @@
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Sun, 22 Nov 2026 21:36:09 +0000</pubDate>
+      <pubDate>Mon, 23 Nov 2026 05:54:57 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -66,7 +58,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Sun, 22 Nov 2026 21:36:09 +0000</pubDate>
+      <pubDate>Mon, 23 Nov 2026 05:54:57 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -74,7 +66,7 @@
       <title>Flying High: Football Manager and Brighton extend partnership for the new season</title>
       <link>https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</guid>
-      <pubDate>Sun, 22 Nov 2026 21:36:09 +0000</pubDate>
+      <pubDate>Mon, 23 Nov 2026 05:54:57 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -82,17 +74,9 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Sun, 22 Nov 2026 21:36:09 +0000</pubDate>
+      <pubDate>Mon, 23 Nov 2026 05:54:57 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
-    </item>
-    <item>
-      <title>Viractal v1.5.0 Release Notes</title>
-      <link>https://store.steampowered.com/news/app/2909580/view/695400360681933333</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/2909580/view/695400360681933333</guid>
-      <pubDate>Fri, 20 Nov 2026 01:07:03 +0000</pubDate>
-      <category>Viractal: Will You Trust Your Party?</category>
-      <description>&lt;p class="bb_paragraph"&gt;Hello, everyone!&lt;br /&gt;We're the development team behind &lt;i&gt;Viractal&lt;/i&gt;.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;b&gt;Our 7th Major Update, Version 1.5.0, is now live!&lt;/b&gt;&lt;/p&gt;&lt;p class="bb_paragraph"&gt;In this update, the gateway to the world of &lt;i&gt;BAROQUE&lt;/i&gt; opens once again!&lt;/p&gt;&lt;p class="bb_paragraph"&gt;As part of our second &lt;i&gt;BAROQUE&lt;/i&gt; collaboration, a new playable character, &lt;b&gt;Archangel&lt;/b&gt;, joins the adventure! &lt;b&gt;And that's not all!&lt;/b&gt; A brand-new stage, &lt;b&gt;"Distorted Delusion,"&lt;</description>
     </item>
   </channel>
 </rss>
