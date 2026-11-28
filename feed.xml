@@ -4,7 +4,7 @@
     <title>Jay Respawns — Patch Notes (Official Sources Only)</title>
     <link>https://jayrespawns.com</link>
     <description>Official patch notes from developer and publisher sources. No press outlets. Updated daily.</description>
-    <lastBuildDate>Fri, 27 Nov 2026 17:52:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 06:26:37 +0000</lastBuildDate>
     <atom:link href="https://jahanzebh.github.io/patch-notes-rss/feed.xml" rel="self" type="application/rss+xml"/>
     <item>
       <title>Competitive Integrity Update: Modified PlayStation 4 Consoles</title>
@@ -71,12 +71,12 @@
       <description>&lt;img src="https://clan.fastly.steamstatic.com/images/4459756/d1b3dc00979e11adc2a18912982e7561d560845b.png" /&gt;&lt;br /&gt;&lt;br /&gt;To help alleviate server congestion following the release of Patch 8.0, we will be enabling cross-region Data Center Travel between the North American and European data centers during scheduled maintenance on Tuesday, December 1, 2026.&lt;br /&gt;&lt;br /&gt;&lt;div class="bb_h3"&gt;Cross-region Travel Available Beginning Tuesday, December 1, 2026:&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt; Japanese data cent</description>
     </item>
     <item>
-      <title>7.42a Gameplay Patch</title>
-      <link>https://store.steampowered.com/news/app/570/view/689774670193362169</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/570/view/689774670193362169</guid>
-      <pubDate>Tue, 24 Nov 2026 23:39:04 +0000</pubDate>
-      <category>Dota 2</category>
-      <description>Patch 7.42a is out now and you can check out the patch notes &lt;a class="bb_link" href="https://www.dota2.com/patches/7.42a" rel="" target="_blank"&gt;here&lt;/a&gt;.&lt;br /&gt;&lt;br /&gt;In addition, we've recently addressed the following issues:&lt;br /&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt; Fixed a server crash related to the Tormentor dying&lt;br /&gt;&lt;/li&gt;&lt;li&gt; Fixed a crash that sometimes occurred when building Ristul's Devotion&lt;br /&gt;&lt;/li&gt;&lt;li&gt; Fixed a server crash that could happen when Kez's Grappling Claw is reflected&lt;br /&gt;&lt;/li&gt;&lt;li&gt; </description>
+      <title>Minor Update - 11-27-2026</title>
+      <link>https://store.steampowered.com/news/app/1422450/view/680768104678033231</link>
+      <guid isPermaLink="true">https://store.steampowered.com/news/app/1422450/view/680768104678033231</guid>
+      <pubDate>Sat, 28 Nov 2026 02:33:46 +0000</pubDate>
+      <category>Deadlock</category>
+      <description>&lt;p class="bb_paragraph"&gt;- Apollo: Riposte - Now procs on melee hits&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Apollo: Riposte - Cooldown reduced from 22s to 20s&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Apollo: Riposte - T2 debuff duration increased from +1s to +1.25s&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Baba: Base bullet resistance increased from -7% to -4%&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Baba: Threadsap - Cooldown reduced from 28s to 26s&lt;/p&gt;&lt;p class="bb_paragraph"&gt;- Baba: Threadsap - Spirit Damage Per Bullet increased from 12 + 0</description>
     </item>
     <item>
       <title>VN20: A Big Plus!</title>
@@ -215,18 +215,10 @@
       <description>&lt;div class="bb_h1"&gt;Hello Heisters&lt;/div&gt;&lt;p class="bb_paragraph"&gt;We've got some fixes today to resolve some issues from the previous update.&lt;/p&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h1"&gt;&lt;b&gt;PAYDAY 2: Update 249.1 Changelog&lt;/b&gt;&lt;/div&gt;&lt;div class="bb_h2"&gt;Download Size: 61MB&lt;/div&gt;&lt;p class="bb_paragraph"&gt;&lt;/p&gt;&lt;div class="bb_h3"&gt;Mod Menu&lt;/div&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Improved small details on the interface to be more inline with other menus&lt;/p&gt;&lt;/li&gt;&lt;li&gt;&lt;p class="bb_paragraph"&gt;Impr</description>
     </item>
     <item>
-      <title>Beta Patch Notes - v0.114.0</title>
-      <link>https://store.steampowered.com/news/app/2868840/view/680768104678031363</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/2868840/view/680768104678031363</guid>
-      <pubDate>Wed, 25 Nov 2026 01:42:13 +0000</pubDate>
-      <category>Slay the Spire 2</category>
-      <description>Thank you for all of your feedback over the past couple of weeks on our BIG beta patch! This beta patch is a mostly Fool-centric one, with lots of reworks, changes, nerfs, buffs, and even a brand new card! There are also a few art additions and tons of bug fixes. We'll be focusing more on polishing up Dread in the future, so keep the feedback coming!&lt;br /&gt;&lt;br /&gt;&lt;div class="bb_h3"&gt;CONTENT &amp; BALANCE:&lt;/div&gt;&lt;b&gt;Enemies:&lt;/b&gt;&lt;br /&gt;&lt;ul class="bb_ul"&gt;&lt;li&gt;Changed &lt;b&gt;Hard to Kill&lt;/b&gt; power: now only counts</description>
-    </item>
-    <item>
       <title>News ArticleAugust 28, 2026Football Ultimate Team™ 26 - Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-pre-season</guid>
-      <pubDate>Fri, 27 Nov 2026 17:52:12 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 06:26:37 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -234,7 +226,7 @@
       <title>News ArticleAugust 13, 2026Football Ultimate Team™ 26 - World Tour Season 10: Pre-Season</title>
       <link>https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</link>
       <guid isPermaLink="true">https://www.ea.com/games/ea-sports-fc/fc-26/news/fc-26-season-10</guid>
-      <pubDate>Fri, 27 Nov 2026 17:52:12 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 06:26:37 +0000</pubDate>
       <category>EA SPORTS FC 26</category>
       <description></description>
     </item>
@@ -242,7 +234,7 @@
       <title>Flying High: Football Manager and Brighton extend partnership for the new season</title>
       <link>https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/flying-high-football-manager-and-brighton-extend-partnership-new-season</guid>
-      <pubDate>Fri, 27 Nov 2026 17:52:12 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 06:26:37 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
     </item>
@@ -250,17 +242,9 @@
       <title>FM26 International Management Update Now Live</title>
       <link>https://www.footballmanager.com/news/fm26-international-management-update-now-live</link>
       <guid isPermaLink="true">https://www.footballmanager.com/news/fm26-international-management-update-now-live</guid>
-      <pubDate>Fri, 27 Nov 2026 17:52:12 +0000</pubDate>
+      <pubDate>Sat, 28 Nov 2026 06:26:37 +0000</pubDate>
       <category>Football Manager 26</category>
       <description></description>
-    </item>
-    <item>
-      <title>Black Friday 2026: Guild Wars Franchise Savings</title>
-      <link>https://store.steampowered.com/news/app/1284210/view/696530069632321304</link>
-      <guid isPermaLink="true">https://store.steampowered.com/news/app/1284210/view/696530069632321304</guid>
-      <pubDate>Tue, 24 Nov 2026 18:00:59 +0000</pubDate>
-      <category>Guild Wars 2</category>
-      <description>&lt;p class="bb_paragraph"&gt;During the 2026 Black Friday Sale, take advantage of savings on the entire &lt;i&gt;Guild Wars&lt;/i&gt;®&lt;i&gt; &lt;/i&gt;franchise! This sale includes the new bundles we &lt;a class="bb_link" href="https://steamcommunity.com/linkfilter/?u=https%3A%2F%2Fwww.guildwars2.com%2Fnews%2Fliving-world-seasons-are-now-included-with-guild-wars-2-expansions%2F" rel=" noopener" target="_blank"&gt;&lt;u&gt;recently announced&lt;/u&gt;&lt;/a&gt;, which now offer more content than ever. Purchase through the &lt;i&gt;Guild Wars 2&lt;/i&gt;®&lt;i&gt;</description>
     </item>
     <item>
       <title>Phasmophobia v0.20.0.0 - Compatibility Fix</title>
